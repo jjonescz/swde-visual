@@ -1,0 +1,10 @@
+# Ignore everything except SWDE data.
+/*
+!/.gitignore
+!/swde/
+/swde/*
+!/swde/data/
+/swde/data/*/*.*
+!/swde/data/*/*.htm
+!/swde/data/*/*.json
+!/swde/data/groundtruth/*/*.txt
