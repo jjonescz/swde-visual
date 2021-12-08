@@ -1,5 +1,6 @@
 # Ignore everything except SWDE data.
 /*
+!/.gitattributes
 !/.gitignore
 !/swde/
 /swde/*
