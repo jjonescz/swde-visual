@@ -3797,7 +3797,116 @@
                1093.125,
                574,
                5
-              ]
+              ],
+              "/span": {
+               "box": [
+                226,
+                1098.125,
+                0,
+                0
+               ],
+               "/table": {
+                "box": [
+                 226,
+                 1098.125,
+                 0,
+                 0
+                ],
+                "/text()": {
+                 "whiteSpace": true
+                },
+                "/tbody": {
+                 "box": [
+                  226,
+                  1098.125,
+                  0,
+                  0
+                 ],
+                 "/tr": {
+                  "box": [
+                   226,
+                   1098.125,
+                   0,
+                   0
+                  ],
+                  "/td": {
+                   "box": [
+                    226,
+                    1098.125,
+                    0,
+                    0
+                   ],
+                   "/a": {
+                    "id": "BVSubmissionURL",
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     226,
+                     1098.125,
+                     0,
+                     0
+                    ]
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     226,
+                     1098.125,
+                     0,
+                     0
+                    ]
+                   }
+                  },
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()": {
+                  "whiteSpace": true
+                 }
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true,
+                "box": [
+                 226,
+                 1098.125,
+                 0,
+                 0
+                ]
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/a": {
+                "id": "BVSubmissionLink",
+                "textDecoration": "underline solid rgb(0, 0, 238)",
+                "color": "#0000eeff",
+                "cursor": "pointer"
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/text()[2]": {
+               "whiteSpace": true,
+               "box": [
+                226,
+                1098.125,
+                0,
+                0
+               ]
+              }
              },
              "/div[2]": {
               "id": "BVdefaultURL",
