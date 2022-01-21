@@ -5,7 +5,7 @@
    0,
    0,
    800,
-   1911.40625
+   2387.875
   ],
   "/head": {
    "/text()[1]": {
@@ -82,17 +82,8 @@
     8,
     8,
     784,
-    1887.40625
+    2371.875
    ],
-   "/iframe": {
-    "id": "_yuiResizeMonitor",
-    "box": [
-     0,
-     -33,
-     32,
-     32
-    ]
-   },
    "/text()[1]": {
     "whiteSpace": true
    },
@@ -125,10 +116,42 @@
     "/text()": {}
    },
    "/noscript": {
-    "/text()": {}
+    "box": [
+     8,
+     2365.875,
+     1,
+     17
+    ],
+    "/a": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      8,
+      2365.875,
+      1,
+      17
+     ],
+     "/img": {
+      "color": "#0000eeff",
+      "cursor": "pointer",
+      "box": [
+       8,
+       2378.875,
+       1,
+       1
+      ]
+     }
+    }
    },
    "/text()[8]": {
-    "whiteSpace": true
+    "whiteSpace": true,
+    "box": [
+     8,
+     2378.875,
+     0,
+     0
+    ]
    },
    "/text()[9]": {
     "whiteSpace": true
@@ -157,7 +180,7 @@
      8,
      8,
      784,
-     1887.40625
+     2370.875
     ],
     "/div": {
      "id": "bd",
@@ -165,14 +188,14 @@
       8,
       8,
       784,
-      1887.40625
+      2370.875
      ],
      "/div": {
       "box": [
        8,
        8,
        784,
-       1887.40625
+       2370.875
       ],
       "/text()[1]": {
        "whiteSpace": true
@@ -2360,7 +2383,7 @@
         8,
         1911.40625,
         784,
-        0
+        467.46875
        ],
        "/text()[1]": {
         "whiteSpace": true
@@ -2371,19 +2394,18 @@
        "/div[1]": {
         "id": "rateJobPanel",
         "fontSize": 13,
-        "zIndex": "2",
         "box": [
-         438,
-         45,
-         208,
+         8,
+         1911.40625,
+         784,
          98
         ],
         "/div": {
          "fontSize": 13,
          "box": [
-          438,
-          45,
-          208,
+          8,
+          1911.40625,
+          784,
           98
          ],
          "/div": {
@@ -2391,18 +2413,18 @@
           "fontSize": 13,
           "backgroundColor": "#aaaaaaff",
           "box": [
-           438,
-           45,
-           208,
+           8,
+           1911.40625,
+           784,
            98
           ],
           "/div": {
            "fontSize": 13,
            "backgroundColor": "#eeeeeeff",
            "box": [
-            443,
-            50,
-            198,
+            13,
+            1916.40625,
+            774,
             88
            ],
            "/text()[1]": {
@@ -2415,49 +2437,30 @@
             "id": "rateJobSubmit",
             "fontSize": 13,
             "box": [
-             586.109375,
-             55,
+             732.109375,
+             1921.40625,
              45.140625,
              35.5
             ],
-            "/span": {
+            "/a": {
              "id": "rateJob",
              "fontSize": 13,
+             "textDecoration": "underline solid rgb(0, 0, 238)",
+             "color": "#0000eeff",
+             "cursor": "pointer",
              "box": [
-              586.109375,
-              74.5,
+              732.109375,
+              1940.90625,
               45.140625,
               15
              ],
-             "/span": {
-              "fontSize": 13,
+             "/text()": {
               "box": [
-               586.109375,
-               74.5,
-               45.140625,
+               731.109375,
+               1940.90625,
+               48,
                15
-              ],
-              "/a": {
-               "id": "rateJob-button",
-               "fontSize": 13,
-               "textDecoration": "underline solid rgb(0, 0, 238)",
-               "color": "#0000eeff",
-               "cursor": "pointer",
-               "box": [
-                586.109375,
-                74.5,
-                45.140625,
-                15
-               ],
-               "/text()": {
-                "box": [
-                 585.109375,
-                 74.5,
-                 48,
-                 15
-                ]
-               }
-              }
+              ]
              }
             }
            },
@@ -2465,17 +2468,17 @@
             "id": "rateJobChoices",
             "fontSize": 13,
             "box": [
-             443,
-             55,
-             133,
+             13,
+             1921.40625,
+             709,
              78
             ],
             "/ul": {
              "fontSize": 13,
              "box": [
-              443,
-              55,
-              133,
+              13,
+              1921.40625,
+              709,
               78
              ],
              "/text()[1]": {
@@ -2489,9 +2492,9 @@
               "textAlign": "left",
               "lineHeight": 26,
               "box": [
-               489.5,
-               55,
-               86.5,
+               59.5,
+               1921.40625,
+               662.5,
                26
               ],
               "/input": {
@@ -2500,8 +2503,8 @@
                "fontSize": 13,
                "cursor": "default",
                "box": [
-                494.5,
-                59,
+                64.5,
+                1925.40625,
                 13,
                 13
                ]
@@ -2512,8 +2515,8 @@
               "/text()[2]": {
                "whiteSpace": true,
                "box": [
-                510.5,
-                60,
+                80.5,
+                1926.40625,
                 3.25,
                 15
                ]
@@ -2524,15 +2527,15 @@
                "cursor": "default",
                "lineHeight": 26,
                "box": [
-                513.75,
-                60,
+                83.75,
+                1926.40625,
                 41.90625,
                 15
                ],
                "/text()": {
                 "box": [
-                 512.75,
-                 60,
+                 82.75,
+                 1926.40625,
                  44,
                  15
                 ]
@@ -2541,8 +2544,8 @@
               "/text()[3]": {
                "whiteSpace": true,
                "box": [
-                489.5,
-                55,
+                59.5,
+                1921.40625,
                 0,
                 0
                ]
@@ -2553,9 +2556,9 @@
               "textAlign": "left",
               "lineHeight": 26,
               "box": [
-               489.5,
-               81,
-               86.5,
+               59.5,
+               1947.40625,
+               662.5,
                26
               ],
               "/input": {
@@ -2564,8 +2567,8 @@
                "fontSize": 13,
                "cursor": "default",
                "box": [
-                494.5,
-                85,
+                64.5,
+                1951.40625,
                 13,
                 13
                ]
@@ -2576,8 +2579,8 @@
               "/text()[2]": {
                "whiteSpace": true,
                "box": [
-                510.5,
-                86,
+                80.5,
+                1952.40625,
                 3.25,
                 15
                ]
@@ -2588,15 +2591,15 @@
                "cursor": "default",
                "lineHeight": 26,
                "box": [
-                513.75,
-                86,
+                83.75,
+                1952.40625,
                 38.984375,
                 15
                ],
                "/text()": {
                 "box": [
-                 512.75,
-                 86,
+                 82.75,
+                 1952.40625,
                  41,
                  15
                 ]
@@ -2605,8 +2608,8 @@
               "/text()[3]": {
                "whiteSpace": true,
                "box": [
-                489.5,
-                81,
+                59.5,
+                1947.40625,
                 0,
                 0
                ]
@@ -2620,9 +2623,9 @@
               "textAlign": "left",
               "lineHeight": 26,
               "box": [
-               489.5,
-               107,
-               86.5,
+               59.5,
+               1973.40625,
+               662.5,
                26
               ],
               "/input": {
@@ -2631,8 +2634,8 @@
                "fontSize": 13,
                "cursor": "default",
                "box": [
-                494.5,
-                111,
+                64.5,
+                1977.40625,
                 13,
                 13
                ]
@@ -2643,8 +2646,8 @@
               "/text()[2]": {
                "whiteSpace": true,
                "box": [
-                510.5,
-                112,
+                80.5,
+                1978.40625,
                 3.25,
                 15
                ]
@@ -2655,15 +2658,15 @@
                "cursor": "default",
                "lineHeight": 26,
                "box": [
-                513.75,
-                112,
+                83.75,
+                1978.40625,
                 46.921875,
                 15
                ],
                "/text()": {
                 "box": [
-                 512.75,
-                 112,
+                 82.75,
+                 1978.40625,
                  49,
                  15
                 ]
@@ -2672,8 +2675,8 @@
               "/text()[3]": {
                "whiteSpace": true,
                "box": [
-                489.5,
-                107,
+                59.5,
+                1973.40625,
                 0,
                 0
                ]
@@ -2718,19 +2721,18 @@
        "/div[2]": {
         "id": "reportJobPanel",
         "fontSize": 13,
-        "zIndex": "2",
         "box": [
-         366,
-         45,
-         390,
+         8,
+         2009.40625,
+         784,
          349.46875
         ],
         "/div": {
          "fontSize": 13,
          "box": [
-          366,
-          45,
-          390,
+          8,
+          2009.40625,
+          784,
           349.46875
          ],
          "/div": {
@@ -2738,26 +2740,26 @@
           "fontSize": 13,
           "backgroundColor": "#aaaaaaff",
           "box": [
-           366,
-           45,
-           390,
+           8,
+           2009.40625,
+           784,
            349.46875
           ],
           "/div": {
            "fontSize": 13,
            "backgroundColor": "#eeeeeeff",
            "box": [
-            371,
-            50,
-            380,
+            13,
+            2014.40625,
+            774,
             339.46875
            ],
            "/form": {
             "fontSize": 13,
             "box": [
-             371,
-             55,
-             380,
+             13,
+             2019.40625,
+             774,
              329.46875
             ],
             "/text()[1]": {
@@ -2802,17 +2804,17 @@
              "id": "reportJobChoices",
              "fontSize": 13,
              "box": [
-              377.5,
-              55,
-              367,
+              19.5,
+              2019.40625,
+              761,
               130
              ],
              "/ul": {
               "fontSize": 13,
               "box": [
-               377.5,
-               55,
-               367,
+               19.5,
+               2019.40625,
+               761,
                130
               ],
               "/text()[1]": {
@@ -2826,9 +2828,9 @@
                "textAlign": "left",
                "lineHeight": 26,
                "box": [
-                424,
-                55,
-                320.5,
+                66,
+                2019.40625,
+                714.5,
                 26
                ],
                "/input": {
@@ -2837,8 +2839,8 @@
                 "fontSize": 13,
                 "cursor": "default",
                 "box": [
-                 429,
-                 59,
+                 71,
+                 2023.40625,
                  13,
                  13
                 ]
@@ -2849,8 +2851,8 @@
                "/text()[2]": {
                 "whiteSpace": true,
                 "box": [
-                 445,
-                 60,
+                 87,
+                 2024.40625,
                  3.25,
                  15
                 ]
@@ -2861,15 +2863,15 @@
                 "cursor": "default",
                 "lineHeight": 26,
                 "box": [
-                 448.25,
-                 60,
+                 90.25,
+                 2024.40625,
                  100.015625,
                  15
                 ],
                 "/text()": {
                  "box": [
-                  447.25,
-                  60,
+                  89.25,
+                  2024.40625,
                   102,
                   15
                  ]
@@ -2878,8 +2880,8 @@
                "/text()[3]": {
                 "whiteSpace": true,
                 "box": [
-                 424,
-                 55,
+                 66,
+                 2019.40625,
                  0,
                  0
                 ]
@@ -2890,9 +2892,9 @@
                "textAlign": "left",
                "lineHeight": 26,
                "box": [
-                424,
-                81,
-                320.5,
+                66,
+                2045.40625,
+                714.5,
                 26
                ],
                "/input": {
@@ -2901,8 +2903,8 @@
                 "fontSize": 13,
                 "cursor": "default",
                 "box": [
-                 429,
-                 85,
+                 71,
+                 2049.40625,
                  13,
                  13
                 ]
@@ -2913,8 +2915,8 @@
                "/text()[2]": {
                 "whiteSpace": true,
                 "box": [
-                 445,
-                 86,
+                 87,
+                 2050.40625,
                  3.25,
                  15
                 ]
@@ -2925,15 +2927,15 @@
                 "cursor": "default",
                 "lineHeight": 26,
                 "box": [
-                 448.25,
-                 86,
+                 90.25,
+                 2050.40625,
                  127.4375,
                  15
                 ],
                 "/text()": {
                  "box": [
-                  447.25,
-                  86,
+                  89.25,
+                  2050.40625,
                   129,
                   15
                  ]
@@ -2942,8 +2944,8 @@
                "/text()[3]": {
                 "whiteSpace": true,
                 "box": [
-                 424,
-                 81,
+                 66,
+                 2045.40625,
                  0,
                  0
                 ]
@@ -2957,9 +2959,9 @@
                "textAlign": "left",
                "lineHeight": 26,
                "box": [
-                424,
-                107,
-                320.5,
+                66,
+                2071.40625,
+                714.5,
                 26
                ],
                "/input": {
@@ -2968,8 +2970,8 @@
                 "fontSize": 13,
                 "cursor": "default",
                 "box": [
-                 429,
-                 111,
+                 71,
+                 2075.40625,
                  13,
                  13
                 ]
@@ -2980,8 +2982,8 @@
                "/text()[2]": {
                 "whiteSpace": true,
                 "box": [
-                 445,
-                 112,
+                 87,
+                 2076.40625,
                  3.25,
                  15
                 ]
@@ -2992,15 +2994,15 @@
                 "cursor": "default",
                 "lineHeight": 26,
                 "box": [
-                 448.25,
-                 112,
+                 90.25,
+                 2076.40625,
                  71.125,
                  15
                 ],
                 "/text()": {
                  "box": [
-                  447.25,
-                  112,
+                  89.25,
+                  2076.40625,
                   73,
                   15
                  ]
@@ -3009,8 +3011,8 @@
                "/text()[3]": {
                 "whiteSpace": true,
                 "box": [
-                 424,
-                 107,
+                 66,
+                 2071.40625,
                  0,
                  0
                 ]
@@ -3024,9 +3026,9 @@
                "textAlign": "left",
                "lineHeight": 26,
                "box": [
-                424,
-                133,
-                320.5,
+                66,
+                2097.40625,
+                714.5,
                 26
                ],
                "/input": {
@@ -3035,8 +3037,8 @@
                 "fontSize": 13,
                 "cursor": "default",
                 "box": [
-                 429,
-                 137,
+                 71,
+                 2101.40625,
                  13,
                  13
                 ]
@@ -3047,8 +3049,8 @@
                "/text()[2]": {
                 "whiteSpace": true,
                 "box": [
-                 445,
-                 138,
+                 87,
+                 2102.40625,
                  3.25,
                  15
                 ]
@@ -3059,15 +3061,15 @@
                 "cursor": "default",
                 "lineHeight": 26,
                 "box": [
-                 448.25,
-                 138,
+                 90.25,
+                 2102.40625,
                  145.515625,
                  15
                 ],
                 "/text()": {
                  "box": [
-                  447.25,
-                  138,
+                  89.25,
+                  2102.40625,
                   147,
                   15
                  ]
@@ -3076,8 +3078,8 @@
                "/text()[3]": {
                 "whiteSpace": true,
                 "box": [
-                 424,
-                 133,
+                 66,
+                 2097.40625,
                  0,
                  0
                 ]
@@ -3091,9 +3093,9 @@
                "textAlign": "left",
                "lineHeight": 26,
                "box": [
-                424,
-                159,
-                320.5,
+                66,
+                2123.40625,
+                714.5,
                 26
                ],
                "/input": {
@@ -3102,8 +3104,8 @@
                 "fontSize": 13,
                 "cursor": "default",
                 "box": [
-                 429,
-                 163,
+                 71,
+                 2127.40625,
                  13,
                  13
                 ]
@@ -3114,8 +3116,8 @@
                "/text()[2]": {
                 "whiteSpace": true,
                 "box": [
-                 445,
-                 164,
+                 87,
+                 2128.40625,
                  3.25,
                  15
                 ]
@@ -3126,15 +3128,15 @@
                 "cursor": "default",
                 "lineHeight": 26,
                 "box": [
-                 448.25,
-                 164,
+                 90.25,
+                 2128.40625,
                  29.609375,
                  15
                 ],
                 "/text()": {
                  "box": [
-                  448.25,
-                  164,
+                  90.25,
+                  2128.40625,
                   31,
                   15
                  ]
@@ -3143,8 +3145,8 @@
                "/text()[3]": {
                 "whiteSpace": true,
                 "box": [
-                 424,
-                 159,
+                 66,
+                 2123.40625,
                  0,
                  0
                 ]
@@ -3165,9 +3167,9 @@
              "id": "reportJobExplanation",
              "fontSize": 13,
              "box": [
-              377.5,
-              185,
-              367,
+              19.5,
+              2149.40625,
+              761,
               81.296875
              ],
              "/label": {
@@ -3175,15 +3177,15 @@
               "cursor": "default",
               "lineHeight": 13,
               "box": [
-               377.5,
-               185,
-               367,
+               19.5,
+               2149.40625,
+               761,
                26
               ],
               "/text()": {
                "box": [
-                376.5,
-                193.75,
+                18.5,
+                2158.15625,
                 271,
                 15
                ]
@@ -3199,9 +3201,9 @@
               "lineHeight": 15,
               "overflow": "auto",
               "box": [
-               377.5,
-               211,
-               369,
+               19.5,
+               2175.40625,
+               763,
                48.796875
               ]
              }
@@ -3213,32 +3215,32 @@
              "id": "reportJobSecurity",
              "fontSize": 13,
              "box": [
-              371,
-              266.296875,
-              380,
+              13,
+              2230.703125,
+              774,
               118.171875
              ],
              "/fieldset": {
               "fontSize": 13,
               "borderTop": "1px solid rgb(204, 204, 204)",
               "box": [
-               377.5,
-               266.296875,
-               367,
+               19.5,
+               2230.703125,
+               761,
                118.171875
               ],
               "/legend": {
                "fontSize": 13,
                "box": [
-                387.25,
-                266.296875,
+                29.25,
+                2230.703125,
                 47.328125,
                 16
                ],
                "/text()": {
                 "box": [
-                 389.25,
-                 266.296875,
+                 31.25,
+                 2230.703125,
                  44,
                  15
                 ]
@@ -3253,9 +3255,9 @@
               "/div": {
                "fontSize": 13,
                "box": [
-                387.25,
-                286.84375,
-                347.5,
+                29.25,
+                2251.25,
+                741.5,
                 89.5
                ],
                "/text()[1]": {
@@ -3271,16 +3273,16 @@
                 "border": "1px solid rgb(153, 153, 153)",
                 "overflow": "hidden",
                 "box": [
-                 387.25,
-                 286.84375,
+                 29.25,
+                 2251.25,
                  172,
                  62
                 ],
                 "/img": {
                  "fontSize": 13,
                  "box": [
-                  388.25,
-                  287.84375,
+                  30.25,
+                  2252.25,
                   170,
                   60
                  ]
@@ -3292,17 +3294,17 @@
                 "color": "#555555ff",
                 "lineHeight": 12,
                 "box": [
-                 567.25,
-                 286.84375,
-                 167.5,
-                 36
+                 209.25,
+                 2251.25,
+                 561.5,
+                 12
                 ],
                 "/text()": {
                  "box": [
-                  566.25,
-                  286.84375,
-                  167,
-                  35
+                  208.25,
+                  2251.25,
+                  425,
+                  11
                  ]
                 }
                },
@@ -3313,12 +3315,12 @@
                 "id": "reportCaptchaInput",
                 "fontSize": 13,
                 "box": [
-                 387.25,
-                 348.84375,
-                 347.5,
+                 29.25,
+                 2313.25,
+                 741.5,
                  27.5
                 ],
-                "/input": {
+                "/input[1]": {
                  "id": "captcha",
                  "fontFamily": "Arial",
                  "fontSize": 13,
@@ -3326,53 +3328,26 @@
                  "border": "1px solid rgb(136, 136, 136)",
                  "cursor": "text",
                  "box": [
-                  387.25,
-                  355.34375,
+                  29.25,
+                  2319.75,
                   172,
                   21
                  ]
                 },
-                "/span": {
+                "/input[2]": {
                  "id": "captchaSubmit",
+                 "fontFamily": "Arial",
                  "fontSize": 13,
+                 "textAlign": "center",
+                 "backgroundColor": "#efefefff",
+                 "border": "2px outset rgb(118, 118, 118)",
+                 "cursor": "default",
                  "box": [
-                  562.578125,
-                  358.34375,
+                  204.578125,
+                  2319.75,
                   81.21875,
-                  15
-                 ],
-                 "/span": {
-                  "fontSize": 13,
-                  "box": [
-                   562.578125,
-                   358.34375,
-                   81.21875,
-                   15
-                  ],
-                  "/button": {
-                   "id": "captchaSubmit-button",
-                   "fontFamily": "Arial",
-                   "fontSize": 13,
-                   "textAlign": "center",
-                   "backgroundColor": "#efefefff",
-                   "border": "2px outset rgb(118, 118, 118)",
-                   "cursor": "default",
-                   "box": [
-                    562.578125,
-                    355.34375,
-                    81.21875,
-                    21
-                   ],
-                   "/text()": {
-                    "box": [
-                     570.578125,
-                     358.34375,
-                     66,
-                     15
-                    ]
-                   }
-                  }
-                 }
+                  21
+                 ]
                 }
                },
                "/text()[4]": {
@@ -3428,19 +3403,18 @@
        "/div[3]": {
         "id": "reportJobPanelReported",
         "fontSize": 13,
-        "zIndex": "2",
         "box": [
-         405,
-         45,
-         351,
+         8,
+         2358.875,
+         784,
          20
         ],
         "/div": {
          "fontSize": 13,
          "box": [
-          405,
-          45,
-          351,
+          8,
+          2358.875,
+          784,
           20
          ],
          "/div": {
@@ -3448,27 +3422,27 @@
           "fontSize": 13,
           "backgroundColor": "#aaaaaaff",
           "box": [
-           405,
-           45,
-           351,
+           8,
+           2358.875,
+           784,
            20
           ],
           "/div": {
            "fontSize": 13,
            "backgroundColor": "#eeeeeeff",
            "box": [
-            410,
-            50,
-            341,
+            13,
+            2363.875,
+            774,
             10
            ],
            "/div": {
             "id": "reportReportedMessage",
             "fontSize": 13,
             "box": [
-             416.5,
-             55,
-             328,
+             19.5,
+             2368.875,
+             761,
              0
             ]
            },
@@ -3506,19 +3480,18 @@
        "/div[4]": {
         "id": "companyNetworkPanel",
         "fontSize": 13,
-        "zIndex": "2",
         "box": [
          8,
-         1911.40625,
-         260,
+         2378.875,
+         784,
          0
         ],
         "/div": {
          "fontSize": 13,
          "box": [
           8,
-          1911.40625,
-          260,
+          2378.875,
+          784,
           0
          ],
          "/ul": {
@@ -3527,8 +3500,8 @@
           "lineHeight": 20,
           "box": [
            8,
-           1911.40625,
-           260,
+           2378.875,
+           784,
            0
           ],
           "/text()": {
@@ -3572,20 +3545,20 @@
     }
    },
    "/div[2]": {
-    "id": "loginPanelDiv_c",
-    "zIndex": "2",
-    "box": [
-     399,
-     300,
-     2,
-     0
-    ],
-    "/div": {
-     "id": "loginPanelDiv",
+    "id": "loginPanelDiv",
+    "fontSize": 13,
+    "/text()[1]": {
+     "whiteSpace": true
+    },
+    "/text()[2]": {
+     "whiteSpace": true
+    },
+    "/div[1]": {
+     "fontSize": 13
+    },
+    "/div[2]": {
      "fontSize": 13,
-     "borderTop": "1px solid rgb(128, 128, 128)",
-     "borderBottom": "1px solid rgb(128, 128, 128)",
-     "zIndex": "1",
+     "textAlign": "left",
      "/text()[1]": {
       "whiteSpace": true
      },
@@ -3593,20 +3566,15 @@
       "whiteSpace": true
      },
      "/div[1]": {
-      "fontSize": 12,
+      "id": "loginError",
+      "fontSize": 13,
       "fontWeight": "700",
-      "backgroundImage": "url(\"http://assets.dice.com/yui/build/assets/skins/sam/sprite.png\")",
-      "borderLeft": "1px solid rgb(128, 128, 128)",
-      "borderRight": "1px solid rgb(128, 128, 128)",
-      "borderBottom": "1px solid rgb(204, 204, 204)",
-      "lineHeight": 24
+      "textAlign": "left",
+      "color": "#720000ff"
      },
      "/div[2]": {
       "fontSize": 13,
       "textAlign": "left",
-      "backgroundColor": "#f2f2f2ff",
-      "borderLeft": "1px solid rgb(128, 128, 128)",
-      "borderRight": "1px solid rgb(128, 128, 128)",
       "/text()[1]": {
        "whiteSpace": true
       },
@@ -3614,142 +3582,86 @@
        "whiteSpace": true
       },
       "/div[1]": {
-       "id": "loginError",
-       "fontSize": 13,
-       "fontWeight": "700",
-       "textAlign": "left",
-       "color": "#720000ff"
-      },
-      "/div[2]": {
        "fontSize": 13,
        "textAlign": "left",
+       "/label": {
+        "fontSize": 13,
+        "textAlign": "left",
+        "cursor": "default",
+        "/text()": {}
+       },
        "/text()[1]": {
         "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true
        },
-       "/div[1]": {
+       "/input": {
+        "id": "SJT_USER_NAME",
+        "fontFamily": "Arial",
         "fontSize": 13,
-        "textAlign": "left",
-        "/label": {
-         "fontSize": 13,
-         "textAlign": "left",
-         "cursor": "default",
-         "/text()": {}
-        },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true
-        },
-        "/input": {
-         "id": "SJT_USER_NAME",
-         "fontFamily": "Arial",
-         "fontSize": 13,
-         "backgroundColor": "#ffffffff",
-         "border": "2px inset rgb(118, 118, 118)",
-         "cursor": "text"
-        },
-        "/text()[3]": {
-         "whiteSpace": true
-        },
-        "/span": {
-         "fontSize": 13,
-         "textAlign": "left",
-         "/text()": {
-          "whiteSpace": true
-         },
-         "/a": {
-          "fontSize": 10,
-          "textAlign": "left",
-          "textDecoration": "underline solid rgb(0, 0, 238)",
-          "color": "#0000eeff",
-          "cursor": "pointer",
-          "/text()": {}
-         }
-        },
-        "/text()[4]": {
-         "whiteSpace": true
-        },
-        "/div": {
-         "fontSize": 13,
-         "textAlign": "left"
-        },
-        "/text()[5]": {
-         "whiteSpace": true
-        }
-       },
-       "/div[2]": {
-        "fontSize": 13,
-        "textAlign": "left",
-        "/label": {
-         "fontSize": 13,
-         "textAlign": "left",
-         "cursor": "default",
-         "/text()": {}
-        },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true
-        },
-        "/input": {
-         "id": "SJT_PASSWD",
-         "fontFamily": "Arial",
-         "fontSize": 13,
-         "backgroundColor": "#ffffffff",
-         "border": "2px inset rgb(118, 118, 118)",
-         "cursor": "text"
-        },
-        "/text()[3]": {
-         "whiteSpace": true
-        },
-        "/div": {
-         "fontSize": 13,
-         "textAlign": "left"
-        },
-        "/text()[4]": {
-         "whiteSpace": true
-        }
+        "backgroundColor": "#ffffffff",
+        "border": "2px inset rgb(118, 118, 118)",
+        "cursor": "text"
        },
        "/text()[3]": {
         "whiteSpace": true
        },
-       "/div[3]": {
+       "/span": {
         "fontSize": 13,
         "textAlign": "left",
-        "/div": {
-         "fontSize": 13,
+        "/text()": {
+         "whiteSpace": true
+        },
+        "/a": {
+         "fontSize": 10,
          "textAlign": "left",
-         "/span": {
-          "id": "loginPanelButton",
-          "fontSize": 13,
-          "textAlign": "left",
-          "/span": {
-           "fontSize": 13,
-           "textAlign": "left",
-           "/button": {
-            "id": "loginPanelButton-button",
-            "fontFamily": "Arial",
-            "fontSize": 13,
-            "textAlign": "center",
-            "backgroundColor": "#efefefff",
-            "border": "2px outset rgb(118, 118, 118)",
-            "cursor": "default",
-            "/text()": {}
-           }
-          }
-         }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true
+         "textDecoration": "underline solid rgb(0, 0, 238)",
+         "color": "#0000eeff",
+         "cursor": "pointer",
+         "/text()": {}
         }
+       },
+       "/text()[4]": {
+        "whiteSpace": true
+       },
+       "/div": {
+        "fontSize": 13,
+        "textAlign": "left"
+       },
+       "/text()[5]": {
+        "whiteSpace": true
+       }
+      },
+      "/div[2]": {
+       "fontSize": 13,
+       "textAlign": "left",
+       "/label": {
+        "fontSize": 13,
+        "textAlign": "left",
+        "cursor": "default",
+        "/text()": {}
+       },
+       "/text()[1]": {
+        "whiteSpace": true
+       },
+       "/text()[2]": {
+        "whiteSpace": true
+       },
+       "/input": {
+        "id": "SJT_PASSWD",
+        "fontFamily": "Arial",
+        "fontSize": 13,
+        "backgroundColor": "#ffffffff",
+        "border": "2px inset rgb(118, 118, 118)",
+        "cursor": "text"
+       },
+       "/text()[3]": {
+        "whiteSpace": true
+       },
+       "/div": {
+        "fontSize": 13,
+        "textAlign": "left"
        },
        "/text()[4]": {
         "whiteSpace": true
@@ -3759,66 +3671,20 @@
        "whiteSpace": true
       },
       "/div[3]": {
-       "id": "signup",
        "fontSize": 13,
        "textAlign": "left",
-       "/fieldset": {
+       "/div": {
         "fontSize": 13,
         "textAlign": "left",
-        "border": "2px groove rgb(192, 192, 192)",
-        "/div": {
+        "/button": {
+         "id": "loginPanelButton",
+         "fontFamily": "Arial",
          "fontSize": 13,
-         "textAlign": "left",
-         "/h2": {
-          "fontSize": 19,
-          "fontWeight": "700",
-          "textAlign": "left",
-          "/text()": {}
-         },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
-         "/text()[3]": {
-          "whiteSpace": true
-         },
-         "/span[1]": {
-          "id": "signUpNowPanelButton",
-          "fontSize": 13,
-          "textAlign": "left",
-          "/span": {
-           "fontSize": 13,
-           "textAlign": "left",
-           "/button": {
-            "id": "signUpNowPanelButton-button",
-            "fontFamily": "Arial",
-            "fontSize": 13,
-            "textAlign": "center",
-            "backgroundColor": "#efefefff",
-            "border": "2px outset rgb(118, 118, 118)",
-            "cursor": "default",
-            "/text()": {}
-           }
-          }
-         },
-         "/span[2]": {
-          "fontSize": 13,
-          "fontWeight": "700",
-          "textAlign": "left",
-          "lineHeight": 26,
-          "/text()": {}
-         },
-         "/text()[4]": {
-          "whiteSpace": true
-         }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true
+         "textAlign": "center",
+         "backgroundColor": "#efefefff",
+         "border": "2px outset rgb(118, 118, 118)",
+         "cursor": "default",
+         "/text()": {}
         }
        },
        "/text()[1]": {
@@ -3835,14 +3701,72 @@
      "/text()[3]": {
       "whiteSpace": true
      },
-     "/a": {
+     "/div[3]": {
+      "id": "signup",
       "fontSize": 13,
-      "color": "#0000eeff",
-      "backgroundImage": "url(\"http://assets.dice.com/yui/build/assets/skins/sam/sprite.png\")",
-      "cursor": "pointer",
-      "overflow": "hidden",
-      "/text()": {}
+      "textAlign": "left",
+      "/fieldset": {
+       "fontSize": 13,
+       "textAlign": "left",
+       "border": "2px groove rgb(192, 192, 192)",
+       "/div": {
+        "fontSize": 13,
+        "textAlign": "left",
+        "/h2": {
+         "fontSize": 19,
+         "fontWeight": "700",
+         "textAlign": "left",
+         "/text()": {}
+        },
+        "/text()[1]": {
+         "whiteSpace": true
+        },
+        "/text()[2]": {
+         "whiteSpace": true
+        },
+        "/input": {
+         "id": "signUpNowPanelButton",
+         "fontFamily": "Arial",
+         "fontSize": 13,
+         "textAlign": "center",
+         "backgroundColor": "#efefefff",
+         "border": "2px outset rgb(118, 118, 118)",
+         "cursor": "default"
+        },
+        "/text()[3]": {
+         "whiteSpace": true
+        },
+        "/span": {
+         "fontSize": 13,
+         "fontWeight": "700",
+         "textAlign": "left",
+         "lineHeight": 26,
+         "/text()": {}
+        },
+        "/text()[4]": {
+         "whiteSpace": true
+        }
+       },
+       "/text()[1]": {
+        "whiteSpace": true
+       },
+       "/text()[2]": {
+        "whiteSpace": true
+       }
+      },
+      "/text()[1]": {
+       "whiteSpace": true
+      },
+      "/text()[2]": {
+       "whiteSpace": true
+      }
+     },
+     "/text()[4]": {
+      "whiteSpace": true
      }
+    },
+    "/text()[3]": {
+     "whiteSpace": true
     }
    },
    "/text()[13]": {
