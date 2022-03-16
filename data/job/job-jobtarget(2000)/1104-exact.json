@@ -5,33 +5,4395 @@
    0,
    0,
    800,
-   36371
+   1525.796875
   ],
-  "/head": {},
+  "/head": {
+   "/text()[1]": {
+    "whiteSpace": true
+   },
+   "/text()[2]": {
+    "whiteSpace": true
+   },
+   "/meta[1]": {},
+   "/meta[2]": {},
+   "/text()[3]": {
+    "whiteSpace": true
+   },
+   "/meta[3]": {},
+   "/text()[4]": {
+    "whiteSpace": true
+   },
+   "/text()[5]": {
+    "whiteSpace": true
+   },
+   "/text()[6]": {
+    "whiteSpace": true
+   },
+   "/script[1]": {},
+   "/script[2]": {},
+   "/text()[7]": {
+    "whiteSpace": true
+   },
+   "/script[3]": {},
+   "/text()[8]": {
+    "whiteSpace": true
+   },
+   "/script[4]": {},
+   "/text()[9]": {
+    "whiteSpace": true
+   },
+   "/script[5]": {},
+   "/text()[10]": {
+    "whiteSpace": true
+   },
+   "/script[6]": {},
+   "/text()[11]": {
+    "whiteSpace": true
+   },
+   "/script[7]": {},
+   "/text()[12]": {
+    "whiteSpace": true
+   },
+   "/script[8]": {},
+   "/text()[13]": {
+    "whiteSpace": true
+   },
+   "/script[9]": {
+    "/text()": {}
+   },
+   "/text()[14]": {
+    "whiteSpace": true
+   },
+   "/style[1]": {
+    "/text()": {}
+   },
+   "/style[2]": {
+    "/text()": {}
+   },
+   "/text()[15]": {
+    "whiteSpace": true
+   },
+   "/style[3]": {
+    "/text()": {}
+   },
+   "/text()[16]": {
+    "whiteSpace": true
+   },
+   "/title": {
+    "/text()": {}
+   },
+   "/text()[17]": {
+    "whiteSpace": true
+   },
+   "/meta[4]": {},
+   "/text()[18]": {
+    "whiteSpace": true
+   },
+   "/meta[5]": {},
+   "/text()[19]": {
+    "whiteSpace": true
+   }
+  },
+  "/text()": {
+   "whiteSpace": true
+  },
   "/body": {
    "box": [
     8,
-    13,
+    21.4375,
     784,
-    36345
+    1496.359375
    ],
-   "/pre": {
-    "fontFamily": "monospace",
-    "fontSize": 13,
+   "/text()[1]": {
+    "whiteSpace": true
+   },
+   "/text()[2]": {
+    "whiteSpace": true
+   },
+   "/div[1]": {
+    "id": "jt_header",
     "box": [
      8,
-     13,
+     21.4375,
      784,
-     36345
+     76.4375
     ],
-    "/text()": {
+    "/h1": {
+     "fontSize": 32,
+     "fontWeight": "700",
      "box": [
-      7,
-      118,
-      999.5625,
-      36210
+      8,
+      21.4375,
+      784,
+      37
+     ],
+     "/a": {
+      "fontSize": 32,
+      "fontWeight": "700",
+      "textDecoration": "underline solid rgb(0, 0, 238)",
+      "color": "#0000eeff",
+      "cursor": "pointer",
+      "box": [
+       8,
+       21.4375,
+       221.0625,
+       36
+      ],
+      "/span": {
+       "fontSize": 32,
+       "fontWeight": "700",
+       "color": "#0000eeff",
+       "cursor": "pointer",
+       "box": [
+        8,
+        21.4375,
+        221.0625,
+        36
+       ],
+       "/text()": {
+        "box": [
+         8,
+         21.4375,
+         221.0625,
+         36
+        ]
+       }
+      }
+     }
+    },
+    "/text()[1]": {
+     "whiteSpace": true
+    },
+    "/text()[2]": {
+     "whiteSpace": true
+    },
+    "/span": {
+     "box": [
+      8,
+      79.875,
+      452.28125,
+      17
+     ],
+     "/b": {
+      "fontWeight": "700",
+      "box": [
+       8,
+       79.875,
+       97.640625,
+       17
+      ],
+      "/text()": {
+       "box": [
+        8,
+        79.875,
+        97.640625,
+        17
+       ]
+      }
+     },
+     "/text()[1]": {
+      "whiteSpace": true,
+      "box": [
+       105.640625,
+       79.875,
+       12,
+       17
+      ]
+     },
+     "/text()[2]": {
+      "box": [
+       211.765625,
+       79.875,
+       24,
+       18
+      ]
+     },
+     "/a[1]": {
+      "textDecoration": "underline solid rgb(0, 0, 238)",
+      "color": "#0000eeff",
+      "cursor": "pointer",
+      "box": [
+       117.640625,
+       79.875,
+       94.125,
+       17
+      ],
+      "/text()": {
+       "box": [
+        117.640625,
+        79.875,
+        95,
+        18
+       ]
+      }
+     },
+     "/a[2]": {
+      "textDecoration": "underline solid rgb(0, 0, 238)",
+      "color": "#0000eeff",
+      "cursor": "pointer",
+      "box": [
+       234.96875,
+       79.875,
+       155.4375,
+       17
+      ],
+      "/text()": {
+       "box": [
+        234.96875,
+        79.875,
+        156,
+        18
+       ]
+      }
+     },
+     "/text()[3]": {
+      "box": [
+       390.40625,
+       79.875,
+       24,
+       18
+      ]
+     },
+     "/a[3]": {
+      "textDecoration": "underline solid rgb(0, 0, 238)",
+      "color": "#0000eeff",
+      "cursor": "pointer",
+      "box": [
+       413.609375,
+       79.875,
+       46.671875,
+       17
+      ],
+      "/text()": {
+       "box": [
+        413.609375,
+        79.875,
+        48,
+        17
+       ]
+      }
+     },
+     "/text()[4]": {
+      "whiteSpace": true,
+      "box": [
+       8,
+       79.875,
+       0,
+       0
+      ]
+     }
+    },
+    "/text()[3]": {
+     "whiteSpace": true,
+     "box": [
+      8,
+      79.875,
+      0,
+      0
+     ]
+    },
+    "/img": {
+     "box": [
+      480,
+      55,
+      250,
+      50
+     ]
+    },
+    "/text()[4]": {
+     "whiteSpace": true
+    }
+   },
+   "/div[2]": {
+    "id": "jt_subheader",
+    "box": [
+     8,
+     113.875,
+     784,
+     72
+    ],
+    "/ul": {
+     "box": [
+      8,
+      113.875,
+      784,
+      72
+     ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
+     "/text()[2]": {
+      "whiteSpace": true
+     },
+     "/li[1]": {
+      "textAlign": "left",
+      "box": [
+       48,
+       113.875,
+       744,
+       18
+      ],
+      "/a": {
+       "textAlign": "left",
+       "textDecoration": "underline solid rgb(0, 0, 238)",
+       "color": "#0000eeff",
+       "cursor": "pointer",
+       "box": [
+        48,
+        113.875,
+        47.109375,
+        17
+       ],
+       "/text()": {
+        "box": [
+         48,
+         113.875,
+         47.109375,
+         17
+        ]
+       }
+      }
+     },
+     "/li[2]": {
+      "textAlign": "left",
+      "box": [
+       48,
+       131.875,
+       744,
+       18
+      ],
+      "/a": {
+       "textAlign": "left",
+       "textDecoration": "underline solid rgb(0, 0, 238)",
+       "color": "#0000eeff",
+       "cursor": "pointer",
+       "box": [
+        48,
+        131.875,
+        95.578125,
+        17
+       ],
+       "/text()": {
+        "box": [
+         48,
+         131.875,
+         97,
+         17
+        ]
+       }
+      }
+     },
+     "/text()[3]": {
+      "whiteSpace": true
+     },
+     "/li[3]": {
+      "textAlign": "left",
+      "box": [
+       48,
+       149.875,
+       744,
+       18
+      ],
+      "/a": {
+       "textAlign": "left",
+       "textDecoration": "underline solid rgb(0, 0, 238)",
+       "color": "#0000eeff",
+       "cursor": "pointer",
+       "box": [
+        48,
+        149.875,
+        159.59375,
+        17
+       ],
+       "/text()": {
+        "box": [
+         48,
+         149.875,
+         159.59375,
+         17
+        ]
+       }
+      }
+     },
+     "/text()[4]": {
+      "whiteSpace": true
+     },
+     "/li[4]": {
+      "textAlign": "left",
+      "box": [
+       48,
+       167.875,
+       744,
+       18
+      ],
+      "/a": {
+       "textAlign": "left",
+       "textDecoration": "underline solid rgb(0, 0, 238)",
+       "color": "#0000eeff",
+       "cursor": "pointer",
+       "box": [
+        48,
+        167.875,
+        69.296875,
+        17
+       ],
+       "/text()": {
+        "box": [
+         48,
+         167.875,
+         70,
+         17
+        ]
+       }
+      }
+     },
+     "/text()[5]": {
+      "whiteSpace": true
+     }
+    },
+    "/text()[1]": {
+     "whiteSpace": true
+    },
+    "/text()[2]": {
+     "whiteSpace": true
+    }
+   },
+   "/text()[3]": {
+    "whiteSpace": true
+   },
+   "/div[3]": {
+    "id": "content_container",
+    "box": [
+     8,
+     201.875,
+     784,
+     1261.921875
+    ],
+    "/table": {
+     "box": [
+      8,
+      201.875,
+      784,
+      1261.921875
+     ],
+     "/text()": {
+      "whiteSpace": true
+     },
+     "/tbody": {
+      "box": [
+       8,
+       201.875,
+       784,
+       1261.921875
+      ],
+      "/tr": {
+       "box": [
+        8,
+        201.875,
+        784,
+        1261.921875
+       ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
+       "/text()[2]": {
+        "whiteSpace": true
+       },
+       "/td[1]": {
+        "id": "jt_navpanel_cell",
+        "box": [
+         8,
+         201.875,
+         250.34375,
+         1261.921875
+        ],
+        "/div": {
+         "id": "jt_content_left",
+         "box": [
+          8,
+          220.59375,
+          250.34375,
+          588.59375
+         ],
+         "/div": {
+          "box": [
+           8,
+           220.59375,
+           250.34375,
+           516.59375
+          ],
+          "/div": {
+           "box": [
+            8,
+            220.59375,
+            250.34375,
+            516.59375
+           ],
+           "/div": {
+            "box": [
+             8,
+             220.59375,
+             250.34375,
+             516.59375
+            ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
+            "/text()[2]": {
+             "whiteSpace": true
+            },
+            "/div[1]": {
+             "box": [
+              8,
+              220.59375,
+              250.34375,
+              305.15625
+             ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
+             "/text()[2]": {
+              "whiteSpace": true
+             },
+             "/text()[3]": {
+              "whiteSpace": true
+             },
+             "/h3[1]": {
+              "id": "jt_head_login",
+              "fontSize": 18,
+              "fontWeight": "700",
+              "box": [
+               8,
+               220.59375,
+               250.34375,
+               22
+              ],
+              "/span": {
+               "fontSize": 18,
+               "fontWeight": "700",
+               "box": [
+                8,
+                220.59375,
+                183.96875,
+                21
+               ],
+               "/text()": {
+                "box": [
+                 8,
+                 220.59375,
+                 185,
+                 21
+                ]
+               }
+              }
+             },
+             "/h3[2]": {
+              "id": "jt_head_new_user",
+              "fontSize": 18,
+              "fontWeight": "700",
+              "box": [
+               8,
+               384.03125,
+               250.34375,
+               22
+              ],
+              "/span": {
+               "fontSize": 18,
+               "fontWeight": "700",
+               "box": [
+                8,
+                384.03125,
+                109.328125,
+                21
+               ],
+               "/text()": {
+                "box": [
+                 8,
+                 384.03125,
+                 109.328125,
+                 21
+                ]
+               }
+              }
+             },
+             "/text()[4]": {
+              "whiteSpace": true
+             },
+             "/div[1]": {
+              "box": [
+               8,
+               261.3125,
+               250.34375,
+               104
+              ],
+              "/form": {
+               "box": [
+                8,
+                261.3125,
+                250.34375,
+                104
+               ],
+               "/table": {
+                "box": [
+                 8,
+                 261.3125,
+                 250.34375,
+                 104
+                ],
+                "/text()": {
+                 "whiteSpace": true
+                },
+                "/tbody": {
+                 "box": [
+                  8,
+                  261.3125,
+                  250.34375,
+                  104
+                 ],
+                 "/tr[1]": {
+                  "box": [
+                   8,
+                   261.3125,
+                   250.34375,
+                   29
+                  ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
+                  "/td[1]": {
+                   "textAlign": "-webkit-right",
+                   "box": [
+                    8,
+                    261.3125,
+                    69.34375,
+                    29
+                   ],
+                   "/text()": {
+                    "box": [
+                     27.796875,
+                     266.8125,
+                     47.546875,
+                     17
+                    ]
+                   }
+                  },
+                  "/td[2]": {
+                   "box": [
+                    77.34375,
+                    261.3125,
+                    181,
+                    29
+                   ],
+                   "/input": {
+                    "fontFamily": "Arial",
+                    "fontSize": 13,
+                    "backgroundColor": "#ffffffff",
+                    "border": "2px inset rgb(118, 118, 118)",
+                    "cursor": "text",
+                    "box": [
+                     79.34375,
+                     265.3125,
+                     177,
+                     21
+                    ]
+                   }
+                  },
+                  "/text()[3]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/tr[2]": {
+                  "box": [
+                   8,
+                   290.3125,
+                   250.34375,
+                   29
+                  ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
+                  "/td[1]": {
+                   "textAlign": "-webkit-right",
+                   "box": [
+                    8,
+                    290.3125,
+                    69.34375,
+                    29
+                   ],
+                   "/text()": {
+                    "box": [
+                     10,
+                     295.8125,
+                     65.34375,
+                     17
+                    ]
+                   }
+                  },
+                  "/td[2]": {
+                   "box": [
+                    77.34375,
+                    290.3125,
+                    181,
+                    29
+                   ],
+                   "/input": {
+                    "fontFamily": "Arial",
+                    "fontSize": 13,
+                    "backgroundColor": "#ffffffff",
+                    "border": "2px inset rgb(118, 118, 118)",
+                    "cursor": "text",
+                    "box": [
+                     79.34375,
+                     294.3125,
+                     177,
+                     21
+                    ]
+                   }
+                  },
+                  "/text()[3]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()[1]": {
+                  "whiteSpace": true
+                 },
+                 "/text()[2]": {
+                  "whiteSpace": true
+                 },
+                 "/tr[3]": {
+                  "box": [
+                   8,
+                   319.3125,
+                   250.34375,
+                   24
+                  ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
+                  "/td[1]": {
+                   "box": [
+                    8,
+                    319.3125,
+                    69.34375,
+                    24
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     10,
+                     322.3125,
+                     4,
+                     17
+                    ]
+                   }
+                  },
+                  "/td[2]": {
+                   "box": [
+                    77.34375,
+                    319.3125,
+                    181,
+                    24
+                   ],
+                   "/input": {
+                    "fontFamily": "Arial",
+                    "fontSize": 13,
+                    "cursor": "default",
+                    "box": [
+                     83.34375,
+                     324.3125,
+                     13,
+                     13
+                    ]
+                   },
+                   "/text()": {
+                    "box": [
+                     99.34375,
+                     323.3125,
+                     93.75,
+                     17
+                    ]
+                   }
+                  },
+                  "/text()[3]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()[3]": {
+                  "whiteSpace": true
+                 },
+                 "/tr[4]": {
+                  "box": [
+                   8,
+                   343.3125,
+                   250.34375,
+                   22
+                  ],
+                  "/td": {
+                   "textAlign": "-webkit-left",
+                   "box": [
+                    8,
+                    343.3125,
+                    250.34375,
+                    22
+                   ],
+                   "/a": {
+                    "textAlign": "-webkit-left",
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     10,
+                     345.3125,
+                     126.53125,
+                     17
+                    ],
+                    "/text()": {
+                     "box": [
+                      10,
+                      345.3125,
+                      127,
+                      18
+                     ]
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     136.53125,
+                     345.3125,
+                     4,
+                     17
+                    ]
+                   },
+                   "/input": {
+                    "fontFamily": "Arial",
+                    "fontSize": 13,
+                    "cursor": "pointer",
+                    "box": [
+                     140.53125,
+                     355.640625,
+                     0,
+                     0
+                    ]
+                   },
+                   "/text()[3]": {
+                    "whiteSpace": true,
+                    "box": [
+                     8,
+                     343.3125,
+                     0,
+                     0
+                    ]
+                   }
+                  },
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()[4]": {
+                  "whiteSpace": true
+                 }
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/text()[2]": {
+               "whiteSpace": true
+              }
+             },
+             "/div[2]": {
+              "box": [
+               8,
+               424.75,
+               250.34375,
+               101
+              ],
+              "/p": {
+               "box": [
+                8,
+                424.75,
+                250.34375,
+                54
+               ],
+               "/text()": {
+                "box": [
+                 8,
+                 424.75,
+                 242,
+                 53
+                ]
+               }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/text()[2]": {
+               "whiteSpace": true
+              },
+              "/a": {
+               "textDecoration": "underline solid rgb(0, 0, 238)",
+               "color": "#0000eeff",
+               "cursor": "pointer",
+               "box": [
+                8,
+                507.75,
+                16,
+                17
+               ],
+               "/img": {
+                "color": "#0000eeff",
+                "cursor": "pointer",
+                "box": [
+                 8,
+                 502.75,
+                 16,
+                 16
+                ]
+               },
+               "/text()[1]": {
+                "whiteSpace": true,
+                "box": [
+                 8,
+                 494.75,
+                 0,
+                 0
+                ]
+               },
+               "/text()[2]": {
+                "whiteSpace": true,
+                "box": [
+                 8,
+                 494.75,
+                 0,
+                 0
+                ]
+               }
+              },
+              "/text()[3]": {
+               "whiteSpace": true,
+               "box": [
+                8,
+                494.75,
+                0,
+                0
+               ]
+              }
+             },
+             "/text()[5]": {
+              "whiteSpace": true
+             }
+            },
+            "/div[2]": {
+             "box": [
+              8,
+              544.46875,
+              250.34375,
+              130.71875
+             ],
+             "/h3": {
+              "id": "jt_head_news_events",
+              "fontSize": 18,
+              "fontWeight": "700",
+              "box": [
+               8,
+               544.46875,
+               250.34375,
+               22
+              ],
+              "/span": {
+               "fontSize": 18,
+               "fontWeight": "700",
+               "box": [
+                8,
+                544.46875,
+                154.859375,
+                21
+               ],
+               "/text()": {
+                "box": [
+                 8,
+                 544.46875,
+                 154.859375,
+                 21
+                ]
+               }
+              }
+             },
+             "/text()[1]": {
+              "whiteSpace": true
+             },
+             "/text()[2]": {
+              "whiteSpace": true
+             },
+             "/div": {
+              "box": [
+               8,
+               585.1875,
+               250.34375,
+               90
+              ],
+              "/p": {
+               "box": [
+                8,
+                585.1875,
+                250.34375,
+                90
+               ],
+               "/a": {
+                "textDecoration": "underline solid rgb(0, 0, 238)",
+                "color": "#0000eeff",
+                "cursor": "pointer",
+                "box": [
+                 8,
+                 585.1875,
+                 247.375,
+                 89
+                ],
+                "/text()": {
+                 "box": [
+                  8,
+                  585.1875,
+                  248,
+                  89
+                 ]
+                }
+               }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/text()[2]": {
+               "whiteSpace": true
+              }
+             },
+             "/text()[3]": {
+              "whiteSpace": true
+             }
+            },
+            "/text()[3]": {
+             "whiteSpace": true
+            },
+            "/text()[4]": {
+             "whiteSpace": true,
+             "box": [
+              8,
+              719.1875,
+              0,
+              0
+             ]
+            },
+            "/a[1]": {
+             "textDecoration": "underline solid rgb(0, 0, 238)",
+             "color": "#0000eeff",
+             "cursor": "pointer",
+             "box": [
+              8,
+              691.1875,
+              0,
+              0
+             ],
+             "/div": {
+              "color": "#0000eeff",
+              "cursor": "pointer",
+              "box": [
+               8,
+               691.1875,
+               250.34375,
+               28
+              ],
+              "/img": {
+               "color": "#0000eeff",
+               "cursor": "pointer",
+               "box": [
+                8,
+                701.1875,
+                80.453125,
+                18
+               ]
+              }
+             },
+             "/text()[1]": {
+              "whiteSpace": true,
+              "box": [
+               8,
+               691.1875,
+               0,
+               0
+              ]
+             },
+             "/text()[2]": {
+              "whiteSpace": true
+             }
+            },
+            "/a[2]": {
+             "textDecoration": "underline solid rgb(0, 0, 238)",
+             "color": "#0000eeff",
+             "cursor": "pointer",
+             "box": [
+              8,
+              719.1875,
+              183.078125,
+              17
+             ],
+             "/img": {
+              "color": "#0000eeff",
+              "cursor": "pointer",
+              "box": [
+               8,
+               719.1875,
+               183.078125,
+               18
+              ]
+             }
+            },
+            "/text()[5]": {
+             "whiteSpace": true,
+             "box": [
+              8,
+              719.1875,
+              0,
+              0
+             ]
+            }
+           },
+           "/text()[1]": {
+            "whiteSpace": true
+           },
+           "/text()[2]": {
+            "whiteSpace": true
+           }
+          },
+          "/text()[1]": {
+           "whiteSpace": true
+          },
+          "/text()[2]": {
+           "whiteSpace": true
+          }
+         },
+         "/text()[1]": {
+          "whiteSpace": true
+         },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
+         "/a": {
+          "textDecoration": "underline solid rgb(0, 0, 238)",
+          "color": "#0000eeff",
+          "cursor": "pointer",
+          "box": [
+           8,
+           755.1875,
+           250.34375,
+           17
+          ],
+          "/img": {
+           "color": "#0000eeff",
+           "cursor": "pointer",
+           "box": [
+            8,
+            737.1875,
+            250.34375,
+            36
+           ]
+          },
+          "/text()[1]": {
+           "whiteSpace": true,
+           "box": [
+            8,
+            737.1875,
+            0,
+            0
+           ]
+          },
+          "/text()[2]": {
+           "whiteSpace": true,
+           "box": [
+            8,
+            737.1875,
+            0,
+            0
+           ]
+          }
+         },
+         "/text()[3]": {
+          "whiteSpace": true,
+          "box": [
+           8,
+           737.1875,
+           0,
+           0
+          ]
+         },
+         "/table": {
+          "box": [
+           8,
+           773.1875,
+           250.34375,
+           36
+          ],
+          "/text()": {
+           "whiteSpace": true
+          },
+          "/tbody": {
+           "box": [
+            8,
+            773.1875,
+            250.34375,
+            36
+           ],
+           "/tr": {
+            "box": [
+             8,
+             773.1875,
+             250.34375,
+             36
+            ],
+            "/td": {
+             "textAlign": "-webkit-center",
+             "box": [
+              8,
+              773.1875,
+              250.34375,
+              36
+             ],
+             "/br[1]": {
+              "textAlign": "-webkit-center",
+              "box": [
+               8,
+               773.1875,
+               0,
+               0
+              ]
+             },
+             "/br[2]": {
+              "textAlign": "-webkit-center",
+              "box": [
+               8,
+               773.1875,
+               0,
+               0
+              ]
+             },
+             "/text()[1]": {
+              "whiteSpace": true
+             },
+             "/text()[2]": {
+              "whiteSpace": true
+             },
+             "/text()[3]": {
+              "whiteSpace": true
+             },
+             "/script[1]": {
+              "textAlign": "-webkit-center",
+              "/text()": {}
+             },
+             "/script[2]": {
+              "textAlign": "-webkit-center",
+              "/text()": {
+               "whiteSpace": true
+              }
+             },
+             "/text()[4]": {
+              "whiteSpace": true
+             }
+            },
+            "/text()[1]": {
+             "whiteSpace": true
+            },
+            "/text()[2]": {
+             "whiteSpace": true
+            }
+           },
+           "/text()": {
+            "whiteSpace": true
+           }
+          }
+         },
+         "/text()[4]": {
+          "whiteSpace": true
+         }
+        },
+        "/text()[1]": {
+         "whiteSpace": true
+        },
+        "/text()[2]": {
+         "whiteSpace": true
+        }
+       },
+       "/td[2]": {
+        "box": [
+         258.34375,
+         201.875,
+         533.65625,
+         1261.921875
+        ],
+        "/div": {
+         "id": "jt_content_right",
+         "box": [
+          258.34375,
+          201.875,
+          533.65625,
+          1261.921875
+         ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
+         "/script[1]": {},
+         "/script[2]": {},
+         "/text()[3]": {
+          "whiteSpace": true
+         },
+         "/script[3]": {},
+         "/text()[4]": {
+          "whiteSpace": true
+         },
+         "/script[4]": {
+          "/text()": {}
+         },
+         "/text()[5]": {
+          "whiteSpace": true
+         },
+         "/div": {
+          "id": "jt_print_view_logo",
+          "/img": {}
+         },
+         "/text()[6]": {
+          "whiteSpace": true
+         },
+         "/table": {
+          "box": [
+           258.34375,
+           201.875,
+           533.65625,
+           1261.921875
+          ],
+          "/text()": {
+           "whiteSpace": true
+          },
+          "/tbody": {
+           "box": [
+            258.34375,
+            201.875,
+            533.65625,
+            1261.921875
+           ],
+           "/tr": {
+            "box": [
+             258.34375,
+             201.875,
+             533.65625,
+             1261.921875
+            ],
+            "/td": {
+             "box": [
+              258.34375,
+              201.875,
+              533.65625,
+              1261.921875
+             ],
+             "/div": {
+              "id": "content",
+              "box": [
+               258.34375,
+               201.875,
+               533.65625,
+               1261.921875
+              ],
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/text()[2]": {
+               "whiteSpace": true,
+               "box": [
+                258.34375,
+                201.875,
+                0,
+                0
+               ]
+              },
+              "/text()[3]": {
+               "whiteSpace": true
+              },
+              "/div[1]": {
+               "id": "jt_partnership",
+               "box": [
+                258.34375,
+                219.875,
+                533.65625,
+                54
+               ],
+               "/div": {
+                "box": [
+                 258.34375,
+                 219.875,
+                 533.65625,
+                 20
+                ],
+                "/a": {
+                 "textDecoration": "underline solid rgb(0, 0, 238)",
+                 "color": "#0000eeff",
+                 "cursor": "pointer",
+                 "box": [
+                  258.34375,
+                  221.875,
+                  16,
+                  17
+                 ],
+                 "/img": {
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "box": [
+                   258.34375,
+                   219.875,
+                   16,
+                   16
+                  ]
+                 }
+                },
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
+                "/text()[2]": {
+                 "whiteSpace": true,
+                 "box": [
+                  258.34375,
+                  219.875,
+                  0,
+                  0
+                 ]
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/p": {
+                "box": [
+                 258.34375,
+                 255.875,
+                 533.65625,
+                 18
+                ],
+                "/a": {
+                 "textDecoration": "underline solid rgb(0, 0, 238)",
+                 "color": "#0000eeff",
+                 "cursor": "pointer",
+                 "box": [
+                  258.34375,
+                  255.875,
+                  469.25,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   255.875,
+                   470,
+                   18
+                  ]
+                 }
+                },
+                "/text()": {
+                 "box": [
+                  727.59375,
+                  255.875,
+                  4,
+                  17
+                 ]
+                }
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               }
+              },
+              "/div[2]": {
+               "id": "jt_job_title",
+               "box": [
+                258.34375,
+                292.59375,
+                533.65625,
+                99.4375
+               ],
+               "/h3": {
+                "fontSize": 18,
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 292.59375,
+                 533.65625,
+                 22
+                ],
+                "/span": {
+                 "fontSize": 18,
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  292.59375,
+                  165.671875,
+                  21
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   292.59375,
+                   165.671875,
+                   21
+                  ]
+                 }
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/h4": {
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 335.859375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  335.859375,
+                  132.578125,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   335.859375,
+                   132.578125,
+                   17
+                  ]
+                 }
+                }
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               },
+               "/h5": {
+                "fontSize": 13,
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 376.03125,
+                 533.65625,
+                 16
+                ],
+                "/span": {
+                 "fontSize": 13,
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  376.03125,
+                  144.84375,
+                  15
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   376.03125,
+                   144.84375,
+                   15
+                  ]
+                 }
+                }
+               },
+               "/text()[4]": {
+                "whiteSpace": true
+               },
+               "/div": {
+                "id": "additional_locations",
+                "/h5": {
+                 "fontSize": 13,
+                 "fontWeight": "700",
+                 "/span": {
+                  "fontSize": 13,
+                  "fontWeight": "700",
+                  "/text()": {
+                   "whiteSpace": true
+                  }
+                 }
+                },
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
+                "/text()[2]": {
+                 "whiteSpace": true
+                }
+               },
+               "/text()[5]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[4]": {
+               "whiteSpace": true
+              },
+              "/div[3]": {
+               "id": "jt_job_tools",
+               "box": [
+                258.34375,
+                414.203125,
+                533.65625,
+                18
+               ],
+               "/table": {
+                "box": [
+                 258.34375,
+                 414.203125,
+                 493.78125,
+                 18
+                ],
+                "/text()": {
+                 "whiteSpace": true
+                },
+                "/tbody": {
+                 "box": [
+                  258.34375,
+                  414.203125,
+                  493.78125,
+                  18
+                 ],
+                 "/tr": {
+                  "box": [
+                   258.34375,
+                   414.203125,
+                   493.78125,
+                   18
+                  ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
+                  "/td[1]": {
+                   "box": [
+                    258.34375,
+                    414.203125,
+                    210.609375,
+                    18
+                   ],
+                   "/a": {
+                    "id": "jt_town_info",
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     258.34375,
+                     414.203125,
+                     210.609375,
+                     17
+                    ],
+                    "/text()": {
+                     "box": [
+                      258.34375,
+                      414.203125,
+                      211,
+                      18
+                     ]
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     258.34375,
+                     414.203125,
+                     0,
+                     0
+                    ]
+                   }
+                  },
+                  "/td[2]": {
+                   "box": [
+                    468.953125,
+                    414.203125,
+                    0,
+                    18
+                   ],
+                   "/text()": {
+                    "whiteSpace": true
+                   }
+                  },
+                  "/text()[3]": {
+                   "whiteSpace": true
+                  },
+                  "/td[3]": {
+                   "box": [
+                    468.953125,
+                    414.203125,
+                    68.53125,
+                    18
+                   ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     468.953125,
+                     414.203125,
+                     0,
+                     0
+                    ]
+                   },
+                   "/a[1]": {
+                    "id": "jt_print_view_on",
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     468.953125,
+                     414.203125,
+                     68.53125,
+                     17
+                    ],
+                    "/span": {
+                     "color": "#0000eeff",
+                     "cursor": "pointer",
+                     "box": [
+                      468.953125,
+                      414.203125,
+                      68.53125,
+                      17
+                     ],
+                     "/text()": {
+                      "box": [
+                       468.953125,
+                       414.203125,
+                       69,
+                       17
+                      ]
+                     }
+                    }
+                   },
+                   "/a[2]": {
+                    "id": "jt_print_view_off",
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "/span": {
+                     "color": "#0000eeff",
+                     "cursor": "pointer",
+                     "/text()": {}
+                    }
+                   },
+                   "/text()[3]": {
+                    "whiteSpace": true
+                   }
+                  },
+                  "/text()[4]": {
+                   "whiteSpace": true
+                  },
+                  "/td[4]": {
+                   "box": [
+                    537.484375,
+                    414.203125,
+                    57.328125,
+                    18
+                   ],
+                   "/text()": {
+                    "whiteSpace": true
+                   },
+                   "/a": {
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     537.484375,
+                     414.203125,
+                     57.328125,
+                     17
+                    ],
+                    "/span": {
+                     "color": "#0000eeff",
+                     "cursor": "pointer",
+                     "box": [
+                      537.484375,
+                      414.203125,
+                      57.328125,
+                      17
+                     ],
+                     "/text()": {
+                      "box": [
+                       537.484375,
+                       414.203125,
+                       57.328125,
+                       17
+                      ]
+                     }
+                    }
+                   }
+                  },
+                  "/text()[5]": {
+                   "whiteSpace": true
+                  },
+                  "/td[5]": {
+                   "box": [
+                    594.8125,
+                    414.203125,
+                    69.765625,
+                    18
+                   ],
+                   "/a": {
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     594.8125,
+                     414.203125,
+                     69.765625,
+                     17
+                    ],
+                    "/span": {
+                     "color": "#0000eeff",
+                     "cursor": "pointer",
+                     "box": [
+                      594.8125,
+                      414.203125,
+                      69.765625,
+                      17
+                     ],
+                     "/text()": {
+                      "box": [
+                       594.8125,
+                       414.203125,
+                       69.765625,
+                       17
+                      ]
+                     }
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     594.8125,
+                     414.203125,
+                     0,
+                     0
+                    ]
+                   }
+                  },
+                  "/text()[6]": {
+                   "whiteSpace": true
+                  },
+                  "/td[6]": {
+                   "box": [
+                    664.578125,
+                    414.203125,
+                    87.546875,
+                    18
+                   ],
+                   "/a": {
+                    "textDecoration": "underline solid rgb(0, 0, 238)",
+                    "color": "#0000eeff",
+                    "cursor": "pointer",
+                    "box": [
+                     664.578125,
+                     414.203125,
+                     87.546875,
+                     17
+                    ],
+                    "/span": {
+                     "color": "#0000eeff",
+                     "cursor": "pointer",
+                     "box": [
+                      664.578125,
+                      414.203125,
+                      87.546875,
+                      17
+                     ],
+                     "/text()": {
+                      "box": [
+                       664.578125,
+                       414.203125,
+                       88,
+                       18
+                      ]
+                     }
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true,
+                    "box": [
+                     664.578125,
+                     414.203125,
+                     0,
+                     0
+                    ]
+                   }
+                  },
+                  "/text()[7]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()": {
+                  "whiteSpace": true
+                 }
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/div": {
+                "id": "jt_more_tools",
+                "/div": {
+                 "/text()[1]": {
+                  "whiteSpace": true
+                 },
+                 "/text()[2]": {
+                  "whiteSpace": true
+                 },
+                 "/a[1]": {
+                  "id": "jt_map_enlarge",
+                  "textDecoration": "underline solid rgb(0, 0, 238)",
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "/text()": {}
+                 },
+                 "/a[2]": {
+                  "id": "jt_map_shrink",
+                  "textDecoration": "underline solid rgb(0, 0, 238)",
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "/text()": {}
+                 },
+                 "/text()[3]": {
+                  "whiteSpace": true
+                 },
+                 "/a[3]": {
+                  "id": "jt_map_street_zoom",
+                  "textDecoration": "underline solid rgb(0, 0, 238)",
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "/text()": {}
+                 },
+                 "/text()[4]": {
+                  "whiteSpace": true
+                 },
+                 "/br[1]": {},
+                 "/br[2]": {},
+                 "/text()[5]": {
+                  "whiteSpace": true
+                 },
+                 "/div": {
+                  "id": "jt_map",
+                  "border": "1px solid rgb(0, 0, 0)"
+                 },
+                 "/text()[6]": {
+                  "whiteSpace": true
+                 }
+                },
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
+                "/text()[2]": {
+                 "whiteSpace": true
+                }
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[5]": {
+               "whiteSpace": true
+              },
+              "/div[4]": {
+               "id": "jt_job_summary",
+               "box": [
+                258.34375,
+                448.203125,
+                533.65625,
+                88
+               ],
+               "/p": {
+                "box": [
+                 258.34375,
+                 448.203125,
+                 533.65625,
+                 18
+                ],
+                "/em": {
+                 "fontStyle": "italic",
+                 "box": [
+                  258.34375,
+                  448.203125,
+                  218.65625,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   448.203125,
+                   219,
+                   18
+                  ]
+                 }
+                },
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
+                "/text()[2]": {
+                 "whiteSpace": true,
+                 "box": [
+                  258.34375,
+                  448.203125,
+                  0,
+                  0
+                 ]
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/table": {
+                "box": [
+                 258.34375,
+                 482.203125,
+                 426,
+                 54
+                ],
+                "/text()": {
+                 "whiteSpace": true
+                },
+                "/tbody": {
+                 "box": [
+                  258.34375,
+                  482.203125,
+                  426,
+                  54
+                 ],
+                 "/tr": {
+                  "box": [
+                   258.34375,
+                   482.203125,
+                   426,
+                   54
+                  ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
+                  "/td[1]": {
+                   "box": [
+                    258.34375,
+                    482.203125,
+                    231.046875,
+                    54
+                   ],
+                   "/table": {
+                    "box": [
+                     258.34375,
+                     482.203125,
+                     231.046875,
+                     54
+                    ],
+                    "/text()": {
+                     "whiteSpace": true
+                    },
+                    "/tbody": {
+                     "box": [
+                      258.34375,
+                      482.203125,
+                      231.046875,
+                      54
+                     ],
+                     "/tr[1]": {
+                      "box": [
+                       258.34375,
+                       482.203125,
+                       231.046875,
+                       18
+                      ],
+                      "/th": {
+                       "fontWeight": "700",
+                       "textAlign": "center",
+                       "box": [
+                        258.34375,
+                        482.203125,
+                        96.453125,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         280.5625,
+                         482.203125,
+                         52.015625,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
+                      "/text()[2]": {
+                       "whiteSpace": true
+                      },
+                      "/td": {
+                       "box": [
+                        354.796875,
+                        482.203125,
+                        134.59375,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         354.796875,
+                         482.203125,
+                         56,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[3]": {
+                       "whiteSpace": true
+                      }
+                     },
+                     "/tr[2]": {
+                      "box": [
+                       258.34375,
+                       500.203125,
+                       231.046875,
+                       18
+                      ],
+                      "/th": {
+                       "fontWeight": "700",
+                       "textAlign": "center",
+                       "box": [
+                        258.34375,
+                        500.203125,
+                        96.453125,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         258.34375,
+                         500.203125,
+                         96.453125,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
+                      "/text()[2]": {
+                       "whiteSpace": true
+                      },
+                      "/td": {
+                       "box": [
+                        354.796875,
+                        500.203125,
+                        134.59375,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         354.796875,
+                         500.203125,
+                         62.203125,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[3]": {
+                       "whiteSpace": true
+                      }
+                     },
+                     "/text()[1]": {
+                      "whiteSpace": true
+                     },
+                     "/text()[2]": {
+                      "whiteSpace": true
+                     },
+                     "/tr[3]": {
+                      "box": [
+                       258.34375,
+                       518.203125,
+                       231.046875,
+                       18
+                      ],
+                      "/th": {
+                       "fontWeight": "700",
+                       "textAlign": "center",
+                       "box": [
+                        258.34375,
+                        518.203125,
+                        96.453125,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         258.640625,
+                         518.203125,
+                         95.859375,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
+                      "/text()[2]": {
+                       "whiteSpace": true
+                      },
+                      "/td": {
+                       "box": [
+                        354.796875,
+                        518.203125,
+                        134.59375,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         354.796875,
+                         518.203125,
+                         136,
+                         18
+                        ]
+                       }
+                      },
+                      "/text()[3]": {
+                       "whiteSpace": true
+                      }
+                     },
+                     "/text()[3]": {
+                      "whiteSpace": true
+                     }
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true
+                   }
+                  },
+                  "/td[2]": {
+                   "box": [
+                    489.390625,
+                    482.203125,
+                    194.953125,
+                    54
+                   ],
+                   "/table": {
+                    "box": [
+                     489.390625,
+                     491.203125,
+                     194.953125,
+                     36
+                    ],
+                    "/text()": {
+                     "whiteSpace": true
+                    },
+                    "/tbody": {
+                     "box": [
+                      489.390625,
+                      491.203125,
+                      194.953125,
+                      36
+                     ],
+                     "/tr[1]": {
+                      "box": [
+                       489.390625,
+                       491.203125,
+                       194.953125,
+                       18
+                      ],
+                      "/th": {
+                       "fontWeight": "700",
+                       "textAlign": "center",
+                       "box": [
+                        489.390625,
+                        491.203125,
+                        67.421875,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         497.765625,
+                         491.203125,
+                         50.65625,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
+                      "/text()[2]": {
+                       "whiteSpace": true
+                      },
+                      "/td": {
+                       "box": [
+                        556.8125,
+                        491.203125,
+                        127.53125,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         556.8125,
+                         491.203125,
+                         127.53125,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[3]": {
+                       "whiteSpace": true
+                      }
+                     },
+                     "/tr[2]": {
+                      "box": [
+                       489.390625,
+                       509.203125,
+                       194.953125,
+                       18
+                      ],
+                      "/th": {
+                       "fontWeight": "700",
+                       "textAlign": "center",
+                       "box": [
+                        489.390625,
+                        509.203125,
+                        67.421875,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         489.390625,
+                         509.203125,
+                         68,
+                         18
+                        ]
+                       }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
+                      "/text()[2]": {
+                       "whiteSpace": true
+                      },
+                      "/td": {
+                       "box": [
+                        556.8125,
+                        509.203125,
+                        127.53125,
+                        18
+                       ],
+                       "/text()": {
+                        "box": [
+                         556.8125,
+                         509.203125,
+                         64.328125,
+                         17
+                        ]
+                       }
+                      },
+                      "/text()[3]": {
+                       "whiteSpace": true
+                      }
+                     },
+                     "/text()[1]": {
+                      "whiteSpace": true
+                     },
+                     "/text()[2]": {
+                      "whiteSpace": true
+                     }
+                    }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true
+                   }
+                  },
+                  "/text()[3]": {
+                   "whiteSpace": true
+                  }
+                 },
+                 "/text()": {
+                  "whiteSpace": true
+                 }
+                }
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[6]": {
+               "whiteSpace": true
+              },
+              "/div[5]": {
+               "id": "jt_job_contact",
+               "box": [
+                258.34375,
+                536.203125,
+                533.65625,
+                0
+               ],
+               "/text()": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[7]": {
+               "whiteSpace": true
+              },
+              "/div[6]": {
+               "id": "jt_job_description",
+               "box": [
+                258.34375,
+                557.640625,
+                533.65625,
+                872.15625
+               ],
+               "/h1": {
+                "fontSize": 32,
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 557.640625,
+                 533.65625,
+                 37
+                ],
+                "/span": {
+                 "fontSize": 32,
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  557.640625,
+                  406.265625,
+                  36
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   557.640625,
+                   398.265625,
+                   36
+                  ]
+                 },
+                 "/span": {
+                  "fontSize": 32,
+                  "fontWeight": "700",
+                  "box": [
+                   656.609375,
+                   557.640625,
+                   8,
+                   36
+                  ],
+                  "/text()": {
+                   "whiteSpace": true,
+                   "box": [
+                    656.609375,
+                    557.640625,
+                    8,
+                    36
+                   ]
+                  }
+                 }
+                }
+               },
+               "/text()[1]": {
+                "whiteSpace": true
+               },
+               "/text()[2]": {
+                "whiteSpace": true
+               },
+               "/text()[3]": {
+                "whiteSpace": true
+               },
+               "/text()[4]": {
+                "whiteSpace": true
+               },
+               "/p[1]": {
+                "box": [
+                 258.34375,
+                 662.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "fontSize": 10,
+                 "box": [
+                  258.34375,
+                  667.984375,
+                  2.5,
+                  11
+                 ],
+                 "/text()": {
+                  "whiteSpace": true,
+                  "box": [
+                   258.34375,
+                   667.984375,
+                   2.5,
+                   11
+                  ]
+                 }
+                }
+               },
+               "/p[2]": {
+                "textAlign": "justify",
+                "box": [
+                 258.34375,
+                 680.984375,
+                 533.65625,
+                 54
+                ],
+                "/span": {
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  680.984375,
+                  533.65625,
+                  53
+                 ],
+                 "/span": {
+                  "textAlign": "justify",
+                  "box": [
+                   755.640625,
+                   680.984375,
+                   7.90625,
+                   17
+                  ],
+                  "/text()": {
+                   "whiteSpace": true,
+                   "box": [
+                    755.640625,
+                    680.984375,
+                    7.90625,
+                    17
+                   ]
+                  }
+                 },
+                 "/text()[1]": {
+                  "box": [
+                   258.34375,
+                   680.984375,
+                   498,
+                   18
+                  ]
+                 },
+                 "/text()[2]": {
+                  "box": [
+                   258.34375,
+                   680.984375,
+                   534,
+                   54
+                  ]
+                 }
+                }
+               },
+               "/text()[5]": {
+                "whiteSpace": true
+               },
+               "/p[3]": {
+                "box": [
+                 258.34375,
+                 734.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  734.984375,
+                  4,
+                  17
+                 ],
+                 "/text()": {
+                  "whiteSpace": true,
+                  "box": [
+                   258.34375,
+                   734.984375,
+                   4,
+                   17
+                  ]
+                 }
+                }
+               },
+               "/text()[6]": {
+                "whiteSpace": true
+               },
+               "/p[4]": {
+                "box": [
+                 258.34375,
+                 752.984375,
+                 533.65625,
+                 18
+                ],
+                "/strong": {
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  752.984375,
+                  112.015625,
+                  17
+                 ],
+                 "/span": {
+                  "fontWeight": "700",
+                  "box": [
+                   258.34375,
+                   752.984375,
+                   112.015625,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    752.984375,
+                    113,
+                    18
+                   ]
+                  }
+                 }
+                }
+               },
+               "/text()[7]": {
+                "whiteSpace": true
+               },
+               "/p[5]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 770.984375,
+                 509.65625,
+                 18
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  770.984375,
+                  40,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   770.984375,
+                   40,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    770.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    770.984375,
+                    36,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     770.984375,
+                     36,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  298.34375,
+                  770.984375,
+                  366.546875,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   298.34375,
+                   770.984375,
+                   367,
+                   18
+                  ]
+                 }
+                }
+               },
+               "/text()[8]": {
+                "whiteSpace": true
+               },
+               "/p[6]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 788.984375,
+                 509.65625,
+                 54
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  788.984375,
+                  64.40625,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   788.984375,
+                   64.40625,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    788.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    788.984375,
+                    60.40625,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     788.984375,
+                     60.40625,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  788.984375,
+                  509.65625,
+                  53
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   788.984375,
+                   510.40625,
+                   54
+                  ]
+                 }
+                }
+               },
+               "/text()[9]": {
+                "whiteSpace": true
+               },
+               "/p[7]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 842.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  842.984375,
+                  53.6875,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   842.984375,
+                   53.6875,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    842.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    842.984375,
+                    49.6875,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     842.984375,
+                     49.6875,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  842.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   842.984375,
+                   509.6875,
+                   35
+                  ]
+                 }
+                }
+               },
+               "/text()[10]": {
+                "whiteSpace": true
+               },
+               "/p[8]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 878.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  878.984375,
+                  64.25,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   878.984375,
+                   64.25,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    878.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    878.984375,
+                    60.25,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     878.984375,
+                     60.25,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  878.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   878.984375,
+                   510.25,
+                   36
+                  ]
+                 }
+                }
+               },
+               "/text()[11]": {
+                "whiteSpace": true
+               },
+               "/p[9]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 914.984375,
+                 509.65625,
+                 54
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  914.984375,
+                  46.234375,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   914.984375,
+                   46.234375,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    914.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    914.984375,
+                    42.234375,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     914.984375,
+                     42.234375,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  914.984375,
+                  509.65625,
+                  53
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   914.984375,
+                   510.234375,
+                   54
+                  ]
+                 }
+                }
+               },
+               "/text()[12]": {
+                "whiteSpace": true
+               },
+               "/p[10]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 968.984375,
+                 509.65625,
+                 54
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  968.984375,
+                  47.28125,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   968.984375,
+                   47.28125,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    968.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    968.984375,
+                    43.28125,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     968.984375,
+                     43.28125,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  968.984375,
+                  509.671875,
+                  53
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   968.984375,
+                   510.28125,
+                   54
+                  ]
+                 }
+                }
+               },
+               "/text()[13]": {
+                "whiteSpace": true
+               },
+               "/p[11]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1022.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1022.984375,
+                  79.265625,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1022.984375,
+                   79.265625,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1022.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1022.984375,
+                    75.265625,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1022.984375,
+                     75.265625,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  1022.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   1022.984375,
+                   510.265625,
+                   36
+                  ]
+                 }
+                }
+               },
+               "/text()[14]": {
+                "whiteSpace": true
+               },
+               "/p[12]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1058.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1058.984375,
+                  55.984375,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1058.984375,
+                   55.984375,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1058.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1058.984375,
+                    51.984375,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1058.984375,
+                     51.984375,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  1058.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   1058.984375,
+                   509.984375,
+                   36
+                  ]
+                 }
+                }
+               },
+               "/text()[15]": {
+                "whiteSpace": true
+               },
+               "/p[13]": {
+                "box": [
+                 258.34375,
+                 1094.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1094.984375,
+                  4,
+                  17
+                 ],
+                 "/text()": {
+                  "whiteSpace": true,
+                  "box": [
+                   258.34375,
+                   1094.984375,
+                   4,
+                   17
+                  ]
+                 }
+                }
+               },
+               "/text()[16]": {
+                "whiteSpace": true
+               },
+               "/p[14]": {
+                "box": [
+                 258.34375,
+                 1112.984375,
+                 533.65625,
+                 18
+                ],
+                "/strong": {
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  1112.984375,
+                  101.34375,
+                  17
+                 ],
+                 "/span": {
+                  "fontWeight": "700",
+                  "box": [
+                   258.34375,
+                   1112.984375,
+                   101.34375,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1112.984375,
+                    101.34375,
+                    17
+                   ]
+                  }
+                 }
+                }
+               },
+               "/text()[17]": {
+                "whiteSpace": true
+               },
+               "/p[15]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1130.984375,
+                 509.65625,
+                 18
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1130.984375,
+                  40,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1130.984375,
+                   40,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1130.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1130.984375,
+                    36,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1130.984375,
+                     36,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  298.34375,
+                  1130.984375,
+                  348.34375,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   298.34375,
+                   1130.984375,
+                   349,
+                   18
+                  ]
+                 }
+                }
+               },
+               "/text()[18]": {
+                "whiteSpace": true
+               },
+               "/p[16]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1148.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1148.984375,
+                  40.953125,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1148.984375,
+                   40.953125,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1148.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1148.984375,
+                    36.953125,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1148.984375,
+                     36.953125,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  1148.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   1148.984375,
+                   509.953125,
+                   36
+                  ]
+                 }
+                }
+               },
+               "/text()[19]": {
+                "whiteSpace": true
+               },
+               "/p[17]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1184.984375,
+                 509.65625,
+                 18
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1184.984375,
+                  40,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1184.984375,
+                   40,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1184.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1184.984375,
+                    36,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1184.984375,
+                     36,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  298.34375,
+                  1184.984375,
+                  303.5,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   298.34375,
+                   1184.984375,
+                   304,
+                   18
+                  ]
+                 }
+                }
+               },
+               "/text()[20]": {
+                "whiteSpace": true
+               },
+               "/p[18]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1202.984375,
+                 509.65625,
+                 36
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1202.984375,
+                  57.046875,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1202.984375,
+                   57.046875,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1202.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1202.984375,
+                    53.046875,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1202.984375,
+                     53.046875,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  282.34375,
+                  1202.984375,
+                  509.671875,
+                  35
+                 ],
+                 "/text()": {
+                  "box": [
+                   282.34375,
+                   1202.984375,
+                   510.046875,
+                   36
+                  ]
+                 }
+                }
+               },
+               "/text()[21]": {
+                "whiteSpace": true
+               },
+               "/p[19]": {
+                "textAlign": "justify",
+                "box": [
+                 282.34375,
+                 1238.984375,
+                 509.65625,
+                 18
+                ],
+                "/span[1]": {
+                 "fontFamily": "Symbol",
+                 "textAlign": "justify",
+                 "box": [
+                  258.34375,
+                  1238.984375,
+                  40,
+                  17
+                 ],
+                 "/span": {
+                  "fontFamily": "Symbol",
+                  "textAlign": "justify",
+                  "box": [
+                   258.34375,
+                   1238.984375,
+                   40,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1238.984375,
+                    4,
+                    17
+                   ]
+                  },
+                  "/span": {
+                   "fontFamily": "Symbol",
+                   "textAlign": "justify",
+                   "box": [
+                    262.34375,
+                    1238.984375,
+                    36,
+                    17
+                   ],
+                   "/text()": {
+                    "whiteSpace": true,
+                    "box": [
+                     262.34375,
+                     1238.984375,
+                     36,
+                     17
+                    ]
+                   }
+                  }
+                 }
+                },
+                "/span[2]": {
+                 "textAlign": "justify",
+                 "box": [
+                  298.34375,
+                  1238.984375,
+                  290.59375,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   298.34375,
+                   1238.984375,
+                   291,
+                   18
+                  ]
+                 }
+                }
+               },
+               "/text()[22]": {
+                "whiteSpace": true
+               },
+               "/p[20]": {
+                "box": [
+                 258.34375,
+                 1256.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1256.984375,
+                  4,
+                  17
+                 ],
+                 "/text()": {
+                  "whiteSpace": true,
+                  "box": [
+                   258.34375,
+                   1256.984375,
+                   4,
+                   17
+                  ]
+                 }
+                }
+               },
+               "/text()[23]": {
+                "whiteSpace": true
+               },
+               "/p[21]": {
+                "box": [
+                 258.34375,
+                 1274.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1274.984375,
+                  384.328125,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   1274.984375,
+                   385,
+                   18
+                  ]
+                 }
+                }
+               },
+               "/text()[24]": {
+                "whiteSpace": true
+               },
+               "/p[22]": {
+                "box": [
+                 258.34375,
+                 1292.984375,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1292.984375,
+                  4,
+                  17
+                 ],
+                 "/text()": {
+                  "whiteSpace": true,
+                  "box": [
+                   258.34375,
+                   1292.984375,
+                   4,
+                   17
+                  ]
+                 }
+                }
+               },
+               "/text()[25]": {
+                "whiteSpace": true
+               },
+               "/h2[1]": {
+                "fontSize": 24,
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 616.078125,
+                 533.65625,
+                 27
+                ],
+                "/span": {
+                 "fontSize": 13,
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  625.078125,
+                  109.453125,
+                  15
+                 ],
+                 "/span[1]": {
+                  "fontSize": 13,
+                  "fontWeight": "700",
+                  "box": [
+                   258.34375,
+                   625.078125,
+                   109.453125,
+                   15
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    625.078125,
+                    110,
+                    15
+                   ]
+                  }
+                 },
+                 "/span[2]": {
+                  "fontSize": 13,
+                  "fontWeight": "700",
+                  "box": [
+                   367.796875,
+                   625.078125,
+                   0,
+                   15
+                  ],
+                  "/text()": {
+                   "whiteSpace": true,
+                   "box": [
+                    258.34375,
+                    616.078125,
+                    0,
+                    0
+                   ]
+                  }
+                 }
+                }
+               },
+               "/h2[2]": {
+                "fontSize": 24,
+                "fontWeight": "700",
+                "box": [
+                 258.34375,
+                 1330.890625,
+                 533.65625,
+                 27
+                ],
+                "/span": {
+                 "fontSize": 24,
+                 "fontWeight": "700",
+                 "box": [
+                  258.34375,
+                  1330.890625,
+                  107.71875,
+                  26
+                 ],
+                 "/span": {
+                  "fontSize": 13,
+                  "fontWeight": "700",
+                  "box": [
+                   258.34375,
+                   1339.890625,
+                   107.71875,
+                   15
+                  ],
+                  "/text()": {
+                   "box": [
+                    258.34375,
+                    1339.890625,
+                    107.71875,
+                    15
+                   ]
+                  }
+                 }
+                }
+               },
+               "/text()[26]": {
+                "whiteSpace": true
+               },
+               "/p[23]": {
+                "box": [
+                 258.34375,
+                 1377.796875,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1377.796875,
+                  238.671875,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   1377.796875,
+                   46.65625,
+                   17
+                  ]
+                 },
+                 "/a": {
+                  "textDecoration": "underline solid rgb(0, 0, 238)",
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "box": [
+                   305,
+                   1377.796875,
+                   192.015625,
+                   17
+                  ],
+                  "/text()": {
+                   "box": [
+                    305,
+                    1377.796875,
+                    193,
+                    18
+                   ]
+                  }
+                 }
+                }
+               },
+               "/text()[27]": {
+                "whiteSpace": true
+               },
+               "/p[24]": {
+                "box": [
+                 258.34375,
+                 1411.796875,
+                 533.65625,
+                 18
+                ],
+                "/span": {
+                 "box": [
+                  258.34375,
+                  1411.796875,
+                  230.0625,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   258.34375,
+                   1411.796875,
+                   55.59375,
+                   17
+                  ]
+                 },
+                 "/span": {
+                  "box": [
+                   313.9375,
+                   1411.796875,
+                   12,
+                   17
+                  ],
+                  "/text()": {
+                   "whiteSpace": true,
+                   "box": [
+                    313.9375,
+                    1411.796875,
+                    12,
+                    17
+                   ]
+                  }
+                 },
+                 "/a": {
+                  "textDecoration": "underline solid rgb(0, 0, 238)",
+                  "color": "#0000eeff",
+                  "cursor": "pointer",
+                  "box": [
+                   325.9375,
+                   1411.796875,
+                   162.46875,
+                   17
+                  ],
+                  "/span": {
+                   "color": "#800080ff",
+                   "cursor": "pointer",
+                   "box": [
+                    325.9375,
+                    1411.796875,
+                    162.46875,
+                    17
+                   ],
+                   "/text()": {
+                    "box": [
+                     325.9375,
+                     1411.796875,
+                     164,
+                     18
+                    ]
+                   }
+                  }
+                 }
+                }
+               },
+               "/text()[28]": {
+                "whiteSpace": true
+               }
+              },
+              "/text()[8]": {
+               "whiteSpace": true
+              },
+              "/a[1]": {
+               "id": "jt_return_to_search_1",
+               "textDecoration": "underline solid rgb(0, 0, 238)",
+               "color": "#0000eeff",
+               "cursor": "pointer",
+               "box": [
+                258.34375,
+                201.875,
+                123.109375,
+                17
+               ],
+               "/text()": {
+                "box": [
+                 258.34375,
+                 201.875,
+                 123.109375,
+                 17
+                ]
+               }
+              },
+              "/a[2]": {
+               "id": "jt_return_to_search_2",
+               "textDecoration": "underline solid rgb(0, 0, 238)",
+               "color": "#0000eeff",
+               "cursor": "pointer",
+               "box": [
+                258.34375,
+                1445.796875,
+                123.109375,
+                17
+               ],
+               "/text()": {
+                "box": [
+                 258.34375,
+                 1445.796875,
+                 123.109375,
+                 17
+                ]
+               }
+              },
+              "/text()[9]": {
+               "whiteSpace": true,
+               "box": [
+                258.34375,
+                1445.796875,
+                0,
+                0
+               ]
+              }
+             },
+             "/text()[1]": {
+              "whiteSpace": true
+             },
+             "/text()[2]": {
+              "whiteSpace": true
+             }
+            },
+            "/text()[1]": {
+             "whiteSpace": true
+            },
+            "/text()[2]": {
+             "whiteSpace": true
+            }
+           },
+           "/text()": {
+            "whiteSpace": true
+           }
+          }
+         },
+         "/text()[7]": {
+          "whiteSpace": true
+         },
+         "/iframe": {
+          "border": "2px inset rgb(0, 0, 0)"
+         },
+         "/text()[8]": {
+          "whiteSpace": true
+         }
+        },
+        "/text()[1]": {
+         "whiteSpace": true
+        },
+        "/text()[2]": {
+         "whiteSpace": true
+        }
+       },
+       "/text()[3]": {
+        "whiteSpace": true
+       }
+      },
+      "/text()": {
+       "whiteSpace": true
+      }
+     }
+    },
+    "/text()[1]": {
+     "whiteSpace": true
+    },
+    "/text()[2]": {
+     "whiteSpace": true
+    }
+   },
+   "/text()[4]": {
+    "whiteSpace": true
+   },
+   "/div[4]": {
+    "id": "jt_footer",
+    "box": [
+     8,
+     1463.796875,
+     784,
+     54
+    ],
+    "/br": {
+     "box": [
+      8,
+      1463.796875,
+      0,
+      0
+     ]
+    },
+    "/text()[1]": {
+     "box": [
+      8,
+      1463.796875,
+      325,
+      18
+     ]
+    },
+    "/text()[2]": {
+     "whiteSpace": true
+    },
+    "/text()[3]": {
+     "box": [
+      135.96875,
+      1481.796875,
+      16,
+      18
+     ]
+    },
+    "/a[1]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      8,
+      1481.796875,
+      127.96875,
+      17
+     ],
+     "/text()": {
+      "box": [
+       8,
+       1481.796875,
+       127.96875,
+       17
+      ]
+     }
+    },
+    "/a[2]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      151.171875,
+      1481.796875,
+      123.53125,
+      17
+     ],
+     "/text()": {
+      "box": [
+       151.171875,
+       1481.796875,
+       123.53125,
+       17
+      ]
+     }
+    },
+    "/text()[4]": {
+     "box": [
+      274.703125,
+      1481.796875,
+      16,
+      18
+     ]
+    },
+    "/a[3]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      289.90625,
+      1481.796875,
+      125.75,
+      17
+     ],
+     "/text()": {
+      "box": [
+       289.90625,
+       1481.796875,
+       126,
+       18
+      ]
+     }
+    },
+    "/text()[5]": {
+     "box": [
+      415.65625,
+      1481.796875,
+      15,
+      18
+     ]
+    },
+    "/a[4]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      430.578125,
+      1481.796875,
+      101.078125,
+      17
+     ],
+     "/text()": {
+      "box": [
+       430.578125,
+       1481.796875,
+       102,
+       18
+      ]
+     }
+    },
+    "/text()[6]": {
+     "box": [
+      531.65625,
+      1481.796875,
+      16,
+      18
+     ]
+    },
+    "/a[5]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      546.859375,
+      1481.796875,
+      93.765625,
+      17
+     ],
+     "/text()": {
+      "box": [
+       546.859375,
+       1481.796875,
+       94,
+       18
+      ]
+     }
+    },
+    "/text()[7]": {
+     "box": [
+      640.625,
+      1481.796875,
+      15,
+      18
+     ]
+    },
+    "/a[6]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      654.953125,
+      1481.796875,
+      106.578125,
+      17
+     ],
+     "/text()": {
+      "box": [
+       654.953125,
+       1481.796875,
+       108,
+       18
+      ]
+     }
+    },
+    "/text()[8]": {
+     "box": [
+      761.53125,
+      1481.796875,
+      12,
+      18
+     ]
+    },
+    "/a[7]": {
+     "textDecoration": "underline solid rgb(0, 0, 238)",
+     "color": "#0000eeff",
+     "cursor": "pointer",
+     "box": [
+      8,
+      1499.796875,
+      116.34375,
+      17
+     ],
+     "/text()": {
+      "box": [
+       8,
+       1499.796875,
+       117,
+       18
+      ]
+     }
+    },
+    "/text()[9]": {
+     "whiteSpace": true,
+     "box": [
+      8,
+      1463.796875,
+      0,
+      0
      ]
     }
+   },
+   "/text()[5]": {
+    "whiteSpace": true
+   },
+   "/div[5]": {
+    "id": "overDiv",
+    "zIndex": "1000"
+   },
+   "/text()[6]": {
+    "whiteSpace": true
    }
   }
  }
