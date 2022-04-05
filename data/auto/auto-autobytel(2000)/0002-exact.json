@@ -23,10 +23,10 @@
    "/text()[4]": {
     "whiteSpace": true
    },
+   "/meta[1]": {},
    "/text()[5]": {
     "whiteSpace": true
    },
-   "/meta[1]": {},
    "/meta[2]": {},
    "/text()[6]": {
     "whiteSpace": true
@@ -61,10 +61,10 @@
    "/text()[14]": {
     "whiteSpace": true
    },
+   "/link[1]": {},
    "/text()[15]": {
     "whiteSpace": true
    },
-   "/link[1]": {},
    "/link[2]": {},
    "/text()[16]": {
     "whiteSpace": true
@@ -80,10 +80,10 @@
    "/text()[19]": {
     "whiteSpace": true
    },
+   "/script[1]": {},
    "/text()[20]": {
     "whiteSpace": true
    },
-   "/script[1]": {},
    "/script[2]": {},
    "/text()[21]": {
     "whiteSpace": true
@@ -131,11 +131,7 @@
     784,
     2886
    ],
-   "/script": {},
    "/text()[1]": {
-    "whiteSpace": true
-   },
-   "/text()[2]": {
     "whiteSpace": true
    },
    "/div[1]": {
@@ -147,6 +143,9 @@
      0
     ]
    },
+   "/text()[2]": {
+    "whiteSpace": true
+   },
    "/div[2]": {
     "id": "overlayClikThrough",
     "box": [
@@ -155,6 +154,9 @@
      784,
      18
     ],
+    "/text()[1]": {
+     "whiteSpace": true
+    },
     "/a": {
      "id": "clickThroughClose",
      "box": [
@@ -179,9 +181,6 @@
       0,
       0
      ]
-    },
-    "/text()[1]": {
-     "whiteSpace": true
     },
     "/text()[2]": {
      "whiteSpace": true
@@ -216,12 +215,6 @@
     "/text()[2]": {
      "whiteSpace": true
     },
-    "/text()[3]": {
-     "whiteSpace": true
-    },
-    "/text()[4]": {
-     "whiteSpace": true
-    },
     "/div[1]": {
      "box": [
       8,
@@ -230,12 +223,6 @@
       836
      ],
      "/text()[1]": {
-      "whiteSpace": true
-     },
-     "/text()[2]": {
-      "whiteSpace": true
-     },
-     "/text()[3]": {
       "whiteSpace": true
      },
      "/div[1]": {
@@ -248,9 +235,6 @@
       "/text()[1]": {
        "whiteSpace": true
       },
-      "/text()[2]": {
-       "whiteSpace": true
-      },
       "/div[1]": {
        "id": "logo",
        "box": [
@@ -259,6 +243,9 @@
         784,
         18
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/a": {
         "textDecoration": "underline solid rgb(0, 0, 238)",
         "color": "#0000eeff",
@@ -269,6 +256,15 @@
          80,
          17
         ],
+        "/text()[1]": {
+         "whiteSpace": true,
+         "box": [
+          8,
+          26,
+          0,
+          0
+         ]
+        },
         "/img": {
          "color": "#0000eeff",
          "cursor": "pointer",
@@ -277,15 +273,6 @@
           26,
           80,
           18
-         ]
-        },
-        "/text()[1]": {
-         "whiteSpace": true,
-         "box": [
-          8,
-          26,
-          0,
-          0
          ]
         },
         "/text()[2]": {
@@ -298,9 +285,6 @@
          ]
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true,
         "box": [
@@ -311,6 +295,9 @@
         ]
        }
       },
+      "/text()[2]": {
+       "whiteSpace": true
+      },
       "/div[2]": {
        "id": "newsletter_img",
        "box": [
@@ -319,6 +306,9 @@
         784,
         150
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/embed": {
         "box": [
          8,
@@ -326,9 +316,6 @@
          300,
          150
         ]
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true,
@@ -351,6 +338,9 @@
         784,
         39
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/form": {
         "box": [
          8,
@@ -358,18 +348,15 @@
          784,
          39
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/input": {
          "fontFamily": "Arial",
          "fontSize": 13,
          "cursor": "default"
         },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
         "/text()[2]": {
-         "whiteSpace": true
-        },
-        "/text()[3]": {
          "whiteSpace": true
         },
         "/div[1]": {
@@ -389,6 +376,9 @@
           ]
          }
         },
+        "/text()[3]": {
+         "whiteSpace": true
+        },
         "/div[2]": {
          "id": "fq_drpdwn",
          "box": [
@@ -400,31 +390,19 @@
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true,
-          "box": [
-           73,
-           213,
-           12,
-           17
-          ]
-         },
          "/select[1]": {
           "fontFamily": "Arial",
           "fontSize": 13,
-          "backgroundColor": "#ffffffff",
+          "backgroundColor": "#ddddddff",
           "border": "1px solid rgb(118, 118, 118)",
           "cursor": "default",
           "box": [
            8,
            213,
-           65,
+           54,
            19
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/option[1]": {
@@ -432,6 +410,9 @@
            "fontSize": 13,
            "cursor": "default",
            "/text()": {}
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/option[2]": {
            "fontFamily": "Arial",
@@ -443,22 +424,28 @@
            "whiteSpace": true
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true,
+          "box": [
+           62,
+           213,
+           12,
+           17
+          ]
+         },
          "/select[2]": {
           "fontFamily": "Arial",
           "fontSize": 13,
-          "backgroundColor": "#ffffffff",
+          "backgroundColor": "#ddddddff",
           "border": "1px solid rgb(118, 118, 118)",
           "cursor": "default",
           "box": [
-           85,
+           74,
            213,
-           127,
+           116,
            19
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/option[1]": {
@@ -466,6 +453,9 @@
            "fontSize": 13,
            "cursor": "default",
            "/text()": {}
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/option[2]": {
            "fontFamily": "Arial",
@@ -732,18 +722,9 @@
          "/text()[3]": {
           "whiteSpace": true,
           "box": [
-           212,
+           190,
            213,
            4,
-           17
-          ]
-         },
-         "/text()[4]": {
-          "whiteSpace": true,
-          "box": [
-           288,
-           213,
-           8,
            17
           ]
          },
@@ -755,10 +736,19 @@
           "border": "2px inset rgb(118, 118, 118)",
           "cursor": "text",
           "box": [
-           216,
+           194,
            212,
-           72,
+           57,
            21
+          ]
+         },
+         "/text()[4]": {
+          "whiteSpace": true,
+          "box": [
+           251,
+           213,
+           8,
+           17
           ]
          },
          "/input[2]": {
@@ -769,7 +759,7 @@
           "border": "2px outset rgb(118, 118, 118)",
           "cursor": "default",
           "box": [
-           296,
+           259,
            212,
            47.140625,
            21
@@ -789,9 +779,6 @@
          "whiteSpace": true
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true
        }
@@ -799,6 +786,12 @@
       "/text()[4]": {
        "whiteSpace": true
       }
+     },
+     "/text()[2]": {
+      "whiteSpace": true
+     },
+     "/text()[3]": {
+      "whiteSpace": true
      },
      "/div[2]": {
       "box": [
@@ -818,6 +811,9 @@
        784,
        523
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/div": {
        "id": "smoothmenu1",
        "box": [
@@ -826,6 +822,9 @@
         784,
         523
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/ul": {
         "box": [
          8,
@@ -834,9 +833,6 @@
          489
         ],
         "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
          "whiteSpace": true
         },
         "/li[1]": {
@@ -860,12 +856,21 @@
           ],
           "/text()": {
            "box": [
-            47,
+            48,
             249,
-            33,
+            31,
             17
            ]
           }
+         },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           249,
+           0,
+           0
+          ]
          },
          "/ul": {
           "textAlign": "left",
@@ -875,6 +880,9 @@
            744,
            108
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/li[1]": {
            "textAlign": "left",
            "box": [
@@ -896,9 +904,9 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               267,
-              66,
+              63.546875,
               17
              ]
             }
@@ -934,16 +942,13 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               285,
-              146,
+              143.515625,
               17
              ]
             }
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -971,8 +976,8 @@
              "box": [
               88,
               303,
-              91.984375,
-              17
+              92,
+              18
              ]
             }
            }
@@ -1067,8 +1072,8 @@
              "box": [
               88,
               357,
-              61,
-              17
+              60,
+              18
              ]
             }
            }
@@ -1077,18 +1082,12 @@
            "whiteSpace": true
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           249,
-           0,
-           0
-          ]
-         },
          "/text()[2]": {
           "whiteSpace": true
          }
+        },
+        "/text()[2]": {
+         "whiteSpace": true
         },
         "/li[2]": {
          "textAlign": "left",
@@ -1111,12 +1110,21 @@
           ],
           "/text()": {
            "box": [
-            47,
+            48,
             375,
-            36,
+            32.890625,
             17
            ]
           }
+         },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           375,
+           0,
+           0
+          ]
          },
          "/ul": {
           "textAlign": "left",
@@ -1126,6 +1134,9 @@
            744,
            54
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/li[1]": {
            "textAlign": "left",
            "box": [
@@ -1147,9 +1158,9 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               393,
-              68,
+              66.21875,
               17
              ]
             }
@@ -1185,16 +1196,13 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               411,
-              164,
-              17
+              162,
+              18
              ]
             }
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -1220,10 +1228,10 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               429,
-              156,
-              17
+              154,
+              18
              ]
             }
            }
@@ -1231,15 +1239,6 @@
           "/text()[3]": {
            "whiteSpace": true
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           375,
-           0,
-           0
-          ]
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -1276,6 +1275,15 @@
            ]
           }
          },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           447,
+           0,
+           0
+          ]
+         },
          "/ul": {
           "textAlign": "left",
           "box": [
@@ -1285,9 +1293,6 @@
            36
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/li[1]": {
@@ -1313,11 +1318,14 @@
              "box": [
               88,
               465,
-              79.78125,
-              17
+              80,
+              18
              ]
             }
            }
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/li[2]": {
            "textAlign": "left",
@@ -1352,15 +1360,6 @@
            "whiteSpace": true
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           447,
-           0,
-           0
-          ]
-         },
          "/text()[2]": {
           "whiteSpace": true
          }
@@ -1391,10 +1390,19 @@
            "box": [
             48,
             501,
-            91.09375,
-            17
+            92,
+            18
            ]
           }
+         },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           501,
+           0,
+           0
+          ]
          },
          "/ul": {
           "textAlign": "left",
@@ -1405,9 +1413,6 @@
            36
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/li[1]": {
@@ -1431,13 +1436,16 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               519,
-              130,
-              17
+              128,
+              18
              ]
             }
            }
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/li[2]": {
            "textAlign": "left",
@@ -1460,9 +1468,9 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               537,
-              150,
+              147.515625,
               17
              ]
             }
@@ -1471,15 +1479,6 @@
           "/text()[3]": {
            "whiteSpace": true
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           501,
-           0,
-           0
-          ]
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -1516,6 +1515,15 @@
            ]
           }
          },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           555,
+           0,
+           0
+          ]
+         },
          "/ul": {
           "textAlign": "left",
           "box": [
@@ -1525,9 +1533,6 @@
            54
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/li[1]": {
@@ -1553,11 +1558,14 @@
              "box": [
               88,
               573,
-              91.984375,
-              17
+              92,
+              18
              ]
             }
            }
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/li[2]": {
            "textAlign": "left",
@@ -1580,10 +1588,10 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               591,
-              99,
-              17
+              97,
+              18
              ]
             }
            }
@@ -1614,7 +1622,7 @@
              "box": [
               88,
               609,
-              41,
+              39.09375,
               17
              ]
             }
@@ -1623,15 +1631,6 @@
           "/text()[4]": {
            "whiteSpace": true
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           555,
-           0,
-           0
-          ]
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -1668,6 +1667,15 @@
            ]
           }
          },
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           48,
+           627,
+           0,
+           0
+          ]
+         },
          "/ul": {
           "textAlign": "left",
           "box": [
@@ -1677,9 +1685,6 @@
            54
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/li[1]": {
@@ -1703,13 +1708,16 @@
             ],
             "/text()": {
              "box": [
-              87,
+              88,
               645,
-              81,
+              78.6875,
               17
              ]
             }
            }
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/li[2]": {
            "textAlign": "left",
@@ -1734,8 +1742,8 @@
              "box": [
               88,
               663,
-              58.21875,
-              17
+              59,
+              18
              ]
             }
            }
@@ -1776,15 +1784,6 @@
            "whiteSpace": true
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           48,
-           627,
-           0,
-           0
-          ]
-         },
          "/text()[2]": {
           "whiteSpace": true
          }
@@ -1813,10 +1812,10 @@
           ],
           "/text()": {
            "box": [
-            47,
+            48,
             699,
-            80,
-            17
+            78,
+            18
            ]
           }
          },
@@ -1841,6 +1840,9 @@
           744,
           21
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/form": {
           "id": "frm_abtl_search",
           "textAlign": "left",
@@ -1853,13 +1855,13 @@
           "/text()[1]": {
            "whiteSpace": true
           },
-          "/text()[2]": {
-           "whiteSpace": true
-          },
           "/input[1]": {
            "fontFamily": "Arial",
            "fontSize": 13,
            "cursor": "default"
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/input[2]": {
            "id": "site_search",
@@ -1871,14 +1873,14 @@
            "box": [
             58,
             717,
-            121,
+            113,
             21
            ]
           },
           "/text()[3]": {
            "whiteSpace": true,
            "box": [
-            179,
+            171,
             718,
             4,
             17
@@ -1890,7 +1892,7 @@
            "fontSize": 13,
            "cursor": "pointer",
            "box": [
-            183,
+            175,
             720,
             55.265625,
             16
@@ -1906,9 +1908,6 @@
            ]
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
          "/text()[2]": {
           "whiteSpace": true
          }
@@ -1916,9 +1915,6 @@
         "/text()[9]": {
          "whiteSpace": true
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true
@@ -1935,9 +1931,6 @@
         "whiteSpace": true
        }
       },
-      "/text()[1]": {
-       "whiteSpace": true
-      },
       "/text()[2]": {
        "whiteSpace": true
       }
@@ -1953,6 +1946,9 @@
        784,
        90
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/div": {
        "textAlign": "left",
        "box": [
@@ -1961,6 +1957,9 @@
         661,
         90
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/span": {
         "id": "adBannerAjaxUpdate",
         "textAlign": "left",
@@ -2002,9 +2001,6 @@
          ]
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true,
         "box": [
@@ -2014,9 +2010,6 @@
          0
         ]
        }
-      },
-      "/text()[1]": {
-       "whiteSpace": true
       },
       "/text()[2]": {
        "whiteSpace": true
@@ -2037,6 +2030,12 @@
       "whiteSpace": true
      }
     },
+    "/text()[3]": {
+     "whiteSpace": true
+    },
+    "/text()[4]": {
+     "whiteSpace": true
+    },
     "/div[2]": {
      "id": "contentframe",
      "box": [
@@ -2045,6 +2044,9 @@
       784,
       1679
      ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
      "/span": {
       "id": "dspPageTitleSectionFixed",
       "box": [
@@ -2053,6 +2055,15 @@
        0,
        0
       ],
+      "/text()[1]": {
+       "whiteSpace": true,
+       "box": [
+        8,
+        867,
+        0,
+        0
+       ]
+      },
       "/table": {
        "box": [
         8,
@@ -2080,9 +2091,6 @@
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/td[1]": {
           "box": [
            8,
@@ -2099,6 +2107,9 @@
            ]
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/td[2]": {
           "box": [
            68,
@@ -2106,6 +2117,9 @@
            131.140625,
            53
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/h1": {
            "fontSize": 20,
            "fontWeight": "700",
@@ -2124,9 +2138,6 @@
             ]
            }
           },
-          "/text()[1]": {
-           "whiteSpace": true
-          },
           "/text()[2]": {
            "whiteSpace": true
           },
@@ -2142,8 +2153,8 @@
             "box": [
              68,
              894,
-             69,
-             17
+             68,
+             18
             ]
            }
           },
@@ -2160,21 +2171,9 @@
         }
        }
       },
-      "/text()[1]": {
-       "whiteSpace": true,
-       "box": [
-        8,
-        867,
-        0,
-        0
-       ]
-      },
       "/text()[2]": {
        "whiteSpace": true
       }
-     },
-     "/text()[1]": {
-      "whiteSpace": true
      },
      "/text()[2]": {
       "whiteSpace": true,
@@ -2209,6 +2208,9 @@
          975,
          1474
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/td": {
          "box": [
           8,
@@ -2219,11 +2221,11 @@
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/style[1]": {
           "/text()": {}
+         },
+         "/text()[2]": {
+          "whiteSpace": true
          },
          "/style[2]": {
           "/text()": {}
@@ -2259,9 +2261,6 @@
             "/text()[1]": {
              "whiteSpace": true
             },
-            "/text()[2]": {
-             "whiteSpace": true
-            },
             "/td[1]": {
              "box": [
               10,
@@ -2269,6 +2268,9 @@
               324,
               385
              ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
              "/div": {
               "id": "photo",
               "box": [
@@ -2277,6 +2279,9 @@
                322,
                322
               ],
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/img": {
                "border": "1px solid rgb(204, 204, 204)",
                "box": [
@@ -2285,9 +2290,6 @@
                 322,
                 322
                ]
-              },
-              "/text()[1]": {
-               "whiteSpace": true
               },
               "/text()[2]": {
                "whiteSpace": true,
@@ -2299,12 +2301,12 @@
                ]
               }
              },
-             "/text()[1]": {
-              "whiteSpace": true
-             },
              "/text()[2]": {
               "whiteSpace": true
              }
+            },
+            "/text()[2]": {
+             "whiteSpace": true
             },
             "/td[2]": {
              "box": [
@@ -2313,6 +2315,9 @@
               392.625,
               385
              ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
              "/h2": {
               "fontWeight": "700",
               "box": [
@@ -2323,15 +2328,12 @@
               ],
               "/text()": {
                "box": [
-                343,
+                344,
                 923,
-                183,
-                17
+                182,
+                18
                ]
               }
-             },
-             "/text()[1]": {
-              "whiteSpace": true
              },
              "/text()[2]": {
               "whiteSpace": true
@@ -2353,14 +2355,6 @@
                 14
                ]
               },
-              "/text()[2]": {
-               "box": [
-                344,
-                956,
-                161,
-                14
-               ]
-              },
               "/br[1]": {
                "fontSize": 12,
                "fontWeight": "700",
@@ -2369,6 +2363,14 @@
                 941,
                 0,
                 0
+               ]
+              },
+              "/text()[2]": {
+               "box": [
+                344,
+                956,
+                161,
+                14
                ]
               },
               "/br[2]": {
@@ -2383,9 +2385,9 @@
               },
               "/text()[3]": {
                "box": [
-                343,
+                344,
                 971,
-                28,
+                27,
                 14
                ]
               },
@@ -2401,9 +2403,9 @@
               },
               "/text()[4]": {
                "box": [
-                343,
+                344,
                 986,
-                150,
+                147.3125,
                 14
                ]
               }
@@ -2420,10 +2422,10 @@
               ],
               "/text()": {
                "box": [
-                343,
+                344,
                 1017,
-                372.015625,
-                125
+                372,
+                126
                ]
               }
              },
@@ -2434,20 +2436,20 @@
                376.625,
                36
               ],
-              "/br": {
-               "box": [
-                344,
-                1159,
-                0,
-                0
-               ]
-              },
               "/text()[1]": {
                "box": [
                 344,
                 1159,
                 242.578125,
                 17
+               ]
+              },
+              "/br": {
+               "box": [
+                344,
+                1159,
+                0,
+                0
                ]
               },
               "/text()[2]": {
@@ -2470,9 +2472,9 @@
                ],
                "/text()": {
                 "box": [
-                 354.71875,
+                 355.71875,
                  1177,
-                 93,
+                 90.578125,
                  17
                 ]
                }
@@ -2485,6 +2487,9 @@
                376.625,
                53
               ],
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/br": {
                "box": [
                 344,
@@ -2492,9 +2497,6 @@
                 0,
                 0
                ]
-              },
-              "/text()[1]": {
-               "whiteSpace": true
               },
               "/text()[2]": {
                "whiteSpace": true
@@ -2528,6 +2530,9 @@
               250.375,
               385
              ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
              "/div": {
               "backgroundColor": "#d6d6d6ff",
               "box": [
@@ -2539,9 +2544,6 @@
               "/text()[1]": {
                "whiteSpace": true
               },
-              "/text()[2]": {
-               "whiteSpace": true
-              },
               "/div[1]": {
                "fontSize": 0,
                "backgroundImage": "url(\"http://www.autobytel.com/images/abtl/corners-outline.png\")",
@@ -2551,6 +2553,9 @@
                 10,
                 10
                ]
+              },
+              "/text()[2]": {
+               "whiteSpace": true
               },
               "/div[2]": {
                "fontSize": 0,
@@ -2600,6 +2605,9 @@
                 248.375,
                 363
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/table": {
                 "box": [
                  742.625,
@@ -2627,9 +2635,6 @@
                   "/text()[1]": {
                    "whiteSpace": true
                   },
-                  "/text()[2]": {
-                   "whiteSpace": true
-                  },
                   "/td[1]": {
                    "box": [
                     742.625,
@@ -2649,11 +2654,14 @@
                      "box": [
                       742.625,
                       934,
-                      126.375,
-                      17
+                      127,
+                      18
                      ]
                     }
                    }
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
                   },
                   "/td[2]": {
                    "box": [
@@ -2692,6 +2700,9 @@
                    226.375,
                    18
                   ],
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
                   "/td": {
                    "box": [
                     742.625,
@@ -2719,16 +2730,13 @@
                     ],
                     "/text()": {
                      "box": [
-                      753.625,
+                      754.625,
                       952,
-                      138,
+                      136,
                       17
                      ]
                     }
                    }
-                  },
-                  "/text()[1]": {
-                   "whiteSpace": true
                   },
                   "/text()[2]": {
                    "whiteSpace": true
@@ -2738,9 +2746,6 @@
                   "whiteSpace": true
                  }
                 }
-               },
-               "/text()[1]": {
-                "whiteSpace": true
                },
                "/text()[2]": {
                 "whiteSpace": true
@@ -2752,6 +2757,9 @@
                  226.375,
                  133
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/table": {
                  "box": [
                   742.625,
@@ -2779,9 +2787,6 @@
                    "/text()[1]": {
                     "whiteSpace": true
                    },
-                   "/text()[2]": {
-                    "whiteSpace": true
-                   },
                    "/td[1]": {
                     "box": [
                      742.625,
@@ -2801,11 +2806,14 @@
                       "box": [
                        742.625,
                        995,
-                       110.65625,
-                       17
+                       111,
+                       18
                       ]
                      }
                     }
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true
                    },
                    "/td[2]": {
                     "textAlign": "-webkit-right",
@@ -2828,6 +2836,9 @@
                     "whiteSpace": true
                    }
                   },
+                  "/text()[1]": {
+                   "whiteSpace": true
+                  },
                   "/tr[2]": {
                    "box": [
                     742.625,
@@ -2836,9 +2847,6 @@
                     36
                    ],
                    "/text()[1]": {
-                    "whiteSpace": true
-                   },
-                   "/text()[2]": {
                     "whiteSpace": true
                    },
                    "/td[1]": {
@@ -2860,11 +2868,14 @@
                       "box": [
                        742.625,
                        1022,
-                       57,
+                       56,
                        35
                       ]
                      }
                     }
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true
                    },
                    "/td[2]": {
                     "textAlign": "-webkit-right",
@@ -2887,9 +2898,6 @@
                     "whiteSpace": true
                    }
                   },
-                  "/text()[1]": {
-                   "whiteSpace": true
-                  },
                   "/text()[2]": {
                    "whiteSpace": true
                   },
@@ -2900,6 +2908,9 @@
                     170,
                     61
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "box": [
                      742.625,
@@ -2907,6 +2918,9 @@
                      170,
                      61
                     ],
+                    "/text()[1]": {
+                     "whiteSpace": true
+                    },
                     "/div": {
                      "color": "#990000ff",
                      "box": [
@@ -2926,16 +2940,13 @@
                       ],
                       "/text()": {
                        "box": [
-                        741.625,
+                        742.625,
                         1068,
-                        80,
+                        78.34375,
                         17
                        ]
                       }
                      }
-                    },
-                    "/text()[1]": {
-                     "whiteSpace": true
                     },
                     "/text()[2]": {
                      "whiteSpace": true
@@ -2968,8 +2979,8 @@
                        "box": [
                         760.625,
                         1094,
-                        92,
-                        17
+                        91,
+                        18
                        ]
                       }
                      }
@@ -2977,9 +2988,6 @@
                     "/text()[3]": {
                      "whiteSpace": true
                     }
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
                    },
                    "/text()[2]": {
                     "whiteSpace": true
@@ -2989,9 +2997,6 @@
                    "whiteSpace": true
                   }
                  }
-                },
-                "/text()[1]": {
-                 "whiteSpace": true
                 },
                 "/text()[2]": {
                  "whiteSpace": true
@@ -3007,19 +3012,28 @@
                 "/text()[1]": {
                  "whiteSpace": true
                 },
+                "/b[1]": {
+                 "fontWeight": "700",
+                 "box": [
+                  742.625,
+                  1135,
+                  84.15625,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   742.625,
+                   1135,
+                   85,
+                   18
+                  ]
+                 }
+                },
                 "/text()[2]": {
                  "box": [
                   826.78125,
                   1135,
                   77.328125,
-                  17
-                 ]
-                },
-                "/text()[3]": {
-                 "box": [
-                  742.625,
-                  1153,
-                  12,
                   17
                  ]
                 },
@@ -3031,6 +3045,33 @@
                   0
                  ]
                 },
+                "/text()[3]": {
+                 "box": [
+                  742.625,
+                  1153,
+                  12,
+                  17
+                 ]
+                },
+                "/a[1]": {
+                 "textDecoration": "underline solid rgb(0, 0, 238)",
+                 "color": "#0000eeff",
+                 "cursor": "pointer",
+                 "box": [
+                  754.625,
+                  1153,
+                  109.765625,
+                  17
+                 ],
+                 "/text()": {
+                  "box": [
+                   754.625,
+                   1153,
+                   109.765625,
+                   17
+                  ]
+                 }
+                },
                 "/br[2]": {
                  "box": [
                   742.625,
@@ -3041,23 +3082,6 @@
                 },
                 "/text()[4]": {
                  "whiteSpace": true
-                },
-                "/b[1]": {
-                 "fontWeight": "700",
-                 "box": [
-                  742.625,
-                  1135,
-                  84.15625,
-                  17
-                 ],
-                 "/text()": {
-                  "box": [
-                   741.625,
-                   1135,
-                   86,
-                   17
-                  ]
-                 }
                 },
                 "/b[2]": {
                  "fontWeight": "700",
@@ -3092,25 +3116,6 @@
                   17
                  ]
                 },
-                "/a[1]": {
-                 "textDecoration": "underline solid rgb(0, 0, 238)",
-                 "color": "#0000eeff",
-                 "cursor": "pointer",
-                 "box": [
-                  754.625,
-                  1153,
-                  109.765625,
-                  17
-                 ],
-                 "/text()": {
-                  "box": [
-                   754.625,
-                   1153,
-                   111,
-                   17
-                  ]
-                 }
-                },
                 "/a[2]": {
                  "textDecoration": "underline solid rgb(0, 0, 238)",
                  "color": "#0000eeff",
@@ -3123,10 +3128,10 @@
                  ],
                  "/text()": {
                   "box": [
-                   753.625,
+                   754.625,
                    1189,
-                   122,
-                   17
+                   120,
+                   18
                   ]
                  }
                 },
@@ -3147,6 +3152,9 @@
                  226.375,
                  36
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/b": {
                  "fontWeight": "700",
                  "box": [
@@ -3159,8 +3167,8 @@
                   "box": [
                    742.625,
                    1223,
-                   73.796875,
-                   17
+                   74,
+                   18
                   ]
                  }
                 },
@@ -3171,9 +3179,6 @@
                   0,
                   0
                  ]
-                },
-                "/text()[1]": {
-                 "whiteSpace": true
                 },
                 "/text()[2]": {
                  "box": [
@@ -3198,7 +3203,7 @@
                    754.625,
                    1241,
                    143,
-                   17
+                   18
                   ]
                  }
                 },
@@ -3216,9 +3221,6 @@
               "/text()[6]": {
                "whiteSpace": true
               }
-             },
-             "/text()[1]": {
-              "whiteSpace": true
              },
              "/text()[2]": {
               "whiteSpace": true
@@ -3243,6 +3245,9 @@
            975,
            837
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/table": {
            "box": [
             8,
@@ -3270,9 +3275,6 @@
              "/text()[1]": {
               "whiteSpace": true
              },
-             "/text()[2]": {
-              "whiteSpace": true
-             },
              "/td[1]": {
               "box": [
                8,
@@ -3280,6 +3282,9 @@
                185,
                837
               ],
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/div": {
                "backgroundColor": "#ffffffff",
                "box": [
@@ -3291,9 +3296,6 @@
                "/text()[1]": {
                 "whiteSpace": true
                },
-               "/text()[2]": {
-                "whiteSpace": true
-               },
                "/div[1]": {
                 "fontSize": 0,
                 "backgroundImage": "url(\"http://www.autobytel.com/images/abtl/corners-gray-outline.png\")",
@@ -3303,6 +3305,9 @@
                  10,
                  10
                 ]
+               },
+               "/text()[2]": {
+                "whiteSpace": true
                },
                "/div[2]": {
                 "fontSize": 0,
@@ -3352,6 +3357,9 @@
                  175,
                  450
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/b": {
                  "fontWeight": "700",
                  "box": [
@@ -3369,9 +3377,6 @@
                   ]
                  }
                 },
-                "/text()[1]": {
-                 "whiteSpace": true
-                },
                 "/text()[2]": {
                  "whiteSpace": true,
                  "box": [
@@ -3380,9 +3385,6 @@
                   0,
                   0
                  ]
-                },
-                "/text()[3]": {
-                 "whiteSpace": true
                 },
                 "/div[1]": {
                  "color": "#ffffffff",
@@ -3393,6 +3395,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1358,
+                   75,
+                   18
+                  ]
+                 },
                  "/br": {
                   "color": "#ffffffff",
                   "box": [
@@ -3402,17 +3412,12 @@
                    0
                   ]
                  },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1358,
-                   76,
-                   17
-                  ]
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  }
+                },
+                "/text()[3]": {
+                 "whiteSpace": true
                 },
                 "/div[2]": {
                  "box": [
@@ -3421,6 +3426,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1382,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3436,7 +3449,7 @@
                     34,
                     1382,
                     97,
-                    17
+                    18
                    ]
                   }
                  },
@@ -3446,14 +3459,6 @@
                    1379,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1382,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3470,6 +3475,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1406,
+                   11.71875,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3484,8 +3497,8 @@
                    "box": [
                     33.71875,
                     1406,
-                    72.1875,
-                    17
+                    73,
+                    18
                    ]
                   }
                  },
@@ -3495,14 +3508,6 @@
                    1403,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1406,
-                   11.71875,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3519,6 +3524,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1430,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3531,10 +3544,10 @@
                   ],
                   "/text()": {
                    "box": [
-                    33,
+                    34,
                     1430,
-                    122,
-                    17
+                    120,
+                    18
                    ]
                   }
                  },
@@ -3544,14 +3557,6 @@
                    1427,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1430,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3568,6 +3573,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1454,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3595,14 +3608,6 @@
                    0
                   ]
                  },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1454,
-                   12,
-                   17
-                  ]
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  }
@@ -3617,6 +3622,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1478,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3631,8 +3644,8 @@
                    "box": [
                     34,
                     1478,
-                    58.65625,
-                    17
+                    59,
+                    18
                    ]
                   }
                  },
@@ -3642,14 +3655,6 @@
                    1475,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1478,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3666,6 +3671,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1502,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3680,8 +3693,8 @@
                    "box": [
                     34,
                     1502,
-                    42,
-                    17
+                    41,
+                    18
                    ]
                   }
                  },
@@ -3691,14 +3704,6 @@
                    1499,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1502,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3715,6 +3720,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1526,
+                   11.125,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3727,9 +3740,9 @@
                   ],
                   "/text()": {
                    "box": [
-                    32.125,
+                    33.125,
                     1526,
-                    105,
+                    102.375,
                     17
                    ]
                   }
@@ -3740,14 +3753,6 @@
                    1523,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1526,
-                   11.125,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3764,6 +3769,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1550,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3776,9 +3789,9 @@
                   ],
                   "/text()": {
                    "box": [
-                    33,
+                    34,
                     1550,
-                    46,
+                    43.578125,
                     17
                    ]
                   }
@@ -3789,14 +3802,6 @@
                    1547,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1550,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3813,6 +3818,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1574,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3825,9 +3838,9 @@
                   ],
                   "/text()": {
                    "box": [
-                    33,
+                    34,
                     1574,
-                    57,
+                    55.109375,
                     17
                    ]
                   }
@@ -3838,14 +3851,6 @@
                    1571,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1574,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3862,11 +3867,11 @@
                   153,
                   0
                  ],
-                 "/script": {
-                  "/text()": {}
-                 },
                  "/text()[1]": {
                   "whiteSpace": true
+                 },
+                 "/script": {
+                  "/text()": {}
                  },
                  "/text()[2]": {
                   "whiteSpace": true
@@ -3878,10 +3883,10 @@
                    153,
                    0
                   ],
-                  "/script": {},
                   "/text()[1]": {
                    "whiteSpace": true
                   },
+                  "/script": {},
                   "/text()[2]": {
                    "whiteSpace": true
                   }
@@ -3900,6 +3905,9 @@
                   153,
                   18
                  ],
+                 "/text()[1]": {
+                  "whiteSpace": true
+                 },
                  "/b": {
                   "fontWeight": "700",
                   "box": [
@@ -3925,9 +3933,6 @@
                    0
                   ]
                  },
-                 "/text()[1]": {
-                  "whiteSpace": true
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  }
@@ -3939,6 +3944,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1648,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -3951,10 +3964,10 @@
                   ],
                   "/text()": {
                    "box": [
-                    33,
+                    34,
                     1648,
-                    135,
-                    17
+                    133,
+                    18
                    ]
                   }
                  },
@@ -3964,14 +3977,6 @@
                    1645,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1648,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -3988,6 +3993,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1672,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -4002,8 +4015,8 @@
                    "box": [
                     34,
                     1672,
-                    91.09375,
-                    17
+                    92,
+                    18
                    ]
                   }
                  },
@@ -4013,14 +4026,6 @@
                    1669,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1672,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -4037,6 +4042,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1696,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -4049,9 +4062,9 @@
                   ],
                   "/text()": {
                    "box": [
-                    33,
+                    34,
                     1696,
-                    94,
+                    91.984375,
                     17
                    ]
                   }
@@ -4062,14 +4075,6 @@
                    1693,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1696,
-                   12,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -4086,6 +4091,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1720,
+                   12,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -4113,14 +4126,6 @@
                    0
                   ]
                  },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1720,
-                   12,
-                   17
-                  ]
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  }
@@ -4135,6 +4140,14 @@
                   153,
                   24
                  ],
+                 "/text()[1]": {
+                  "box": [
+                   22,
+                   1744,
+                   11.71875,
+                   17
+                  ]
+                 },
                  "/a": {
                   "textDecoration": "underline solid rgb(0, 0, 238)",
                   "color": "#0000eeff",
@@ -4149,8 +4162,8 @@
                    "box": [
                     33.71875,
                     1744,
-                    129.09375,
-                    17
+                    130,
+                    18
                    ]
                   }
                  },
@@ -4160,14 +4173,6 @@
                    1741,
                    0,
                    0
-                  ]
-                 },
-                 "/text()[1]": {
-                  "box": [
-                   22,
-                   1744,
-                   11.71875,
-                   17
                   ]
                  },
                  "/text()[2]": {
@@ -4182,12 +4187,12 @@
                 "whiteSpace": true
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               }
+             },
+             "/text()[2]": {
+              "whiteSpace": true
              },
              "/td[2]": {
               "box": [
@@ -4199,11 +4204,16 @@
               "/text()[1]": {
                "whiteSpace": true
               },
-              "/text()[2]": {
-               "whiteSpace": true
-              },
-              "/text()[3]": {
-               "whiteSpace": true
+              "/p[1]": {
+               "box": [
+                193,
+                1326,
+                480,
+                0
+               ],
+               "/text()": {
+                "whiteSpace": true
+               }
               },
               "/div[1]": {
                "fontWeight": "700",
@@ -4224,48 +4234,7 @@
                 ]
                }
               },
-              "/div[2]": {
-               "fontStyle": "italic",
-               "box": [
-                193,
-                1367,
-                480,
-                18
-               ],
-               "/text()": {
-                "box": [
-                 193,
-                 1367,
-                 240,
-                 17
-                ]
-               }
-              },
-              "/text()[4]": {
-               "box": [
-                192,
-                1391,
-                475.375,
-                71
-               ]
-              },
-              "/br[1]": {
-               "box": [
-                193,
-                1348,
-                0,
-                0
-               ]
-              },
-              "/br[2]": {
-               "box": [
-                193,
-                1391,
-                0,
-                0
-               ]
-              },
-              "/text()[5]": {
+              "/text()[2]": {
                "whiteSpace": true
               },
               "/a[1]": {
@@ -4280,12 +4249,59 @@
                ],
                "/text()": {
                 "box": [
-                 192,
+                 193,
                  1348,
-                 266,
+                 264,
                  17
                 ]
                }
+              },
+              "/br[1]": {
+               "box": [
+                193,
+                1348,
+                0,
+                0
+               ]
+              },
+              "/text()[3]": {
+               "whiteSpace": true
+              },
+              "/div[2]": {
+               "fontStyle": "italic",
+               "box": [
+                193,
+                1367,
+                480,
+                18
+               ],
+               "/text()": {
+                "box": [
+                 193,
+                 1367,
+                 240,
+                 18
+                ]
+               }
+              },
+              "/text()[4]": {
+               "box": [
+                193,
+                1391,
+                475,
+                71
+               ]
+              },
+              "/br[2]": {
+               "box": [
+                193,
+                1391,
+                0,
+                0
+               ]
+              },
+              "/text()[5]": {
+               "whiteSpace": true
               },
               "/a[2]": {
                "textDecoration": "underline solid rgb(0, 0, 238)",
@@ -4299,9 +4315,9 @@
                ],
                "/text()": {
                 "box": [
-                 192,
+                 193,
                  1463,
-                 72,
+                 69.75,
                  17
                 ]
                }
@@ -4313,6 +4329,17 @@
                 1391,
                 0,
                 0
+               ]
+              },
+              "/hr[1]": {
+               "color": "#efefefff",
+               "border": "1px inset rgb(239, 239, 239)",
+               "overflow": "hidden",
+               "box": [
+                228,
+                1487,
+                410,
+                2
                ]
               },
               "/text()[7]": {
@@ -4361,28 +4388,17 @@
                  192,
                  1514,
                  171,
-                 17
+                 18
                 ]
                }
               },
               "/text()[9]": {
                "box": [
-                192,
-                1538,
-                472,
-                107
-               ]
-              },
-              "/p[1]": {
-               "box": [
                 193,
-                1326,
-                480,
-                0
-               ],
-               "/text()": {
-                "whiteSpace": true
-               }
+                1538,
+                470,
+                108
+               ]
               },
               "/p[2]": {
                "box": [
@@ -4391,20 +4407,20 @@
                 480,
                 54
                ],
+               "/text()[1]": {
+                "box": [
+                 193,
+                 1662,
+                 481,
+                 35
+                ]
+               },
                "/br": {
                 "box": [
                  193,
                  1662,
                  0,
                  0
-                ]
-               },
-               "/text()[1]": {
-                "box": [
-                 192,
-                 1662,
-                 484,
-                 35
                 ]
                },
                "/text()[2]": {
@@ -4422,9 +4438,9 @@
                 ],
                 "/text()": {
                  "box": [
-                  192,
+                  193,
                   1698,
-                  72,
+                  69.75,
                   17
                  ]
                 }
@@ -4438,17 +4454,6 @@
                  0
                 ]
                }
-              },
-              "/hr[1]": {
-               "color": "#efefefff",
-               "border": "1px inset rgb(239, 239, 239)",
-               "overflow": "hidden",
-               "box": [
-                228,
-                1487,
-                410,
-                2
-               ]
               },
               "/hr[2]": {
                "color": "#efefefff",
@@ -4504,9 +4509,9 @@
                ],
                "/text()": {
                 "box": [
-                 191,
+                 192,
                  1759,
-                 119,
+                 117,
                  17
                 ]
                }
@@ -4515,8 +4520,8 @@
                "box": [
                 193,
                 1783,
-                471.6875,
-                35
+                472,
+                36
                ]
               },
               "/br[5]": {
@@ -4542,9 +4547,9 @@
                ],
                "/text()": {
                 "box": [
-                 192,
+                 193,
                  1819,
-                 72,
+                 69.75,
                  17
                 ]
                }
@@ -4589,10 +4594,10 @@
                ],
                "/text()": {
                 "box": [
-                 204,
+                 205,
                  1851,
-                 153,
-                 17
+                 151,
+                 18
                 ]
                }
               },
@@ -4630,8 +4635,8 @@
                "box": [
                 193,
                 1907,
-                362.96875,
-                17
+                363,
+                18
                ]
               },
               "/br[6]": {
@@ -4670,9 +4675,9 @@
                ],
                "/text()": {
                 "box": [
-                 204,
+                 205,
                  1943,
-                 266,
+                 264,
                  17
                 ]
                }
@@ -4730,15 +4735,6 @@
                "/text()[1]": {
                 "whiteSpace": true
                },
-               "/text()[2]": {
-                "whiteSpace": true,
-                "box": [
-                 441.65625,
-                 2004,
-                 4,
-                 17
-                ]
-               },
                "/img[1]": {
                 "textAlign": "center",
                 "backgroundColor": "#dededeff",
@@ -4748,6 +4744,15 @@
                  1999,
                  239.71875,
                  28
+                ]
+               },
+               "/text()[2]": {
+                "whiteSpace": true,
+                "box": [
+                 441.65625,
+                 2004,
+                 4,
+                 17
                 ]
                },
                "/img[2]": {
@@ -4911,9 +4916,9 @@
                ],
                "/text()": {
                 "box": [
-                 203.71875,
+                 204.71875,
                  2111,
-                 183,
+                 180.78125,
                  17
                 ]
                }
@@ -4943,6 +4948,24 @@
               "/text()[1]": {
                "whiteSpace": true
               },
+              "/div[1]": {
+               "fontSize": 10,
+               "textAlign": "center",
+               "box": [
+                683,
+                1326,
+                300,
+                11
+               ],
+               "/text()": {
+                "box": [
+                 776.78125,
+                 1326,
+                 112.4375,
+                 11
+                ]
+               }
+              },
               "/text()[2]": {
                "whiteSpace": true
               },
@@ -4964,24 +4987,6 @@
                 0
                ]
               },
-              "/div[1]": {
-               "fontSize": 10,
-               "textAlign": "center",
-               "box": [
-                683,
-                1326,
-                300,
-                11
-               ],
-               "/text()": {
-                "box": [
-                 775.78125,
-                 1326,
-                 115,
-                 11
-                ]
-               }
-              },
               "/div[2]": {
                "fontWeight": "700",
                "borderBottom": "1px solid rgb(0, 0, 0)",
@@ -4996,7 +5001,7 @@
                  683,
                  1595,
                  130,
-                 17
+                 18
                 ]
                }
               },
@@ -5004,14 +5009,6 @@
                "box": [
                 683,
                 1614,
-                12,
-                17
-               ]
-              },
-              "/text()[5]": {
-               "box": [
-                683,
-                1650,
                 12,
                 17
                ]
@@ -5030,10 +5027,26 @@
                 "box": [
                  683,
                  1614,
-                 264.640625,
+                 265,
                  35
                 ]
                }
+              },
+              "/br[1]": {
+               "box": [
+                683,
+                1614,
+                0,
+                0
+               ]
+              },
+              "/text()[5]": {
+               "box": [
+                683,
+                1650,
+                12,
+                17
+               ]
               },
               "/a[2]": {
                "textDecoration": "underline solid rgb(0, 0, 238)",
@@ -5049,18 +5062,10 @@
                 "box": [
                  683,
                  1650,
-                 264.640625,
-                 35
+                 265,
+                 36
                 ]
                }
-              },
-              "/br[1]": {
-               "box": [
-                683,
-                1614,
-                0,
-                0
-               ]
               },
               "/br[2]": {
                "box": [
@@ -5092,7 +5097,7 @@
                 "box": [
                  683,
                  1686,
-                 264.640625,
+                 265,
                  35
                 ]
                }
@@ -5127,7 +5132,7 @@
                 "box": [
                  683,
                  1722,
-                 264.640625,
+                 265,
                  35
                 ]
                }
@@ -5160,9 +5165,9 @@
                ],
                "/text()": {
                 "box": [
-                 682,
+                 683,
                  1758,
-                 297.296875,
+                 297,
                  35
                 ]
                }
@@ -5207,6 +5212,9 @@
                 300,
                 340
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/table": {
                 "box": [
                  691,
@@ -5234,9 +5242,6 @@
                   "/text()[1]": {
                    "whiteSpace": true
                   },
-                  "/text()[2]": {
-                   "whiteSpace": true
-                  },
                   "/td[1]": {
                    "color": "#ffffffff",
                    "backgroundColor": "#999999ff",
@@ -5246,6 +5251,9 @@
                     126,
                     144
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/img": {
                     "color": "#ffffffff",
                     "box": [
@@ -5254,9 +5262,6 @@
                      120,
                      120
                     ]
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
                    },
                    "/text()[2]": {
                     "box": [
@@ -5278,9 +5283,9 @@
                     ],
                     "/text()": {
                      "box": [
-                      705,
+                      706,
                       1954,
-                      68,
+                      65.3125,
                       17
                      ]
                     }
@@ -5295,6 +5300,9 @@
                     ]
                    }
                   },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
                   "/td[2]": {
                    "box": [
                     817,
@@ -5302,6 +5310,9 @@
                     158,
                     144
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/b": {
                     "fontWeight": "700",
                     "box": [
@@ -5312,23 +5323,12 @@
                     ],
                     "/text()": {
                      "box": [
-                      824,
+                      825,
                       1831,
-                      123,
+                      120.90625,
                       17
                      ]
                     }
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
-                   "/text()[2]": {
-                    "box": [
-                     824,
-                     1849,
-                     105,
-                     17
-                    ]
                    },
                    "/br[1]": {
                     "box": [
@@ -5336,6 +5336,14 @@
                      1831,
                      0,
                      0
+                    ]
+                   },
+                   "/text()[2]": {
+                    "box": [
+                     825,
+                     1849,
+                     103.140625,
+                     17
                     ]
                    },
                    "/br[2]": {
@@ -5372,6 +5380,14 @@
                      150,
                      18
                     ],
+                    "/text()[1]": {
+                     "box": [
+                      825,
+                      1901,
+                      12,
+                      17
+                     ]
+                    },
                     "/a": {
                      "textDecoration": "underline solid rgb(0, 0, 238)",
                      "color": "#0000eeff",
@@ -5384,20 +5400,12 @@
                      ],
                      "/text()": {
                       "box": [
-                       836,
+                       837,
                        1901,
-                       133,
+                       131,
                        17
                       ]
                      }
-                    },
-                    "/text()[1]": {
-                     "box": [
-                      825,
-                      1901,
-                      12,
-                      17
-                     ]
                     },
                     "/text()[2]": {
                      "whiteSpace": true,
@@ -5413,6 +5421,9 @@
                   "/text()[3]": {
                    "whiteSpace": true
                   }
+                 },
+                 "/text()[1]": {
+                  "whiteSpace": true
                  },
                  "/tr[2]": {
                   "box": [
@@ -5439,9 +5450,6 @@
                    }
                   }
                  },
-                 "/text()[1]": {
-                  "whiteSpace": true
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  },
@@ -5455,9 +5463,6 @@
                   "/text()[1]": {
                    "whiteSpace": true
                   },
-                  "/text()[2]": {
-                   "whiteSpace": true
-                  },
                   "/td[1]": {
                    "color": "#ffffffff",
                    "backgroundColor": "#999999ff",
@@ -5467,6 +5472,9 @@
                     126,
                     144
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/img": {
                     "color": "#ffffffff",
                     "box": [
@@ -5475,9 +5483,6 @@
                      120,
                      120
                     ]
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
                    },
                    "/text()[2]": {
                     "box": [
@@ -5499,9 +5504,9 @@
                     ],
                     "/text()": {
                      "box": [
-                      705,
+                      706,
                       2116,
-                      68,
+                      65.3125,
                       17
                      ]
                     }
@@ -5516,6 +5521,9 @@
                     ]
                    }
                   },
+                  "/text()[2]": {
+                   "whiteSpace": true
+                  },
                   "/td[2]": {
                    "box": [
                     817,
@@ -5523,6 +5531,9 @@
                     158,
                     144
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/b": {
                     "fontWeight": "700",
                     "box": [
@@ -5533,23 +5544,12 @@
                     ],
                     "/text()": {
                      "box": [
-                      824,
+                      825,
                       1993,
-                      105,
+                      104,
                       35
                      ]
                     }
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
-                   "/text()[2]": {
-                    "box": [
-                     824,
-                     2029,
-                     105,
-                     17
-                    ]
                    },
                    "/br[1]": {
                     "box": [
@@ -5557,6 +5557,14 @@
                      1993,
                      0,
                      0
+                    ]
+                   },
+                   "/text()[2]": {
+                    "box": [
+                     825,
+                     2029,
+                     103.140625,
+                     17
                     ]
                    },
                    "/br[2]": {
@@ -5593,6 +5601,14 @@
                      150,
                      18
                     ],
+                    "/text()[1]": {
+                     "box": [
+                      825,
+                      2081,
+                      12,
+                      17
+                     ]
+                    },
                     "/a": {
                      "textDecoration": "underline solid rgb(0, 0, 238)",
                      "color": "#0000eeff",
@@ -5605,20 +5621,12 @@
                      ],
                      "/text()": {
                       "box": [
-                       836,
+                       837,
                        2081,
-                       133,
+                       131,
                        17
                       ]
                      }
-                    },
-                    "/text()[1]": {
-                     "box": [
-                      825,
-                      2081,
-                      12,
-                      17
-                     ]
                     },
                     "/text()[2]": {
                      "whiteSpace": true,
@@ -5668,9 +5676,6 @@
                  }
                 }
                },
-               "/text()[1]": {
-                "whiteSpace": true
-               },
                "/text()[2]": {
                 "whiteSpace": true
                }
@@ -5684,9 +5689,6 @@
              "whiteSpace": true
             }
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -5702,6 +5704,9 @@
            975,
            215
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/p[1]": {
            "fontSize": 10,
            "color": "#666666ff",
@@ -5736,12 +5741,21 @@
             ],
             "/text()": {
              "box": [
-              7,
+              8,
               2190,
-              128,
+              127,
               11
              ]
             }
+           },
+           "/text()[1]": {
+            "whiteSpace": true,
+            "box": [
+             8,
+             2190,
+             0,
+             0
+            ]
            },
            "/br": {
             "fontSize": 10,
@@ -5753,20 +5767,11 @@
              0
             ]
            },
-           "/text()[1]": {
-            "whiteSpace": true,
-            "box": [
-             8,
-             2190,
-             0,
-             0
-            ]
-           },
            "/text()[2]": {
             "box": [
-             7,
+             8,
              2201,
-             970,
+             968,
              22
             ]
            }
@@ -5792,12 +5797,21 @@
             ],
             "/text()": {
              "box": [
-              7,
+              8,
               2233,
-              177,
+              176,
               11
              ]
             }
+           },
+           "/text()[1]": {
+            "whiteSpace": true,
+            "box": [
+             8,
+             2233,
+             0,
+             0
+            ]
            },
            "/br": {
             "fontSize": 10,
@@ -5809,20 +5823,11 @@
              0
             ]
            },
-           "/text()[1]": {
-            "whiteSpace": true,
-            "box": [
-             8,
-             2233,
-             0,
-             0
-            ]
-           },
            "/text()[2]": {
             "box": [
-             7,
+             8,
              2244,
-             961,
+             959.921875,
              22
             ]
            }
@@ -5850,14 +5855,11 @@
              "box": [
               8,
               2276,
-              633.796875,
-              11
+              634,
+              12
              ]
             }
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -5873,14 +5875,6 @@
            ],
            "/text()[1]": {
             "whiteSpace": true
-           },
-           "/text()[2]": {
-            "box": [
-             109.75,
-             2297,
-             582.015625,
-             11
-            ]
            },
            "/b[1]": {
             "fontSize": 10,
@@ -5901,6 +5895,14 @@
              ]
             }
            },
+           "/text()[2]": {
+            "box": [
+             109.75,
+             2297,
+             582.015625,
+             11
+            ]
+           },
            "/b[2]": {
             "fontSize": 10,
             "fontWeight": "700",
@@ -5915,16 +5917,16 @@
              "box": [
               691.765625,
               2297,
-              121,
+              119.1875,
               11
              ]
             }
            },
            "/text()[3]": {
             "box": [
-             7,
+             8,
              2297,
-             977.953125,
+             975.953125,
              22
             ]
            }
@@ -5943,9 +5945,9 @@
            ],
            "/text()": {
             "box": [
-             7,
+             8,
              2329,
-             976,
+             973.4375,
              22
             ]
            }
@@ -5983,9 +5985,9 @@
            },
            "/text()": {
             "box": [
-             7,
+             8,
              2361,
-             971.796875,
+             970.796875,
              33
             ]
            }
@@ -5997,9 +5999,6 @@
          "/text()[5]": {
           "whiteSpace": true
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
@@ -6013,13 +6012,6 @@
      "/text()[3]": {
       "whiteSpace": true
      },
-     "/text()[4]": {
-      "whiteSpace": true
-     },
-     "/link": {},
-     "/text()[5]": {
-      "whiteSpace": true
-     },
      "/div[1]": {
       "textAlign": "left",
       "color": "#666666ff",
@@ -6031,12 +6023,19 @@
       ],
       "/text()": {
        "box": [
-        7,
+        8,
         2402,
-        769,
-        35
+        768,
+        36
        ]
       }
+     },
+     "/text()[4]": {
+      "whiteSpace": true
+     },
+     "/link": {},
+     "/text()[5]": {
+      "whiteSpace": true
      },
      "/div[2]": {
       "id": "FOOTER_PANEL",
@@ -6047,9 +6046,6 @@
        72
       ],
       "/text()[1]": {
-       "whiteSpace": true
-      },
-      "/text()[2]": {
        "whiteSpace": true
       },
       "/div[1]": {
@@ -6063,14 +6059,6 @@
        "/text()[1]": {
         "whiteSpace": true
        },
-       "/text()[2]": {
-        "box": [
-         103.265625,
-         2438,
-         12,
-         18
-        ]
-       },
        "/a[1]": {
         "textDecoration": "underline solid rgb(0, 0, 238)",
         "color": "#0000eeff",
@@ -6083,12 +6071,20 @@
         ],
         "/text()": {
          "box": [
-          7,
+          8,
           2438,
-          98,
+          95.265625,
           17
          ]
         }
+       },
+       "/text()[2]": {
+        "box": [
+         103.265625,
+         2438,
+         12,
+         18
+        ]
        },
        "/a[2]": {
         "textDecoration": "underline solid rgb(0, 0, 238)",
@@ -6129,9 +6125,9 @@
         ],
         "/text()": {
          "box": [
-          196.53125,
+          197.53125,
           2438,
-          107,
+          103.5625,
           17
          ]
         }
@@ -6183,9 +6179,9 @@
         ],
         "/text()": {
          "box": [
-          395.609375,
+          396.609375,
           2438,
-          82,
+          79.28125,
           17
          ]
         }
@@ -6212,7 +6208,7 @@
          "box": [
           487.09375,
           2438,
-          171,
+          169.9375,
           17
          ]
         }
@@ -6239,7 +6235,7 @@
          "box": [
           8,
           2438,
-          772.234375,
+          770.625,
           35
          ]
         }
@@ -6264,9 +6260,9 @@
         ],
         "/text()": {
          "box": [
-          141.328125,
+          142.328125,
           2456,
-          71,
+          69,
           17
          ]
         }
@@ -6291,9 +6287,9 @@
         ],
         "/text()": {
          "box": [
-          220.109375,
+          221.109375,
           2456,
-          43,
+          41,
           17
          ]
         }
@@ -6320,7 +6316,7 @@
          "box": [
           271.71875,
           2456,
-          109,
+          108.90625,
           17
          ]
         }
@@ -6347,7 +6343,7 @@
          "box": [
           391.546875,
           2456,
-          96,
+          95.140625,
           17
          ]
         }
@@ -6373,10 +6369,13 @@
         "box": [
          8,
          2474,
-         230,
+         228.953125,
          17
         ]
        }
+      },
+      "/text()[2]": {
+       "whiteSpace": true
       },
       "/div[2]": {
        "id": "rss",
@@ -6386,6 +6385,9 @@
         784,
         18
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/a": {
         "textDecoration": "underline solid rgb(0, 0, 238)",
         "color": "#0000eeff",
@@ -6406,9 +6408,6 @@
           18
          ]
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true,
@@ -6450,11 +6449,11 @@
      "/text()[9]": {
       "whiteSpace": true
      },
-     "/text()[10]": {
-      "whiteSpace": true
-     },
      "/script[1]": {
       "/text()": {}
+     },
+     "/text()[10]": {
+      "whiteSpace": true
      },
      "/script[2]": {},
      "/text()[11]": {
@@ -6471,6 +6470,14 @@
      },
      "/text()[14]": {
       "whiteSpace": true
+     },
+     "/iframe": {
+      "box": [
+       8,
+       2542,
+       0,
+       0
+      ]
      },
      "/text()[15]": {
       "whiteSpace": true,
@@ -6492,10 +6499,47 @@
       "whiteSpace": true
      },
      "/noscript": {
-      "/text()": {}
+      "box": [
+       12,
+       2528,
+       4,
+       17
+      ],
+      "/text()[1]": {
+       "whiteSpace": true,
+       "box": [
+        8,
+        2528,
+        0,
+        0
+       ]
+      },
+      "/iframe": {
+       "box": [
+        12,
+        2542,
+        0,
+        0
+       ]
+      },
+      "/text()[2]": {
+       "whiteSpace": true,
+       "box": [
+        12,
+        2528,
+        4,
+        17
+       ]
+      }
      },
      "/text()[18]": {
-      "whiteSpace": true
+      "whiteSpace": true,
+      "box": [
+       8,
+       2528,
+       0,
+       0
+      ]
      },
      "/text()[19]": {
       "whiteSpace": true
@@ -6510,10 +6554,18 @@
      "/text()[21]": {
       "whiteSpace": true
      },
+     "/img[1]": {
+      "box": [
+       16,
+       2541,
+       1,
+       1
+      ]
+     },
      "/text()[22]": {
       "whiteSpace": true,
       "box": [
-       13,
+       17,
        2528,
        4,
        17
@@ -6529,52 +6581,28 @@
       "whiteSpace": true
      },
      "/script[9]": {},
-     "/script[10]": {},
      "/text()[25]": {
       "whiteSpace": true
      },
      "/text()[26]": {
       "whiteSpace": true
      },
-     "/script[11]": {
+     "/script[10]": {
       "/text()": {}
      },
-     "/iframe[1]": {
-      "box": [
-       8,
-       2542,
-       0,
-       0
-      ]
-     },
-     "/iframe[2]": {
-      "box": [
-       17,
-       2542,
-       0,
-       0
-      ]
-     },
      "/text()[27]": {
-      "whiteSpace": true,
-      "box": [
-       17,
-       2528,
-       4,
-       17
-      ]
+      "whiteSpace": true
      },
      "/text()[28]": {
       "whiteSpace": true
      },
-     "/script[12]": {
+     "/script[11]": {
       "/text()": {}
      },
-     "/script[13]": {},
      "/text()[29]": {
       "whiteSpace": true
      },
-     "/script[14]": {
+     "/script[12]": {
       "/text()": {}
      },
      "/text()[30]": {
@@ -6582,14 +6610,6 @@
      },
      "/text()[31]": {
       "whiteSpace": true
-     },
-     "/img[1]": {
-      "box": [
-       12,
-       2541,
-       1,
-       1
-      ]
      },
      "/img[2]": {
       "box": [
@@ -6630,9 +6650,6 @@
     "/text()[1]": {
      "whiteSpace": true
     },
-    "/text()[2]": {
-     "whiteSpace": true
-    },
     "/div[1]": {
      "id": "close_block",
      "box": [
@@ -6641,6 +6658,9 @@
       784,
       18
      ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
      "/a": {
       "id": "nl_close_overlay",
       "box": [
@@ -6658,9 +6678,6 @@
        ]
       }
      },
-     "/text()[1]": {
-      "whiteSpace": true
-     },
      "/text()[2]": {
       "whiteSpace": true,
       "box": [
@@ -6671,6 +6688,9 @@
       ]
      }
     },
+    "/text()[2]": {
+     "whiteSpace": true
+    },
     "/div[2]": {
      "id": "overlay_detail",
      "box": [
@@ -6680,9 +6700,6 @@
       330
      ],
      "/text()[1]": {
-      "whiteSpace": true
-     },
-     "/text()[2]": {
       "whiteSpace": true
      },
      "/div[1]": {
@@ -6701,6 +6718,9 @@
         16
        ]
       }
+     },
+     "/text()[2]": {
+      "whiteSpace": true
      },
      "/div[2]": {
       "id": "separator",
@@ -6731,6 +6751,14 @@
        784,
        36
       ],
+      "/text()[1]": {
+       "box": [
+        8,
+        2598,
+        234,
+        18
+       ]
+      },
       "/br": {
        "box": [
         8,
@@ -6751,25 +6779,17 @@
         "box": [
          8,
          2616,
-         79.59375,
-         17
+         80,
+         18
         ]
        }
-      },
-      "/text()[1]": {
-       "box": [
-        8,
-        2598,
-        235,
-        17
-       ]
       },
       "/text()[2]": {
        "box": [
         87.59375,
         2616,
-        422.546875,
-        17
+        423,
+        18
        ]
       }
      },
@@ -6784,6 +6804,9 @@
        784,
        260
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/form": {
        "id": "frm_newsletter",
        "box": [
@@ -6795,9 +6818,6 @@
        "/text()[1]": {
         "whiteSpace": true
        },
-       "/text()[2]": {
-        "whiteSpace": true
-       },
        "/div[1]": {
         "box": [
          8,
@@ -6805,6 +6825,9 @@
          784,
          55
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/input": {
          "id": "newsletter",
          "fontFamily": "Arial",
@@ -6829,12 +6852,9 @@
            8,
            2653,
            601,
-           17
+           18
           ]
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
@@ -6851,6 +6871,9 @@
          "whiteSpace": true
         }
        },
+       "/text()[2]": {
+        "whiteSpace": true
+       },
        "/div[2]": {
         "box": [
          8,
@@ -6858,6 +6881,9 @@
          784,
          55
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/input": {
          "id": "other_email",
          "fontFamily": "Arial",
@@ -6881,13 +6907,10 @@
           "box": [
            8,
            2708,
-           752.390625,
-           17
+           753,
+           18
           ]
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
@@ -6934,6 +6957,25 @@
          784,
          57
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
+        "/div[1]": {
+         "box": [
+          8,
+          2762,
+          784,
+          18
+         ],
+         "/text()": {
+          "box": [
+           8,
+           2762,
+           98.21875,
+           17
+          ]
+         }
+        },
         "/input": {
          "id": "email_address_nl",
          "fontFamily": "Arial",
@@ -6948,9 +6990,6 @@
           21
          ]
         },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
         "/text()[2]": {
          "whiteSpace": true,
          "box": [
@@ -6959,22 +6998,6 @@
           0,
           0
          ]
-        },
-        "/div[1]": {
-         "box": [
-          8,
-          2762,
-          784,
-          18
-         ],
-         "/text()": {
-          "box": [
-           7,
-           2762,
-           100,
-           17
-          ]
-         }
         },
         "/div[2]": {
          "id": "email_error",
@@ -7010,31 +7033,8 @@
          784,
          57
         ],
-        "/input": {
-         "id": "zip_code_nl",
-         "fontFamily": "Arial",
-         "fontSize": 13,
-         "backgroundColor": "#ffffffff",
-         "border": "2px inset rgb(118, 118, 118)",
-         "cursor": "text",
-         "box": [
-          8,
-          2837,
-          79,
-          21
-         ]
-        },
         "/text()[1]": {
          "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true,
-         "box": [
-          8,
-          2837,
-          0,
-          0
-         ]
         },
         "/div[1]": {
          "box": [
@@ -7045,12 +7045,35 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            2819,
-           66,
-           17
+           65,
+           18
           ]
          }
+        },
+        "/input": {
+         "id": "zip_code_nl",
+         "fontFamily": "Arial",
+         "fontSize": 13,
+         "backgroundColor": "#ffffffff",
+         "border": "2px inset rgb(118, 118, 118)",
+         "cursor": "text",
+         "box": [
+          8,
+          2837,
+          65,
+          21
+         ]
+        },
+        "/text()[2]": {
+         "whiteSpace": true,
+         "box": [
+          8,
+          2837,
+          0,
+          0
+         ]
         },
         "/div[2]": {
          "id": "zip_error",
@@ -7122,10 +7145,10 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            2876,
-           97,
-           17
+           94,
+           18
           ]
          }
         }
@@ -7133,13 +7156,13 @@
        "/text()[8]": {
         "whiteSpace": true
        },
-       "/text()[9]": {
-        "whiteSpace": true
-       },
        "/input[1]": {
         "fontFamily": "Arial",
         "fontSize": 13,
         "cursor": "default"
+       },
+       "/text()[9]": {
+        "whiteSpace": true
        },
        "/input[2]": {
         "fontFamily": "Arial",
@@ -7237,9 +7260,6 @@
        "/text()[21]": {
         "whiteSpace": true
        }
-      },
-      "/text()[1]": {
-       "whiteSpace": true
       },
       "/text()[2]": {
        "whiteSpace": true
