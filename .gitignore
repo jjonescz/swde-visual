@@ -3,9 +3,11 @@
 !/.gitattributes
 !/.gitignore
 !/data/
-/data/*/*.*
-!/data/*/*.htm
-!/data/*/*.json
+/data/*.*
+/data/*/*/*.*
+!/data/*/*/*.htm
+!/data/*/*/*-full.png
+!/data/*/*/*.json
 !/data/groundtruth/*/*.txt
 !/invalid_pages.txt
 !/visual_pages.yaml
