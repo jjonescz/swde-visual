@@ -145,8 +145,8 @@ height:179px;}
 -->
 </style>
 
-<link href="http://img.icbdr.com/v11.49/css/mappopupv2.css" type="text/css" rel="stylesheet"><link rel="stylesheet" type="text/css" rev="stylesheet" id="1639019519208" href="http://ecn.dev.virtualearth.net/mapcontrol/v6.3/css/bin/6.3.20091207154938.04/en/mapcontrol.css"></head>
-<body><iframe id="EXpopupIframe" scrolling="no" style="position: absolute; background: 0px center; left: -3000px; border: 0px;"></iframe>
+</head>
+<body>
     
     
     
@@ -320,7 +320,9 @@ function openInNewWindow(url)
 	  
 	  <tr><td bgcolor="#005baa" height="89">
 	  <p><span class="job_title" style="padding-left:30px">Business Analyst with Banking Experience - NEEDED NOW!!</span><br>	
-		<span id="overviewlinks1" style="padding-left:30px"><span>US-GA-Atlanta</span></span></p><div id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_pnlLoadingMap" class="loadingMap" style="display:none;">
+		<span id="overviewlinks1" style="padding-left:30px"><a id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_cbhlMapJob" class="BingMap" rel="nofollow" href="#lat=33.9435,lon=-84.3186,mapsize=small,thumbnailmap=False,streetlevel=False,maptoken="><img src="http://img.icbdr.com/images/JS/jobresults/mapit.gif" id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_imgMapIt" alt="map it!">US-GA-Atlanta</a>
+<iframe id="iframeForInlineMap" frameborder="0" scrolling="no" style="display:none;"></iframe>
+</span></p><div id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_pnlLoadingMap" class="loadingMap" style="display:none;">
 	
     <img src="http://img.icbdr.com/images/js/widgets/loading.gif" id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_imgLoadingMap" class="imgLoadingMap">
     <br>
@@ -416,7 +418,15 @@ function openInNewWindow(url)
             </tr>
              <tr>
                 <td width="50%" valign="top" class="overview_nav">Location:</td>
-                <td width="50%" valign="top" id="overviewlinks"><span>US-GA-Atlanta</span></td>
+                <td width="50%" valign="top" id="overviewlinks"><a id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation00_cbhlMapJob" class="BingMap" rel="nofollow" href="#lat=33.9435,lon=-84.3186,mapsize=small,thumbnailmap=False,streetlevel=False,maptoken="><img src="http://img.icbdr.com/images/JS/jobresults/mapit.gif" id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation00_imgMapIt" alt="map it!">US-GA-Atlanta</a>
+<iframe id="iframeForInlineMap" frameborder="0" scrolling="no" style="display:none;"></iframe>
+<div id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation00_pnlLoadingMap" class="loadingMap" style="display:none;">
+	
+    <img src="http://img.icbdr.com/images/js/widgets/loading.gif" id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation00_imgLoadingMap" class="imgLoadingMap">
+    <br>
+    Loading Map...
+
+</div></td>
               </tr>
                <tr>
                 <td colspan="2" align="center"><a id="JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobMap0_cbhlMapJob" class="BingMap" rel="nofollow" href="#lat=33.9435,lon=-84.3186,mapsize=small,thumbnailmap=True,streetlevel=False,maptoken="></a>
@@ -590,17 +600,17 @@ function openInNewWindow(url)
 	var emailJobBoxPrefix = 'JobDetails_ucJobDetailsSkin__ucOldWidgets__ucEmailJob_';
 </script>
 
-<div id="sending" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="sending" class="widePopup defaultPopup popup grad">
     <span class="intro">Sending..</span>
 </div>
 
-<div id="result" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="result" class="widePopup defaultPopup popup grad">
     <div class="close" onclick="CB.AJAX.EmailJob.resultAC.hide();"></div>
     <span id="sendSuccess" class="intro">This job was successfully e-mailed.</span>
     <span id="sendError" class="intro">An unknown error has occurred. Please try again later.</span>
 </div>
 
-<div id="emailJobForm" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="emailJobForm" class="widePopup defaultPopup popup grad">
 	<div class="ej_inner">
 		<div class="popheader">
 			<div class="close" onclick="CB.AJAX.EmailJob.emailJobFormAC.hide();"></div>
@@ -667,9 +677,9 @@ function openInNewWindow(url)
 
 <div style="display:none"><a id="JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_registerURL" href="https://www.careerbuilder.com/share/register.aspx">Register</a></div>
 
-<div id="sj_saving" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;"><span class="intro">Saving...</span></div>
+<div id="sj_saving" class="widePopup defaultPopup popup grad"><span class="intro">Saving...</span></div>
 
-<div id="sj_form" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="sj_form" class="widePopup defaultPopup popup grad">
         <!--Close Buttons-->
         <div class="close" onclick="CB.AJAX.SaveJob.formAP.hide();"></div>
 		
@@ -694,7 +704,7 @@ function openInNewWindow(url)
 </div>
 
 <!--Saved Note Confirmation Message-->
-<div id="sj_noteSaved" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="sj_noteSaved" class="widePopup defaultPopup popup grad">
     <div class="close" onclick="CB.AJAX.SaveJob.noteSavedAP.hide();"></div>
     <span id="JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_SavedNoteMessage" class="intro">
         <center>Your note has been saved successfully.</center>
@@ -709,7 +719,7 @@ function openInNewWindow(url)
     </center>
 </div>
 
-<div id="sj_error" class="widePopup defaultPopup popup grad" style="left: -3000px; top: 0px;">
+<div id="sj_error" class="widePopup defaultPopup popup grad">
     <div class="close" onclick="CB.AJAX.SaveJob.errorAP.hide();"></div>
     <span id="JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_SaveJobBoxError" class="intro">Error!</span>
 </div>
@@ -722,7 +732,7 @@ function openInNewWindow(url)
     <input name="JobDetails:ucJobDetailsSkin:_ucOldWidgets:AJAXLogin:hdn_auth" type="hidden" id="JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_hdn_auth"> <!-- This is a flag to keep track of current authentication-->  
      
 </div>
-<div class="defaultPopup popup grad skinnyPopup" id="login" style="visibility: hidden; left: -3000px; top: 0px;">
+<div class="defaultPopup popup grad skinnyPopup" id="login" style="visibility:hidden">
     <div class="popheader">
         <div class="close" onclick="CB.AJAX.Login.loginAP.close();"></div>
         <span class="intro">Sign In</span>
@@ -756,7 +766,7 @@ function openInNewWindow(url)
     </div>
 </div>
 
-<div class="skinnyPopup defaultPopup popup grad" id="siteDown" style="visibility: hidden; left: -3000px; top: 0px;">
+<div class="skinnyPopup defaultPopup popup grad" id="siteDown" style="visibility:hidden">
     <div class="popheader">
         <div class="close" onclick="CB.AJAX.Login.siteDownAP.hide();"></div>
         <span class="intro">Sorry!</span>
@@ -772,7 +782,7 @@ function openInNewWindow(url)
     </div>
 </div>
 
-<div class="skinnyPopup defaultPopup popup grad" id="authorizing" style="visibility: hidden; left: -3000px; top: 0px;">
+<div class="skinnyPopup defaultPopup popup grad" id="authorizing" style="visibility:hidden">
     <div class="popheader">
         <div class="close" onclick="CB.AJAX.Login.authorizingAP.hide();"></div>
         <span class="intro">Authorizing...</span>
@@ -1101,7 +1111,7 @@ function openInNewWindow(url)
 </style>
 
 <!-- POPUP LAYER -->
-<div onclick="event.cancelBubble = true;" class="defaultPopup popup" style="text-align: left; width: 360px;" id="ExternalAppUserInfoRequest">
+<div onclick="event.cancelBubble = true;" class="defaultPopup popup" style="text-align: left;" id="ExternalAppUserInfoRequest">
 	<input type="hidden" id="hdnExternalURL">
 	<div id="pnlUserInfoLocPop">
 		<div id="externalInfoHeader">
@@ -1119,7 +1129,7 @@ function openInNewWindow(url)
              </p>
 		
 		    <center>
-	            <table id="tblDataInput" style="width: 290px; height: 50px;">
+	            <table id="tblDataInput">
 	                <tbody><tr id="JobDetails_ucJobDetailsSkin__ucOldWidgets__ucExternalAskInfo_tblRowRequired" style="visibility:hidden;">
 					<td colspan="2" style="text-align:right;">
 	                        <span class="requiredText">* Required</span>
@@ -1211,7 +1221,7 @@ Sys.Application.initialize();
 var s_code=s_cb.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src = "http://cbglobal.112.2O7.net/b/ss/cbglobal/1/H.0--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+//--></script><noscript><img src="http://cbglobal.112.2O7.net/b/ss/cbglobal/1/H.0--NS/0" height="1" width="1" border="0" alt=""></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.0. -->
 </div>
 
@@ -1224,7 +1234,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <script>
 document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b")
 + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="http://b.scorecardresearch.com/beacon.js"></script>
+</script>
 <script>
 COMSCORE.beacon({
 c1:2,
@@ -1237,7 +1247,7 @@ c15:""
 });
 </script>
 <noscript>
-<img src="http://b.scorecardresearch.com/p?c1=2&c2=&c3=&c4=&c5=&c6=&c15=&cj=1" />
+<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1">
 </noscript>
 <!-- End comScore Tag -->
     
@@ -1246,4 +1256,4 @@ c15:""
       
 
 
-<script type="text/javascript" src="http://img.icbdr.com/v11.49/common/js/jobseeker/cbmapfullv2.js"></script><script type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=6.2&amp;mkt=en-US"></script></body></html>
+</body></html>

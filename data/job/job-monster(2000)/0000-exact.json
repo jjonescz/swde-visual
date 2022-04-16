@@ -1,28 +1,30 @@
 {
  "timestamp": null,
  "/html": {
+  "overflow": "hidden auto",
   "box": [
    0,
    0,
    800,
-   1921.65625
+   1285.78125
   ],
   "/head": {
    "/text()[1]": {
     "whiteSpace": true
    },
+   "/meta[1]": {},
    "/text()[2]": {
     "whiteSpace": true
    },
    "/title": {
     "/text()": {}
    },
+   "/script[1]": {},
+   "/link[1]": {},
    "/text()[3]": {
     "whiteSpace": true
    },
-   "/link[1]": {},
    "/link[2]": {},
-   "/meta[1]": {},
    "/meta[2]": {},
    "/text()[4]": {
     "whiteSpace": true
@@ -53,7 +55,6 @@
    "/text()[11]": {
     "whiteSpace": true
    },
-   "/script[1]": {},
    "/script[2]": {},
    "/text()[12]": {
     "whiteSpace": true
@@ -151,26 +152,35 @@
    "whiteSpace": true
   },
   "/body": {
+   "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+   "fontSize": 13,
    "box": [
-    8,
-    8,
-    784,
-    1905.65625
+    0,
+    0,
+    800,
+    1285.78125
    ],
    "/text()[1]": {
     "whiteSpace": true
    },
+   "/script[1]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
+    "/text()": {}
+   },
    "/text()[2]": {
     "whiteSpace": true
    },
-   "/script[1]": {
-    "/text()": {}
+   "/script[2]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13
    },
-   "/script[2]": {},
    "/text()[3]": {
     "whiteSpace": true
    },
    "/script[3]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[4]": {
@@ -180,6 +190,8 @@
     "whiteSpace": true
    },
    "/script[4]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[6]": {
@@ -190,20 +202,25 @@
    },
    "/div[1]": {
     "id": "monsterAppliesPageWrapperCover",
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "box": [
-     8,
-     8,
-     784,
+     0,
+     0,
+     800,
      0
     ]
    },
    "/div[2]": {
     "id": "monsterAppliesPageWrapper",
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
+    "textAlign": "left",
     "box": [
-     8,
-     8,
-     784,
-     1845.21875
+     0,
+     0,
+     800,
+     151
     ],
     "/text()[1]": {
      "whiteSpace": true
@@ -211,111 +228,129 @@
     "/text()[2]": {
      "whiteSpace": true
     },
-    "/text()[3]": {
-     "whiteSpace": true
-    },
-    "/text()[4]": {
-     "whiteSpace": true
-    },
     "/div[1]": {
      "id": "monsterAppliesHeaderHolder",
+     "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+     "fontSize": 13,
+     "textAlign": "left",
      "box": [
-      8,
-      8,
-      784,
-      142
+      0,
+      0,
+      800,
+      118
      ],
      "/text()[1]": {
       "whiteSpace": true
      },
-     "/text()[2]": {
-      "whiteSpace": true
-     },
      "/div[1]": {
       "id": "mAH_top",
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
       "box": [
-       8,
-       8,
-       784,
-       142
+       0,
+       0,
+       800,
+       118
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/div": {
        "id": "monsterAppliesHeaderHolder_Overflow",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
+       "textAlign": "left",
        "box": [
-        8,
-        8,
-        784,
-        142
+        0,
+        0,
+        800,
+        118
        ],
        "/a": {
         "id": "logo_monster_apply",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
         "textDecoration": "underline solid rgb(0, 0, 238)",
         "color": "#0000eeff",
         "cursor": "pointer",
         "box": [
-         8,
-         8,
-         96.4375,
-         17
+         0,
+         0,
+         85.25,
+         15
         ],
         "/span": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "color": "#0000eeff",
          "cursor": "pointer",
          "box": [
-          8,
-          8,
-          96.4375,
-          17
+          0,
+          0,
+          85.25,
+          15
          ],
          "/text()": {
           "box": [
-           7,
-           8,
-           99,
-           17
+           0,
+           0,
+           85.25,
+           15
           ]
          }
         }
        },
        "/div": {
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
         "box": [
-         8,
-         42,
-         784,
-         108
+         0,
+         28,
+         800,
+         90
         ],
         "/text()[1]": {
          "whiteSpace": true
         },
-        "/text()[2]": {
-         "whiteSpace": true
-        },
         "/div[1]": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          42,
-          784,
+          0,
+          28,
+          800,
           0
          ],
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/div[1]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           42,
-           784,
+           0,
+           28,
+           800,
            0
           ]
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/div[2]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           42,
-           784,
+           0,
+           28,
+           800,
            0
           ]
          },
@@ -323,87 +358,113 @@
           "whiteSpace": true
          }
         },
+        "/text()[2]": {
+         "whiteSpace": true
+        },
         "/div[2]": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          42,
-          784,
-          108
+          0,
+          28,
+          800,
+          90
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           42,
-           784,
-           108
+           0,
+           28,
+           800,
+           90
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/ul": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 13,
+           "textAlign": "left",
            "box": [
-            8,
-            42,
-            784,
-            108
+            0,
+            28,
+            800,
+            90
            ],
            "/text()[1]": {
             "whiteSpace": true
            },
-           "/text()[2]": {
-            "whiteSpace": true
-           },
            "/li[1]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             42,
-             744,
-             18
+             40,
+             28,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              42,
-              39.109375,
-              17
+              40,
+              28,
+              34.6875,
+              15
              ],
              "/text()": {
               "box": [
-               47,
-               42,
-               41,
-               17
+               40,
+               28,
+               34.6875,
+               15
               ]
              }
             }
            },
+           "/text()[2]": {
+            "whiteSpace": true
+           },
            "/li[2]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             60,
-             744,
-             18
+             40,
+             43,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              60,
-              115.546875,
-              17
+              40,
+              43,
+              101.15625,
+              15
              ],
              "/text()": {
               "box": [
-               47,
-               60,
-               118,
-               17
+               40,
+               43,
+               101.15625,
+               15
               ]
              }
             }
@@ -412,30 +473,34 @@
             "whiteSpace": true
            },
            "/li[3]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             78,
-             744,
-             18
+             40,
+             58,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              78,
-              28.453125,
-              17
+              40,
+              58,
+              27.46875,
+              15
              ],
              "/text()": {
               "box": [
-               48,
-               78,
-               28.453125,
-               17
+               40,
+               58,
+               28,
+               15
               ]
              }
             }
@@ -444,30 +509,34 @@
             "whiteSpace": true
            },
            "/li[4]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             96,
-             744,
-             18
+             40,
+             73,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              96,
-              81.671875,
-              17
+              40,
+              73,
+              73.46875,
+              15
              ],
              "/text()": {
               "box": [
-               48,
-               96,
-               81.671875,
-               17
+               40,
+               73,
+               74,
+               15
               ]
              }
             }
@@ -476,30 +545,34 @@
             "whiteSpace": true
            },
            "/li[5]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             114,
-             744,
-             18
+             40,
+             88,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              114,
-              46.203125,
-              17
+              40,
+              88,
+              39.03125,
+              15
              ],
              "/text()": {
               "box": [
-               47,
-               114,
-               49,
-               17
+               40,
+               88,
+               39.03125,
+               15
               ]
              }
             }
@@ -508,30 +581,34 @@
             "whiteSpace": true
            },
            "/li[6]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
             "textAlign": "left",
             "box": [
-             48,
-             132,
-             744,
-             18
+             40,
+             103,
+             760,
+             15
             ],
             "/a": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 13,
              "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 238)",
              "color": "#0000eeff",
              "cursor": "pointer",
              "box": [
-              48,
-              132,
-              86.234375,
-              17
+              40,
+              103,
+              75.859375,
+              15
              ],
              "/text()": {
               "box": [
-               48,
-               132,
-               86.234375,
-               17
+               40,
+               103,
+               77,
+               15
               ]
              }
             }
@@ -540,15 +617,9 @@
             "whiteSpace": true
            }
           },
-          "/text()[1]": {
-           "whiteSpace": true
-          },
           "/text()[2]": {
            "whiteSpace": true
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -558,31 +629,40 @@
          "whiteSpace": true
         },
         "/div[3]": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          166,
-          784,
+          0,
+          131,
+          800,
           0
          ],
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/div[1]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           166,
-           784,
+           0,
+           131,
+           800,
            0
           ]
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/div[2]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           166,
-           784,
+           0,
+           131,
+           800,
            0
           ]
          },
@@ -598,18 +678,21 @@
         "whiteSpace": true
        }
       },
-      "/text()[1]": {
-       "whiteSpace": true
-      },
       "/text()[2]": {
        "whiteSpace": true
       }
      },
+     "/text()[2]": {
+      "whiteSpace": true
+     },
      "/div[2]": {
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
       "box": [
-       8,
-       166,
-       784,
+       0,
+       131,
+       800,
        0
       ]
      },
@@ -617,333 +700,430 @@
       "whiteSpace": true
      }
     },
+    "/text()[3]": {
+     "whiteSpace": true
+    },
+    "/text()[4]": {
+     "whiteSpace": true
+    },
     "/div[2]": {
      "id": "monsterAppliesContentHolder",
+     "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+     "fontSize": 13,
+     "textAlign": "left",
      "box": [
-      8,
-      166,
-      784,
-      1687.21875
+      0,
+      131,
+      800,
+      20
      ],
      "/text()[1]": {
       "whiteSpace": true
      },
+     "/div[1]": {
+      "id": "monsterheader",
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
+      "box": [
+       0,
+       131,
+       800,
+       0
+      ],
+      "/img": {
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
+       "textAlign": "left"
+      }
+     },
      "/text()[2]": {
       "whiteSpace": true
      },
-     "/div[1]": {
-      "id": "monsterheader",
-      "box": [
-       8,
-       166,
-       784,
-       18
-      ],
-      "/img": {
-       "box": [
-        8,
-        166,
-        69.328125,
-        18
-       ]
-      }
-     },
      "/div[2]": {
       "id": "outerwrapper",
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
       "box": [
-       8,
-       184,
-       784,
-       1669.21875
+       0,
+       131,
+       970,
+       20
       ],
       "/text()[1]": {
        "whiteSpace": true
       },
-      "/text()[2]": {
-       "whiteSpace": true
-      },
       "/div[1]": {
        "id": "bodycol",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
+       "textAlign": "left",
+       "backgroundColor": "#ffffffff",
+       "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobwrapperbg.gif\")",
        "box": [
-        8,
-        184,
-        784,
-        1375.59375
+        0,
+        141,
+        765,
+        1103.78125
        ],
        "/div[1]": {
         "id": "jobheadertop",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundColor": "#ffffffff",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobheader_top.gif\")",
         "box": [
-         8,
-         184,
-         784,
-         18
+         0,
+         141,
+         765,
+         11
         ],
         "/text()": {
          "whiteSpace": true,
          "box": [
-          8,
-          184,
-          4,
-          17
+          0,
+          141,
+          3.625,
+          15
          ]
         }
        },
        "/div[2]": {
         "id": "jobheader",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundColor": "#ffffffff",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobheaderbg.gif\")",
+        "overflow": "hidden",
         "box": [
-         8,
-         202,
-         784,
-         38
+         0,
+         152,
+         765,
+         70
         ],
         "/a": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "textDecoration": "underline solid rgb(0, 0, 238)",
          "color": "#0000eeff",
          "cursor": "pointer",
          "box": [
-          8,
-          202,
-          185.28125,
-          17
+          0,
+          152,
+          0,
+          0
          ],
          "/img": {
           "id": "companyLogo",
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "color": "#0000eeff",
           "cursor": "pointer",
           "box": [
-           8,
-           202,
-           185.28125,
-           18
+           15,
+           172,
+           170.640625,
+           16
           ]
          },
          "/p": {
           "id": "companyNameHeader",
-          "color": "#0000eeff",
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 26,
+          "textAlign": "left",
+          "color": "#97a6b2ff",
           "cursor": "pointer",
           "/text()": {}
          }
         },
         "/div[1]": {
          "id": "subicons",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          220,
-          784,
+          754,
+          152,
+          1,
           1
          ],
          "/img": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           220,
+           754,
+           152,
            1,
            1
           ]
          }
         },
         "/div[2]": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          221,
-          784,
+          0,
+          208,
+          765,
           1
          ],
          "/text()": {
           "whiteSpace": true,
           "box": [
-           8,
-           221,
-           4,
-           17
+           0,
+           208,
+           3.625,
+           15
           ]
          }
         },
         "/div[3]": {
          "id": "jobheaderbottom",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
+         "backgroundColor": "#ffffffff",
+         "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobheaderbottom.gif\")",
          "box": [
-          8,
-          222,
-          784,
-          18
+          0,
+          209,
+          765,
+          13
          ],
          "/text()": {
           "whiteSpace": true,
           "box": [
-           8,
-           222,
-           4,
-           17
+           0,
+           209,
+           3.625,
+           15
           ]
          }
         }
        },
        "/div[3]": {
         "id": "jobwrappertop2",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundColor": "#ffffffff",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobwrappertop2.gif\")",
         "box": [
-         8,
-         240,
-         784,
-         18
+         0,
+         218,
+         765,
+         26
         ],
         "/text()": {
          "whiteSpace": true,
          "box": [
-          8,
-          240,
-          4,
-          17
+          0,
+          218,
+          3.625,
+          15
          ]
         }
        },
        "/div[4]": {
         "id": "jobwrapper",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
         "box": [
-         8,
-         277.90625,
-         784,
-         1263.6875
+         0,
+         244,
+         726,
+         969.78125
         ],
         "/text()[1]": {
          "whiteSpace": true
         },
-        "/text()[2]": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "id": "jobsummary",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
+         "backgroundColor": "#ffffffff",
+         "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/jobdata_bg.jpg\")",
          "box": [
-          8,
-          277.90625,
-          784,
-          352.90625
+          15,
+          254,
+          176,
+          371.390625
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
           "id": "jobsummary_content",
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
+          "textAlign": "left",
           "box": [
-           8,
-           277.90625,
-           784,
-           352.90625
+           40,
+           266,
+           128,
+           349
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/h2": {
-           "fontSize": 24,
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 13,
            "fontWeight": "700",
+           "textAlign": "left",
+           "color": "#6d369aff",
+           "borderBottom": "1px dotted rgb(102, 102, 102)",
            "box": [
-            8,
-            277.90625,
-            784,
-            27
+            40,
+            266,
+            128,
+            19
            ],
            "/text()": {
             "box": [
-             7,
-             277.90625,
-             147,
-             26
+             40,
+             266,
+             87,
+             15
             ]
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
           },
           "/dl": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 10,
+           "textAlign": "left",
            "box": [
-            8,
-            324.8125,
-            784,
-            306
+            40,
+            295,
+            128,
+            320
            ],
            "/text()[1]": {
             "whiteSpace": true
            },
+           "/dt[1]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
+            "box": [
+             40,
+             295,
+             128,
+             13
+            ],
+            "/text()": {
+             "box": [
+              40,
+              296,
+              48,
+              11
+             ]
+            }
+           },
            "/text()[2]": {
             "whiteSpace": true
+           },
+           "/dd[1]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
+            "box": [
+             40,
+             308,
+             128,
+             13
+            ],
+            "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
+             "box": [
+              40,
+              309,
+              123.609375,
+              11
+             ],
+             "/text()": {
+              "box": [
+               40,
+               309,
+               124,
+               11
+              ]
+             }
+            }
            },
            "/text()[3]": {
             "whiteSpace": true
            },
-           "/dt[1]": {
-            "box": [
-             8,
-             324.8125,
-             784,
-             18
-            ],
-            "/text()": {
-             "box": [
-              8,
-              324.8125,
-              64,
-              17
-             ]
-            }
-           },
            "/dt[2]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             360.8125,
-             784,
-             18
+             40,
+             331,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              7,
-              360.8125,
-              59,
-              17
+              40,
+              332,
+              43.296875,
+              11
              ]
             }
            },
            "/text()[4]": {
             "whiteSpace": true
            },
-           "/dd[1]": {
-            "box": [
-             48,
-             342.8125,
-             744,
-             18
-            ],
-            "/span": {
-             "box": [
-              48,
-              342.8125,
-              169.28125,
-              17
-             ],
-             "/text()": {
-              "box": [
-               47,
-               342.8125,
-               171,
-               17
-              ]
-             }
-            }
-           },
            "/dd[2]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             378.8125,
-             744,
-             18
+             40,
+             344,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              378.8125,
-              125.359375,
-              17
+              40,
+              345,
+              86.8125,
+              11
              ],
              "/text()": {
               "box": [
-               48,
-               378.8125,
-               125.359375,
-               17
+               40,
+               345,
+               88,
+               11
               ]
              }
             }
@@ -952,18 +1132,23 @@
             "whiteSpace": true
            },
            "/dt[3]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             396.8125,
-             784,
-             18
+             40,
+             367,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              8,
-              396.8125,
-              63.109375,
-              17
+              40,
+              368,
+              50,
+              11
              ]
             }
            },
@@ -971,25 +1156,33 @@
             "whiteSpace": true
            },
            "/dd[3]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             414.8125,
-             744,
-             18
+             40,
+             380,
+             128,
+             26
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              414.8125,
-              219.484375,
-              17
+              40,
+              381,
+              95.875,
+              24
              ],
              "/text()": {
               "box": [
-               47,
-               414.8125,
-               222,
-               17
+               40,
+               381,
+               97,
+               24
               ]
              }
             }
@@ -998,18 +1191,23 @@
             "whiteSpace": true
            },
            "/dt[4]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             432.8125,
-             784,
-             18
+             40,
+             416,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              8,
-              432.8125,
-              57.703125,
-              17
+              40,
+              417,
+              46,
+              11
              ]
             }
            },
@@ -1017,49 +1215,67 @@
             "whiteSpace": true
            },
            "/dd[4]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/purple_bullet.gif\")",
+            "lineHeight": 13,
             "box": [
-             48,
-             450.8125,
-             744,
-             18
+             40,
+             429,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              450.8125,
-              62.703125,
-              17
+              56,
+              430,
+              42.15625,
+              11
              ],
              "/text()": {
               "box": [
-               47,
-               450.8125,
-               64,
-               17
+               56,
+               430,
+               43,
+               11
               ]
              }
             }
            },
            "/dd[5]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/purple_bullet.gif\")",
+            "lineHeight": 13,
             "box": [
-             48,
-             468.8125,
-             744,
-             18
+             40,
+             445,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              468.8125,
-              64.875,
-              17
+              56,
+              446,
+              46.21875,
+              11
              ],
              "/text()": {
               "box": [
+               56,
+               446,
                47,
-               468.8125,
-               66,
-               17
+               11
               ]
              }
             }
@@ -1068,18 +1284,23 @@
             "whiteSpace": true
            },
            "/dt[5]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             486.8125,
-             784,
-             18
+             40,
+             468,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              8,
-              486.8125,
-              129,
-              17
+              40,
+              469,
+              99,
+              11
              ]
             }
            },
@@ -1087,25 +1308,33 @@
             "whiteSpace": true
            },
            "/dd[6]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             504.8125,
-             744,
-             18
+             40,
+             481,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              504.8125,
-              84.59375,
-              17
+              40,
+              482,
+              60.953125,
+              11
              ],
              "/text()": {
               "box": [
-               48,
-               504.8125,
-               84.59375,
-               17
+               40,
+               482,
+               60.953125,
+               11
               ]
              }
             }
@@ -1114,18 +1343,23 @@
             "whiteSpace": true
            },
            "/dt[6]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             522.8125,
-             784,
-             18
+             40,
+             504,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              7,
-              522.8125,
-              107,
-              17
+              40,
+              505,
+              80,
+              11
              ]
             }
            },
@@ -1133,25 +1367,33 @@
             "whiteSpace": true
            },
            "/dd[7]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             540.8125,
-             744,
-             18
+             40,
+             517,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              540.8125,
-              117.046875,
-              17
+              40,
+              518,
+              85.15625,
+              11
              ],
              "/text()": {
               "box": [
-               47,
-               540.8125,
-               119,
-               17
+               40,
+               518,
+               86,
+               11
               ]
              }
             }
@@ -1160,18 +1402,23 @@
             "whiteSpace": true
            },
            "/dt[7]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             558.8125,
-             784,
-             18
+             40,
+             540,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              8,
-              558.8125,
-              84,
-              17
+              40,
+              541,
+              63,
+              11
              ]
             }
            },
@@ -1179,25 +1426,33 @@
             "whiteSpace": true
            },
            "/dd[8]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             576.8125,
-             744,
-             18
+             40,
+             553,
+             128,
+             26
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              576.8125,
-              184.359375,
-              17
+              40,
+              554,
+              86.640625,
+              24
              ],
              "/text()": {
               "box": [
-               47,
-               576.8125,
-               186,
-               17
+               40,
+               554,
+               86.640625,
+               24
               ]
              }
             }
@@ -1206,18 +1461,23 @@
             "whiteSpace": true
            },
            "/dt[8]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "fontWeight": "700",
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             8,
-             594.8125,
-             784,
-             18
+             40,
+             589,
+             128,
+             13
             ],
             "/text()": {
              "box": [
-              8,
-              594.8125,
-              128.84375,
-              17
+              40,
+              590,
+              101,
+              11
              ]
             }
            },
@@ -1225,25 +1485,33 @@
             "whiteSpace": true
            },
            "/dd[9]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
+            "lineHeight": 13,
             "box": [
-             48,
-             612.8125,
-             744,
-             18
+             40,
+             602,
+             128,
+             13
             ],
             "/span": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
+             "lineHeight": 13,
              "box": [
-              48,
-              612.8125,
-              15.109375,
-              17
+              40,
+              603,
+              9.234375,
+              11
              ],
              "/text()": {
               "box": [
-               48,
-               612.8125,
-               16,
-               17
+               40,
+               603,
+               10,
+               11
               ]
              }
             }
@@ -1256,60 +1524,68 @@
            "whiteSpace": true
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
          "/text()[2]": {
           "whiteSpace": true
          }
         },
+        "/text()[2]": {
+         "whiteSpace": true
+        },
         "/div[2]": {
          "id": "jobcopy",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          652.25,
-          784,
-          889.34375
+          201,
+          262,
+          510,
+          941.78125
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/h1": {
-          "fontSize": 32,
-          "fontWeight": "700",
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 18,
+          "textAlign": "left",
+          "color": "#728d2eff",
           "box": [
-           8,
-           652.25,
-           784,
-           37
+           201,
+           262,
+           510,
+           21
           ],
           "/text()": {
            "box": [
-            8,
-            652.25,
-            324,
-            36
+            201,
+            262,
+            177.890625,
+            20
            ]
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
          },
          "/h2": {
-          "fontSize": 24,
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "fontWeight": "700",
+          "textAlign": "left",
+          "color": "#6d369aff",
           "box": [
-           8,
-           710.6875,
-           784,
-           27
+           201,
+           293.78125,
+           510,
+           15
           ],
           "/text()": {
            "box": [
-            7,
-            710.6875,
-            147,
-            26
+            201,
+            293.78125,
+            88,
+            15
            ]
           }
          },
@@ -1318,56 +1594,72 @@
          },
          "/div": {
           "id": "jobBodyContent",
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 10,
+          "textAlign": "left",
           "box": [
-           8,
-           757.59375,
-           784,
-           784
+           201,
+           313.78125,
+           510,
+           890
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/span": {
            "id": "TrackingJobBody",
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 10,
+           "textAlign": "left",
            "box": [
-            8,
-            757.59375,
+            201,
+            313.78125,
             0,
             0
            ],
            "/p[1]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             757.59375,
-             784,
-             38
+             201,
+             313.78125,
+             510,
+             54
             ],
             "/font": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
              "fontSize": 18,
+             "textAlign": "left",
              "box": [
-              8,
-              756.59375,
-              779.515625,
-              40
+              201,
+              310.78125,
+              505.125,
+              57
              ],
              "/font": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               757.59375,
-               779.515625,
-               38
+               201,
+               313.78125,
+               505.125,
+               53
               ],
               "/text()": {
                "box": [
-                8,
-                757.59375,
-                780,
-                38
+                201,
+                313.78125,
+                506,
+                53
                ]
               },
               "/br": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                757.59375,
+                201,
+                313.78125,
                 0,
                 0
                ]
@@ -1376,25 +1668,31 @@
             }
            },
            "/p[2]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             811.59375,
-             784,
-             0
+             201,
+             367.78125,
+             510,
+             13
             ],
             "/font": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
              "fontSize": 18,
+             "textAlign": "left",
              "box": [
-              8,
-              811.59375,
+              201,
+              367.78125,
               0,
               0
              ],
              "/font": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               811.59375,
+               201,
+               367.78125,
                0,
                0
               ]
@@ -1402,25 +1700,31 @@
             }
            },
            "/p[3]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             811.59375,
-             784,
-             0
+             201,
+             380.78125,
+             510,
+             13
             ],
             "/font": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
              "fontSize": 18,
+             "textAlign": "left",
              "box": [
-              8,
-              811.59375,
+              201,
+              380.78125,
               0,
               0
              ],
              "/font": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               811.59375,
+               201,
+               380.78125,
                0,
                0
               ]
@@ -1428,409 +1732,467 @@
             }
            },
            "/p[4]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             811.59375,
-             784,
-             0
+             201,
+             393.78125,
+             510,
+             13
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              811.59375,
+              201,
+              393.78125,
               0,
               0
              ]
             }
            },
            "/p[5]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             811.59375,
-             784,
-             0
+             201,
+             406.78125,
+             510,
+             13
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              811.59375,
+              201,
+              406.78125,
               0,
               0
              ]
             }
            },
            "/p[6]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             811.59375,
-             784,
-             114
+             201,
+             419.78125,
+             510,
+             144
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              811.59375,
-              767.90625,
-              114
+              201,
+              419.78125,
+              507.828125,
+              143
              ],
              "/u": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "textDecoration": "underline solid rgb(0, 0, 0)",
               "box": [
-               8,
-               811.59375,
-               89.390625,
-               38
+               201,
+               419.78125,
+               83.125,
+               35
               ],
               "/br": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                811.59375,
+                201,
+                419.78125,
                 0,
                 0
                ]
               },
               "/text()": {
                "box": [
-                7,
-                830.59375,
-                92,
-                19
+                201,
+                437.78125,
+                83.125,
+                17
                ]
               }
              },
              "/br": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               811.59375,
+               201,
+               419.78125,
                0,
                0
               ]
              },
              "/text()": {
               "box": [
-               7,
-               849.59375,
-               770,
-               76
+               201,
+               455.78125,
+               508,
+               108
               ]
              }
             }
            },
            "/p[7]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             925.59375,
-             784,
-             113
+             201,
+             563.78125,
+             510,
+             119
             ],
             "/u": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
              "textDecoration": "underline solid rgb(0, 0, 0)",
              "box": [
-              8,
-              925.59375,
+              201,
+              563.78125,
               0,
-              17
+              11
              ]
             },
             "/br": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "fontSize": 10,
+             "textAlign": "left",
              "box": [
-              8,
-              925.59375,
+              201,
+              563.78125,
               0,
               0
              ]
             },
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              943.59375,
-              723.5625,
-              95
+              201,
+              574.78125,
+              475.203125,
+              107
              ],
+             "/text()[1]": {
+              "box": [
+               201,
+               574.78125,
+               476,
+               53
+              ]
+             },
+             "/br[1]": {
+              "fontFamily": "Tahoma",
+              "textAlign": "left",
+              "box": [
+               201,
+               563.78125,
+               0,
+               0
+              ]
+             },
              "/u": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "textDecoration": "underline solid rgb(0, 0, 0)",
               "box": [
-               8,
-               981.59375,
-               187.40625,
-               38
+               201,
+               628.78125,
+               175.109375,
+               35
               ],
               "/br": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                925.59375,
+                201,
+                563.78125,
                 0,
                 0
                ]
               },
               "/text()": {
                "box": [
-                8,
-                1000.59375,
-                189,
-                19
+                201,
+                646.78125,
+                176,
+                18
                ]
               }
              },
-             "/br[1]": {
-              "fontFamily": "Tahoma",
-              "box": [
-               8,
-               925.59375,
-               0,
-               0
-              ]
-             },
              "/br[2]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               925.59375,
+               201,
+               563.78125,
                0,
                0
-              ]
-             },
-             "/text()[1]": {
-              "box": [
-               7,
-               943.59375,
-               726,
-               38
               ]
              },
              "/text()[2]": {
               "box": [
-               8,
-               1019.59375,
-               349,
-               19
+               201,
+               664.78125,
+               314,
+               18
               ]
              }
             }
            },
            "/p[8]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1038.59375,
-             784,
-             114
+             201,
+             682.78125,
+             510,
+             108
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1038.59375,
-              380.921875,
-              114
+              201,
+              682.78125,
+              354.5625,
+              107
              ],
              "/text()[1]": {
               "box": [
-               8,
-               1038.59375,
-               315,
-               19
-              ]
-             },
-             "/text()[2]": {
-              "box": [
-               8,
-               1057.59375,
-               230,
-               19
+               201,
+               682.78125,
+               290,
+               18
               ]
              },
              "/br[1]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1038.59375,
+               201,
+               682.78125,
                0,
                0
               ]
              },
+             "/text()[2]": {
+              "box": [
+               201,
+               700.78125,
+               208,
+               18
+              ]
+             },
              "/br[2]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1038.59375,
+               201,
+               682.78125,
                0,
                0
               ]
              },
              "/text()[3]": {
               "box": [
-               8,
-               1076.59375,
-               234,
-               19
+               201,
+               718.78125,
+               218,
+               18
               ]
              },
              "/br[3]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1038.59375,
+               201,
+               682.78125,
                0,
                0
               ]
              },
              "/text()[4]": {
               "box": [
-               7,
-               1095.59375,
-               248,
-               19
+               201,
+               736.78125,
+               231,
+               18
               ]
              },
              "/br[4]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1038.59375,
+               201,
+               682.78125,
                0,
                0
               ]
              },
              "/text()[5]": {
               "box": [
-               8,
-               1114.59375,
-               194,
-               19
+               201,
+               754.78125,
+               176.390625,
+               17
               ]
              },
              "/br[5]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1038.59375,
+               201,
+               682.78125,
                0,
                0
               ]
              },
              "/text()[6]": {
               "box": [
-               7,
-               1133.59375,
-               383,
-               19
+               201,
+               772.78125,
+               355,
+               18
               ]
              }
             }
            },
            "/p[9]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1152.59375,
-             784,
-             19
+             201,
+             790.78125,
+             510,
+             36
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1152.59375,
-              663.390625,
-              19
+              201,
+              790.78125,
+              481.359375,
+              35
              ],
              "/text()": {
               "box": [
-               7,
-               1152.59375,
-               665,
-               19
+               201,
+               790.78125,
+               482,
+               35
               ]
              }
             }
            },
            "/p[10]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1171.59375,
-             784,
-             19
+             201,
+             826.78125,
+             510,
+             18
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1171.59375,
-              354.71875,
-              19
+              201,
+              826.78125,
+              324.5,
+              17
              ],
              "/text()": {
               "box": [
-               8,
-               1171.59375,
-               356,
-               19
+               201,
+               826.78125,
+               325,
+               18
               ]
              }
             }
            },
            "/p[11]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1190.59375,
-             784,
-             0
+             201,
+             844.78125,
+             510,
+             13
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1190.59375,
+              201,
+              844.78125,
               0,
               0
              ]
             }
            },
            "/p[12]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1190.59375,
-             784,
-             61
+             201,
+             857.78125,
+             510,
+             58
             ],
             "/font": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "textAlign": "left",
              "box": [
-              8,
-              1195.59375,
-              285.46875,
-              56
+              201,
+              860.78125,
+              269.96875,
+              54
              ],
              "/font": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1193.59375,
-               285.46875,
-               58
+               201,
+               860.78125,
+               269.96875,
+               54
               ],
               "/font": {
                "fontFamily": "Tahoma",
                "fontSize": 18,
+               "textAlign": "left",
                "box": [
-                8,
-                1190.59375,
+                201,
+                857.78125,
                 0,
-                23
+                21
                ],
                "/br": {
                 "fontFamily": "Tahoma",
                 "fontSize": 18,
+                "textAlign": "left",
                 "box": [
-                 8,
-                 1190.59375,
+                 201,
+                 857.78125,
                  0,
                  0
                 ]
@@ -1838,315 +2200,354 @@
               },
               "/u": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "textDecoration": "underline solid rgb(0, 0, 0)",
                "box": [
-                8,
-                1213.59375,
-                104.515625,
-                19
+                201,
+                879.78125,
+                102.421875,
+                17
                ],
                "/text()": {
                 "box": [
-                 7,
-                 1213.59375,
-                 108,
-                 19
+                 201,
+                 879.78125,
+                 102.421875,
+                 17
                 ]
                }
               },
               "/br": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                1190.59375,
+                201,
+                857.78125,
                 0,
                 0
                ]
               },
               "/text()": {
                "box": [
-                7,
-                1232.59375,
-                288,
-                19
+                201,
+                897.78125,
+                270,
+                18
                ]
               }
              }
             }
            },
            "/p[13]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1251.59375,
-             784,
-             19
+             201,
+             915.78125,
+             510,
+             18
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1251.59375,
-              226.765625,
-              19
+              201,
+              915.78125,
+              211.9375,
+              17
              ],
              "/text()": {
               "box": [
-               8,
-               1251.59375,
-               228,
-               19
+               201,
+               915.78125,
+               212,
+               18
               ]
              }
             }
            },
            "/p[14]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1270.59375,
-             784,
-             19
+             201,
+             933.78125,
+             510,
+             18
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1270.59375,
-              450.59375,
-              19
+              201,
+              933.78125,
+              412.84375,
+              17
              ],
              "/text()": {
               "box": [
-               7,
-               1270.59375,
-               453,
-               19
+               201,
+               933.78125,
+               413,
+               18
               ]
              }
             }
            },
            "/p[15]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1289.59375,
-             784,
-             38
+             201,
+             951.78125,
+             510,
+             36
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1289.59375,
-              485.78125,
-              38
+              201,
+              951.78125,
+              471.25,
+              35
              ],
+             "/text()[1]": {
+              "box": [
+               201,
+               951.78125,
+               472,
+               18
+              ]
+             },
              "/br": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1289.59375,
+               201,
+               951.78125,
                0,
                0
               ]
              },
-             "/text()[1]": {
-              "box": [
-               8,
-               1289.59375,
-               487,
-               19
-              ]
-             },
              "/text()[2]": {
               "box": [
-               7,
-               1308.59375,
-               265,
-               19
+               201,
+               969.78125,
+               244,
+               18
               ]
              }
             }
            },
            "/p[16]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1327.59375,
-             784,
-             76
+             201,
+             987.78125,
+             510,
+             72
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1327.59375,
-              453.828125,
-              76
+              201,
+              987.78125,
+              417.796875,
+              71
              ],
              "/text()[1]": {
               "box": [
-               7,
-               1327.59375,
-               351,
-               19
+               201,
+               987.78125,
+               328,
+               18
+              ]
+             },
+             "/br[1]": {
+              "fontFamily": "Tahoma",
+              "textAlign": "left",
+              "box": [
+               201,
+               987.78125,
+               0,
+               0
               ]
              },
              "/text()[2]": {
               "box": [
-               8,
-               1346.59375,
-               116.578125,
-               19
+               201,
+               1005.78125,
+               109,
+               18
               ]
              },
              "/font": {
               "id": "RadESpellError_5",
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               124.578125,
-               1346.59375,
-               47.578125,
-               19
+               309.109375,
+               1005.78125,
+               44.4375,
+               17
               ],
               "/text()": {
                "box": [
-                123.578125,
-                1346.59375,
-                50,
-                19
+                309.109375,
+                1005.78125,
+                44.4375,
+                17
                ]
               }
              },
              "/text()[3]": {
               "box": [
-               172.15625,
-               1346.59375,
-               289.671875,
-               19
-              ]
-             },
-             "/br[1]": {
-              "fontFamily": "Tahoma",
-              "box": [
-               8,
-               1327.59375,
-               0,
-               0
+               353.546875,
+               1005.78125,
+               266,
+               18
               ]
              },
              "/br[2]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1327.59375,
+               201,
+               987.78125,
                0,
                0
               ]
              },
              "/text()[4]": {
               "box": [
-               8,
-               1365.59375,
-               252,
-               19
+               201,
+               1023.78125,
+               233,
+               18
               ]
              },
              "/br[3]": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1327.59375,
+               201,
+               987.78125,
                0,
                0
               ]
              },
              "/text()[5]": {
               "box": [
-               8,
-               1384.59375,
-               360,
-               19
+               201,
+               1041.78125,
+               331,
+               18
               ]
              }
             }
            },
            "/p[17]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1403.59375,
-             784,
-             19
+             201,
+             1059.78125,
+             510,
+             18
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1403.59375,
-              68.140625,
-              19
+              201,
+              1059.78125,
+              65.640625,
+              17
              ],
              "/text()": {
               "box": [
-               8,
-               1403.59375,
-               69,
-               19
+               201,
+               1059.78125,
+               65.640625,
+               17
               ]
              }
             }
            },
            "/p[18]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1422.59375,
-             784,
-             0
+             201,
+             1077.78125,
+             510,
+             13
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1422.59375,
+              201,
+              1077.78125,
               0,
               0
              ]
             }
            },
            "/p[19]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1422.59375,
-             784,
-             99
+             201,
+             1090.78125,
+             510,
+             94
             ],
             "/font": {
+             "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+             "textAlign": "left",
              "box": [
-              8,
-              1427.59375,
-              738.265625,
-              94
+              201,
+              1093.78125,
+              430.203125,
+              90
              ],
              "/font": {
               "fontFamily": "Tahoma",
+              "textAlign": "left",
               "box": [
-               8,
-               1425.59375,
-               738.265625,
-               96
+               201,
+               1093.78125,
+               430.203125,
+               90
               ],
               "/font": {
                "fontFamily": "Tahoma",
                "fontSize": 18,
+               "textAlign": "left",
                "box": [
-                8,
-                1422.59375,
+                201,
+                1090.78125,
                 0,
-                23
+                21
                ],
                "/br": {
                 "fontFamily": "Tahoma",
                 "fontSize": 18,
+                "textAlign": "left",
                 "box": [
-                 8,
-                 1422.59375,
+                 201,
+                 1090.78125,
                  0,
                  0
                 ]
@@ -2154,53 +2555,57 @@
               },
               "/u": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "textDecoration": "underline solid rgb(0, 0, 0)",
                "box": [
-                8,
-                1445.59375,
-                182.046875,
-                19
+                201,
+                1112.78125,
+                167.921875,
+                17
                ],
                "/text()": {
                 "box": [
-                 8,
-                 1445.59375,
-                 183,
-                 19
+                 201,
+                 1112.78125,
+                 168,
+                 18
                 ]
                }
               },
-              "/text()": {
-               "box": [
-                7,
-                1464.59375,
-                740,
-                38
-               ]
-              },
               "/br[1]": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                1422.59375,
+                201,
+                1090.78125,
                 0,
                 0
                ]
               },
+              "/text()": {
+               "box": [
+                201,
+                1130.78125,
+                431,
+                36
+               ]
+              },
               "/br[2]": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                1422.59375,
+                201,
+                1090.78125,
                 0,
                 0
                ]
               },
               "/br[3]": {
                "fontFamily": "Tahoma",
+               "textAlign": "left",
                "box": [
-                8,
-                1422.59375,
+                201,
+                1090.78125,
                 0,
                 0
                ]
@@ -2209,47 +2614,51 @@
             }
            },
            "/p[20]": {
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 10,
+            "textAlign": "left",
             "box": [
-             8,
-             1521.59375,
-             784,
-             19
+             201,
+             1184.78125,
+             510,
+             18
             ],
             "/font": {
              "fontFamily": "Tahoma",
+             "textAlign": "left",
              "box": [
-              8,
-              1521.59375,
-              423.4375,
-              19
+              201,
+              1184.78125,
+              390.578125,
+              17
              ],
              "/text()": {
               "box": [
-               8,
-               1521.59375,
-               423.4375,
-               19
+               201,
+               1184.78125,
+               391,
+               18
               ]
              }
             }
            }
           },
-          "/text()[1]": {
-           "whiteSpace": true
-          },
           "/text()[2]": {
            "whiteSpace": true,
            "box": [
-            8,
-            1540.59375,
+            201,
+            1202.78125,
             0,
             0
            ]
           },
           "/img": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 10,
+           "textAlign": "left",
            "box": [
-            8,
-            1540.59375,
+            201,
+            1202.78125,
             1,
             1
            ]
@@ -2265,147 +2674,187 @@
        },
        "/div[5]": {
         "id": "bodycolbottom",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundColor": "#ffffffff",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/bodycolbottom.gif\")",
         "box": [
-         8,
-         1541.59375,
-         784,
-         18
+         0,
+         1213.78125,
+         765,
+         31
         ],
         "/text()": {
          "whiteSpace": true,
          "box": [
-          8,
-          1541.59375,
-          4,
-          17
+          0,
+          1213.78125,
+          3.625,
+          15
          ]
         }
        }
       },
+      "/text()[2]": {
+       "whiteSpace": true
+      },
       "/div[2]": {
        "id": "sidecol",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
+       "textAlign": "left",
        "box": [
-        8,
-        1559.59375,
-        784,
-        293.625
+        785,
+        251,
+        180,
+        345
        ],
        "/div[1]": {
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/sidebar_header_top.gif\")",
         "box": [
-         8,
-         1559.59375,
-         784,
-         18
+         785,
+         251,
+         180,
+         6
         ],
         "/text()": {
          "whiteSpace": true,
          "box": [
-          8,
-          1559.59375,
-          4,
-          17
+          785,
+          251,
+          3.625,
+          15
          ]
         }
        },
        "/div[2]": {
         "id": "jobtools",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
         "box": [
-         8,
-         1597.5,
-         784,
-         118.90625
+         785,
+         257,
+         180,
+         195
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/h2": {
-         "fontSize": 24,
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
          "fontWeight": "700",
+         "textAlign": "left",
+         "textTransform": "uppercase",
          "box": [
-          8,
-          1597.5,
-          784,
-          27
+          785,
+          257,
+          180,
+          31
          ],
          "/text()": {
           "box": [
-           7,
-           1597.5,
-           98,
-           26
+           785,
+           263,
+           76,
+           15
           ]
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
         },
         "/ul": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          1644.40625,
-          784,
-          72
+          786,
+          290,
+          179,
+          152
          ],
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/li[1]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/apply_btn_arrow.png\")",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
+          "lineHeight": 34,
           "box": [
-           48,
-           1644.40625,
-           744,
-           18
+           786,
+           290,
+           179,
+           46
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
+           "fontWeight": "700",
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
+           "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/apply_btn_bg.png\")",
+           "borderRight": "1px solid rgb(204, 204, 204)",
            "cursor": "pointer",
+           "lineHeight": 34,
+           "textTransform": "uppercase",
            "box": [
-            48,
-            1644.40625,
-            40,
-            17
+            786,
+            296,
+            41.671875,
+            29
            ],
            "/text()": {
             "box": [
-             47,
-             1644.40625,
-             43,
-             17
+             786,
+             305,
+             37,
+             12
             ]
            }
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/li[2]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/2011.02/print-16x16_icon.png\")",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
           "box": [
-           48,
-           1662.40625,
-           744,
-           18
+           786,
+           356,
+           179,
+           23
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
            "cursor": "pointer",
            "box": [
-            48,
-            1662.40625,
-            31.125,
-            17
+            816,
+            358,
+            27.625,
+            12
            ],
            "/text()": {
             "box": [
-             47,
-             1662.40625,
-             34,
-             17
+             816,
+             358,
+             22.625,
+             12
             ]
            }
           }
@@ -2414,30 +2863,35 @@
           "whiteSpace": true
          },
          "/li[3]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/2011.02/save-16x16_icon.png\")",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
           "box": [
-           48,
-           1680.40625,
-           744,
-           18
+           786,
+           386,
+           179,
+           23
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
            "cursor": "pointer",
            "box": [
-            48,
-            1680.40625,
-            31.109375,
-            17
+            816,
+            388,
+            30.078125,
+            12
            ],
            "/text()": {
             "box": [
-             48,
-             1680.40625,
-             31.109375,
-             17
+             816,
+             388,
+             25.078125,
+             12
             ]
            }
           }
@@ -2446,30 +2900,35 @@
           "whiteSpace": true
          },
          "/li[4]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/2011.02/email-16x16_icon.png\")",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
           "box": [
-           48,
-           1698.40625,
-           744,
-           18
+           786,
+           416,
+           179,
+           23
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
            "cursor": "pointer",
            "box": [
-            48,
-            1698.40625,
-            36.4375,
-            17
+            816,
+            418,
+            34.359375,
+            12
            ],
            "/text()": {
             "box": [
-             48,
-             1698.40625,
-             36.4375,
-             17
+             816,
+             418,
+             29.359375,
+             12
             ]
            }
           }
@@ -2483,121 +2942,142 @@
         }
        },
        "/div[3]": {
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
+        "backgroundImage": "url(\"http://media.monster.com/jobview_standard/images/sidebar_header_top.gif\")",
         "box": [
-         8,
-         1732.40625,
-         784,
-         18
+         785,
+         462,
+         180,
+         6
         ],
         "/text()": {
          "whiteSpace": true,
          "box": [
-          8,
-          1732.40625,
-          4,
-          17
+          785,
+          462,
+          3.625,
+          15
          ]
         }
        },
        "/div[4]": {
         "id": "companytools",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
+        "textAlign": "left",
         "box": [
-         8,
-         1770.3125,
-         784,
-         82.90625
+         785,
+         468,
+         180,
+         98
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/h2": {
-         "fontSize": 24,
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
          "fontWeight": "700",
+         "textAlign": "left",
+         "textTransform": "uppercase",
          "box": [
-          8,
-          1770.3125,
-          784,
-          27
+          785,
+          468,
+          180,
+          31
          ],
          "/text()": {
           "box": [
-           8,
-           1770.3125,
-           159.40625,
-           26
+           785,
+           474,
+           114,
+           15
           ]
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
         },
         "/ul": {
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "textAlign": "left",
          "box": [
-          8,
-          1817.21875,
-          784,
-          36
+          786,
+          499,
+          179,
+          57
          ],
          "/text()[1]": {
           "whiteSpace": true
          },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
          "/li[1]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
           "box": [
-           48,
-           1817.21875,
-           744,
-           18
+           786,
+           499,
+           179,
+           27
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
            "cursor": "pointer",
            "box": [
-            48,
-            1817.21875,
-            195.03125,
-            17
+            786,
+            505,
+            151.546875,
+            12
            ],
            "/text()": {
             "box": [
-             47,
-             1817.21875,
-             199,
-             17
+             786,
+             505,
+             148,
+             12
             ]
            }
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/li[2]": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "textAlign": "left",
+          "borderBottom": "1px solid rgb(204, 204, 204)",
           "box": [
-           48,
-           1835.21875,
-           744,
-           18
+           786,
+           526,
+           179,
+           27
           ],
           "/a": {
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 11,
            "textAlign": "left",
-           "textDecoration": "underline solid rgb(0, 0, 238)",
-           "color": "#0000eeff",
+           "color": "#0d51abff",
            "cursor": "pointer",
            "box": [
-            48,
-            1835.21875,
-            147.46875,
-            17
+            786,
+            532,
+            113.015625,
+            12
            ],
            "/text()": {
             "box": [
-             47,
-             1835.21875,
-             150,
-             17
+             786,
+             532,
+             108.015625,
+             12
             ]
            }
           }
@@ -2622,18 +3102,24 @@
       "whiteSpace": true
      },
      "/p[1]": {
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
       "box": [
-       8,
-       1869.21875,
-       784,
+       0,
+       164,
+       800,
        0
       ]
      },
      "/p[2]": {
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
+      "textAlign": "left",
       "box": [
-       8,
-       1869.21875,
-       784,
+       0,
+       164,
+       800,
        0
       ]
      }
@@ -2643,10 +3129,13 @@
     },
     "/form": {
      "id": "forApply",
+     "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+     "fontSize": 13,
+     "textAlign": "left",
      "box": [
-      8,
-      1869.21875,
-      784,
+      0,
+      164,
+      800,
       0
      ],
      "/input[1]": {
@@ -2766,10 +3255,13 @@
     },
     "/div[3]": {
      "id": "monsterAppliesPageWrapperWhiteSpace",
+     "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+     "fontSize": 13,
+     "textAlign": "left",
      "box": [
-      8,
-      1869.21875,
-      784,
+      0,
+      164,
+      800,
       0
      ]
     }
@@ -2781,6 +3273,8 @@
     "whiteSpace": true
    },
    "/script[5]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[10]": {
@@ -2788,63 +3282,91 @@
    },
    "/div[3]": {
     "id": "AppliesFooterHolder",
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "box": [
-     8,
-     1874.65625,
-     784,
-     38
+     0,
+     168.40625,
+     800,
+     1116.375
     ],
+    "/text()[1]": {
+     "whiteSpace": true
+    },
     "/div": {
      "id": "pnlApply",
+     "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+     "fontSize": 13,
      "box": [
-      8,
-      1874.65625,
-      784,
-      38
+      0,
+      168.40625,
+      800,
+      1116.375
      ],
      "/text()[1]": {
       "whiteSpace": true
      },
-     "/text()[2]": {
-      "whiteSpace": true
-     },
      "/div[1]": {
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
       "box": [
-       8,
-       1874.65625,
-       784,
+       0,
+       168.40625,
+       800,
        0
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/div": {
        "id": "applyContent",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1874.65625,
-        784,
+        0,
+        168.40625,
+        800,
         0
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/div": {
         "id": "hiddenApplyDiv",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
         "box": [
-         8,
-         1874.65625,
-         784,
+         0,
+         168.40625,
+         800,
          0
         ],
         "/text()[1]": {
          "whiteSpace": true
+        },
+        "/div[1]": {
+         "id": "monsterTop_left",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
+         "box": [
+          0,
+          168.40625,
+          800,
+          0
+         ]
         },
         "/text()[2]": {
          "whiteSpace": true
         },
         "/h1": {
          "id": "modal_heading",
-         "fontSize": 32,
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 26,
          "fontWeight": "700",
          "box": [
-          8,
-          1874.65625,
-          784,
+          0,
+          168.40625,
+          800,
           0
          ],
          "/text()": {
@@ -2854,21 +3376,14 @@
         "/text()[3]": {
          "whiteSpace": true
         },
-        "/div[1]": {
-         "id": "monsterTop_left",
-         "box": [
-          8,
-          1874.65625,
-          784,
-          0
-         ]
-        },
         "/div[2]": {
          "id": "monsterTop_right",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
          "box": [
-          8,
-          1874.65625,
-          784,
+          0,
+          168.40625,
+          800,
           0
          ]
         },
@@ -2876,168 +3391,181 @@
          "whiteSpace": true
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true
        }
-      },
-      "/text()[1]": {
-       "whiteSpace": true
       },
       "/text()[2]": {
        "whiteSpace": true
       }
      },
+     "/text()[2]": {
+      "whiteSpace": true
+     },
      "/div[2]": {
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
       "box": [
-       8,
-       1874.65625,
-       784,
-       20
+       0,
+       168.40625,
+       800,
+       1101.375
       ],
       "/text()[1]": {
        "whiteSpace": true
       },
-      "/text()[2]": {
-       "whiteSpace": true
-      },
       "/div[1]": {
        "id": "apply_footer_lcap",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1874.65625,
-        784,
+        0,
+        168.40625,
+        800,
         0
        ]
       },
+      "/text()[2]": {
+       "whiteSpace": true
+      },
       "/div[2]": {
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1874.65625,
-        784,
-        20
+        0,
+        168.40625,
+        800,
+        1101.375
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/div": {
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
         "box": [
-         8,
-         1874.65625,
-         784,
-         20
+         0,
+         168.40625,
+         800,
+         1101.375
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/a": {
          "id": "ctl00_hlBackButton",
+         "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+         "fontSize": 13,
          "textDecoration": "underline solid rgb(0, 0, 238)",
          "color": "#0000eeff",
          "cursor": "pointer",
          "box": [
-          8,
-          1876.65625,
-          161.734375,
-          17
+          0,
+          592,
+          769,
+          677.78125
          ],
+         "/text()[1]": {
+          "whiteSpace": true,
+          "box": [
+           0,
+           168.40625,
+           0,
+           0
+          ]
+         },
          "/span": {
+          "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+          "fontSize": 13,
           "color": "#0000eeff",
           "cursor": "pointer",
           "box": [
-           8,
-           1876.65625,
-           161.734375,
-           17
+           0,
+           592,
+           769,
+           677.78125
           ],
+          "/text()[1]": {
+           "whiteSpace": true,
+           "box": [
+            0,
+            168.40625,
+            0,
+            0
+           ]
+          },
           "/span": {
            "id": "searchResults",
+           "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+           "fontSize": 13,
            "color": "#0000eeff",
            "cursor": "pointer",
            "box": [
-            8,
-            1876.65625,
-            20,
-            17
+            765,
+            592,
+            4,
+            15
            ],
-           "/img": {
-            "id": "imgArrow",
-            "color": "#0000eeff",
-            "cursor": "pointer",
-            "box": [
-             8,
-             1874.65625,
-             16,
-             16
-            ]
-           },
            "/text()[1]": {
             "whiteSpace": true,
             "box": [
-             8,
-             1874.65625,
+             0,
+             168.40625,
              0,
              0
+            ]
+           },
+           "/img": {
+            "id": "imgArrow",
+            "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+            "fontSize": 13,
+            "color": "#0000eeff",
+            "cursor": "pointer",
+            "box": [
+             765,
+             596,
+             4,
+             8
             ]
            },
            "/text()[2]": {
             "whiteSpace": true,
             "box": [
-             24,
-             1876.65625,
-             4,
-             17
+             0,
+             168.40625,
+             0,
+             0
             ]
            }
           },
-          "/text()[1]": {
-           "whiteSpace": true,
-           "box": [
-            8,
-            1874.65625,
-            0,
-            0
-           ]
-          },
           "/text()[2]": {
            "box": [
-            28,
-            1876.65625,
-            141.734375,
-            17
+            0,
+            1254.78125,
+            129,
+            15
            ]
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true,
-          "box": [
-           8,
-           1874.65625,
-           0,
-           0
-          ]
          },
          "/text()[2]": {
           "whiteSpace": true,
           "box": [
-           8,
-           1874.65625,
+           0,
+           168.40625,
            0,
            0
           ]
          }
         },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
         "/text()[2]": {
          "whiteSpace": true,
          "box": [
-          8,
-          1874.65625,
+          0,
+          168.40625,
           0,
           0
          ]
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true
@@ -3048,10 +3576,12 @@
       },
       "/div[3]": {
        "id": "apply_footer_rcap",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1894.65625,
-        784,
+        0,
+        1269.78125,
+        800,
         0
        ]
       },
@@ -3064,63 +3594,71 @@
      },
      "/div[3]": {
       "id": "ctl00_monsterApplyButton",
+      "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+      "fontSize": 13,
       "box": [
-       8,
-       1894.65625,
-       784,
-       18
+       0,
+       1269.78125,
+       800,
+       15
       ],
       "/text()[1]": {
        "whiteSpace": true
       },
-      "/text()[2]": {
-       "whiteSpace": true
-      },
       "/div[1]": {
        "id": "apply_button_lcap",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1894.65625,
-        784,
+        0,
+        1269.78125,
+        800,
         0
        ]
       },
+      "/text()[2]": {
+       "whiteSpace": true
+      },
       "/div[2]": {
        "id": "apply_button_bg",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1894.65625,
-        784,
-        18
+        0,
+        1269.78125,
+        800,
+        15
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/a": {
         "id": "ctl00_hlApplyLink",
+        "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+        "fontSize": 13,
         "textDecoration": "underline solid rgb(0, 0, 238)",
         "color": "#0000eeff",
         "cursor": "pointer",
         "box": [
-         8,
-         1894.65625,
-         49.078125,
-         17
+         0,
+         1269.78125,
+         40.953125,
+         15
         ],
         "/text()": {
          "box": [
-          7,
-          1894.65625,
-          52,
-          17
+          0,
+          1269.78125,
+          42,
+          15
          ]
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true,
         "box": [
-         8,
-         1894.65625,
+         0,
+         1269.78125,
          0,
          0
         ]
@@ -3131,10 +3669,12 @@
       },
       "/div[3]": {
        "id": "apply_button_rcap",
+       "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+       "fontSize": 13,
        "box": [
-        8,
-        1912.65625,
-        784,
+        0,
+        1284.78125,
+        800,
         0
        ]
       },
@@ -3146,9 +3686,6 @@
       "whiteSpace": true
      }
     },
-    "/text()[1]": {
-     "whiteSpace": true
-    },
     "/text()[2]": {
      "whiteSpace": true
     }
@@ -3157,6 +3694,8 @@
     "whiteSpace": true
    },
    "/script[6]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[12]": {
@@ -3166,13 +3705,20 @@
     "whiteSpace": true
    },
    "/script[7]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
-   "/script[8]": {},
+   "/script[8]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13
+   },
    "/img": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "box": [
-     8,
-     1912.65625,
+     0,
+     1284.78125,
      1,
      1
     ]
@@ -3180,23 +3726,30 @@
    "/text()[14]": {
     "whiteSpace": true,
     "box": [
-     8,
-     1912.65625,
+     0,
+     1284.78125,
      0,
      0
     ]
    },
    "/script[9]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[15]": {
     "whiteSpace": true
    },
-   "/script[10]": {},
+   "/script[10]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13
+   },
    "/text()[16]": {
     "whiteSpace": true
    },
    "/script[11]": {
+    "fontFamily": "Verdana, Arial, Helvetica, sans-serif",
+    "fontSize": 13,
     "/text()": {}
    },
    "/text()[17]": {

@@ -11,6 +11,7 @@
    "/text()[1]": {
     "whiteSpace": true
    },
+   "/meta[1]": {},
    "/text()[2]": {
     "whiteSpace": true
    },
@@ -20,7 +21,6 @@
    "/text()[3]": {
     "whiteSpace": true
    },
-   "/meta[1]": {},
    "/meta[2]": {},
    "/text()[4]": {
     "whiteSpace": true
@@ -43,10 +43,10 @@
    "/text()[8]": {
     "whiteSpace": true
    },
+   "/script[1]": {},
    "/text()[9]": {
     "whiteSpace": true
    },
-   "/script[1]": {},
    "/script[2]": {},
    "/text()[10]": {
     "whiteSpace": true
@@ -115,15 +115,6 @@
    "/text()[2]": {
     "whiteSpace": true
    },
-   "/text()[3]": {
-    "whiteSpace": true
-   },
-   "/text()[4]": {
-    "whiteSpace": true
-   },
-   "/text()[5]": {
-    "whiteSpace": true
-   },
    "/div[1]": {
     "id": "page_margins",
     "box": [
@@ -133,9 +124,6 @@
      1502.875
     ],
     "/text()[1]": {
-     "whiteSpace": true
-    },
-    "/text()[2]": {
      "whiteSpace": true
     },
     "/div[1]": {
@@ -168,35 +156,35 @@
        "box": [
         8,
         8,
-        393.1875,
-        84
+        388.171875,
+        81
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/tbody": {
         "box": [
          8,
          8,
-         393.1875,
-         84
+         388.171875,
+         81
         ],
         "/tr[1]": {
          "box": [
           8,
           8,
-          393.1875,
-          51
+          388.171875,
+          48
          ],
          "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
           "whiteSpace": true
          },
          "/td[1]": {
           "box": [
            8,
            8,
-           122.671875,
-           84
+           130.65625,
+           81
           ],
           "/h1": {
            "fontFamily": "Tahoma, Geneva, sans-serif",
@@ -205,61 +193,64 @@
            "box": [
             8,
             8,
-            122.671875,
-            51
+            130.65625,
+            48
            ],
            "/text()": {
             "box": [
              8,
              8,
-             124,
-             51
+             130.65625,
+             47
             ]
            }
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
          "/td[2]": {
           "box": [
-           130.671875,
+           138.65625,
            8,
-           270.515625,
-           51
+           257.515625,
+           48
           ],
           "/span": {
            "fontFamily": "Tahoma, Geneva, sans-serif",
            "fontSize": 42,
            "color": "#313131ff",
            "box": [
-            133.671875,
+            141.65625,
             8,
-            116.8125,
-            51
+            114.390625,
+            47
            ],
            "/span": {
             "fontFamily": "Tahoma, Geneva, sans-serif",
             "fontSize": 42,
             "color": "#111111ff",
             "box": [
-             133.671875,
+             141.65625,
              8,
-             40.203125,
-             51
+             37.328125,
+             47
             ],
             "/text()": {
              "box": [
-              133.671875,
+              141.65625,
               8,
-              41,
-              51
+              37.328125,
+              47
              ]
             }
            },
            "/text()": {
             "box": [
-             170.875,
+             176.984375,
              8,
              80,
-             51
+             47
             ]
            }
           }
@@ -268,18 +259,24 @@
           "whiteSpace": true
          }
         },
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/tr[2]": {
          "box": [
           8,
-          59,
-          393.1875,
+          56,
+          388.171875,
           33
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/td": {
           "box": [
-           130.671875,
-           59,
-           270.515625,
+           138.65625,
+           56,
+           257.515625,
            33
           ],
           "/p": {
@@ -287,49 +284,34 @@
            "fontSize": 19,
            "color": "#959595ff",
            "box": [
-            130.671875,
-            59,
-            270.515625,
+            138.65625,
+            56,
+            257.515625,
             33
            ],
            "/text()": {
             "box": [
-             130.671875,
-             59,
-             270.515625,
-             22
+             138.65625,
+             56,
+             257.515625,
+             21
             ]
            }
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
          }
         },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
         "/text()[2]": {
          "whiteSpace": true
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true
        }
       },
       "/text()[3]": {
-       "whiteSpace": true
-      },
-      "/text()[4]": {
-       "whiteSpace": true
-      },
-      "/text()[5]": {
        "whiteSpace": true
       },
       "/div[1]": {
@@ -339,6 +321,9 @@
         784,
         55
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/div": {
         "textAlign": "right",
         "box": [
@@ -347,23 +332,15 @@
          784,
          55
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/script": {
          "textAlign": "right",
          "/text()": {}
         },
-        "/text()[1]": {
-         "whiteSpace": true
-        },
         "/text()[2]": {
          "whiteSpace": true
-        },
-        "/text()[3]": {
-         "box": [
-          467.40625,
-          8,
-          8,
-          18
-         ]
         },
         "/a[1]": {
          "textAlign": "right",
@@ -380,10 +357,18 @@
           "box": [
            420.734375,
            8,
-           48,
-           17
+           47,
+           18
           ]
          }
+        },
+        "/text()[3]": {
+         "box": [
+          467.40625,
+          8,
+          8,
+          18
+         ]
         },
         "/a[2]": {
          "textAlign": "right",
@@ -429,7 +414,7 @@
            580.890625,
            8,
            52,
-           17
+           18
           ]
          }
         },
@@ -454,9 +439,9 @@
          ],
          "/text()": {
           "box": [
-           637.765625,
+           638.765625,
            8,
-           34,
+           32,
            17
           ]
          }
@@ -482,9 +467,9 @@
          ],
          "/text()": {
           "box": [
-           674.921875,
+           675.921875,
            8,
-           115,
+           112.875,
            17
           ]
          }
@@ -510,9 +495,9 @@
          ],
          "/text()": {
           "box": [
-           546.4375,
+           547.4375,
            26,
-           99,
+           96.875,
            17
           ]
          }
@@ -538,9 +523,9 @@
          ],
          "/text()": {
           "box": [
-           650.515625,
+           651.515625,
            26,
-           75,
+           72.375,
            17
           ]
          }
@@ -566,9 +551,9 @@
          ],
          "/text()": {
           "box": [
-           729.21875,
+           730.21875,
            26,
-           64,
+           61.78125,
            17
           ]
          }
@@ -593,7 +578,7 @@
          "/img": {
           "textAlign": "right",
           "box": [
-           698,
+           709,
            46,
            17,
            12
@@ -602,22 +587,22 @@
          "/form": {
           "textAlign": "right",
           "box": [
-           715,
+           726,
            44,
-           77,
+           66,
            17
           ],
           "/select": {
            "id": "lang",
            "fontFamily": "Arial",
            "fontSize": 13,
-           "backgroundColor": "#ffffffff",
+           "backgroundColor": "#ddddddff",
            "border": "1px solid rgb(118, 118, 118)",
            "cursor": "default",
            "box": [
-            715,
+            726,
             44,
-            77,
+            66,
             19
            ],
            "/option": {
@@ -633,15 +618,21 @@
          "whiteSpace": true
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true
        }
       },
+      "/text()[4]": {
+       "whiteSpace": true
+      },
+      "/text()[5]": {
+       "whiteSpace": true
+      },
       "/div[2]": {
        "id": "popup",
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/table": {
         "/text()": {
          "whiteSpace": true
@@ -652,6 +643,9 @@
           "/td[2]": {},
           "/td[3]": {}
          },
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/tr[2]": {
           "/td[1]": {},
           "/td[2]": {
@@ -661,9 +655,6 @@
            "/form": {
             "id": "signin_form",
             "/text()[1]": {
-             "whiteSpace": true
-            },
-            "/text()[2]": {
              "whiteSpace": true
             },
             "/div[1]": {
@@ -684,11 +675,11 @@
               }
              }
             },
+            "/text()[2]": {
+             "whiteSpace": true
+            },
             "/div[2]": {
              "/text()[1]": {
-              "whiteSpace": true
-             },
-             "/text()[2]": {
               "whiteSpace": true
              },
              "/input[1]": {
@@ -696,6 +687,9 @@
               "fontFamily": "Arial",
               "fontSize": 13,
               "cursor": "default"
+             },
+             "/text()[2]": {
+              "whiteSpace": true
              },
              "/input[2]": {
               "fontFamily": "Arial",
@@ -705,26 +699,43 @@
              "/text()[3]": {
               "whiteSpace": true
              },
+             "/div[1]": {
+              "/text()[1]": {
+               "whiteSpace": true
+              },
+              "/span": {
+               "/text()": {},
+               "/a": {
+                "textDecoration": "underline solid rgb(0, 0, 238)",
+                "color": "#0000eeff",
+                "cursor": "pointer",
+                "/text()": {}
+               }
+              },
+              "/text()[2]": {
+               "whiteSpace": true
+              }
+             },
              "/text()[4]": {
               "whiteSpace": true
              },
-             "/text()[5]": {
-              "whiteSpace": true
-             },
              "/dl[1]": {
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/dt": {
                "/label": {
                 "cursor": "default",
                 "/text()": {}
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               },
               "/dd": {
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/input": {
                 "id": "input_4cff2086e89ee",
                 "fontFamily": "Arial",
@@ -732,9 +743,6 @@
                 "backgroundColor": "#ffffffff",
                 "border": "2px inset rgb(118, 118, 118)",
                 "cursor": "text"
-               },
-               "/text()[1]": {
-                "whiteSpace": true
                },
                "/text()[2]": {
                 "whiteSpace": true
@@ -747,21 +755,21 @@
                 "/text()[1]": {
                  "whiteSpace": true
                 },
+                "/div[1]": {},
                 "/text()[2]": {
                  "whiteSpace": true
                 },
-                "/div[1]": {},
                 "/div[2]": {
                  "/text()[1]": {
-                  "whiteSpace": true
-                 },
-                 "/text()[2]": {
                   "whiteSpace": true
                  },
                  "/div[1]": {
                   "/text()": {
                    "whiteSpace": true
                   }
+                 },
+                 "/text()[2]": {
+                  "whiteSpace": true
                  },
                  "/div[2]": {
                   "/p": {
@@ -795,20 +803,26 @@
                "whiteSpace": true
               }
              },
+             "/text()[5]": {
+              "whiteSpace": true
+             },
              "/dl[2]": {
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/dt": {
                "/label": {
                 "cursor": "default",
                 "/text()": {}
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               },
               "/dd": {
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/input": {
                 "id": "input_4cff2086e8dd8",
                 "fontFamily": "Arial",
@@ -816,9 +830,6 @@
                 "backgroundColor": "#ffffffff",
                 "border": "2px inset rgb(118, 118, 118)",
                 "cursor": "text"
-               },
-               "/text()[1]": {
-                "whiteSpace": true
                },
                "/text()[2]": {
                 "whiteSpace": true
@@ -831,21 +842,21 @@
                 "/text()[1]": {
                  "whiteSpace": true
                 },
+                "/div[1]": {},
                 "/text()[2]": {
                  "whiteSpace": true
                 },
-                "/div[1]": {},
                 "/div[2]": {
                  "/text()[1]": {
-                  "whiteSpace": true
-                 },
-                 "/text()[2]": {
                   "whiteSpace": true
                  },
                  "/div[1]": {
                   "/text()": {
                    "whiteSpace": true
                   }
+                 },
+                 "/text()[2]": {
+                  "whiteSpace": true
                  },
                  "/div[2]": {
                   "/p": {
@@ -882,23 +893,6 @@
              "/text()[6]": {
               "whiteSpace": true
              },
-             "/div[1]": {
-              "/span": {
-               "/text()": {},
-               "/a": {
-                "textDecoration": "underline solid rgb(0, 0, 238)",
-                "color": "#0000eeff",
-                "cursor": "pointer",
-                "/text()": {}
-               }
-              },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
-              "/text()[2]": {
-               "whiteSpace": true
-              }
-             },
              "/div[2]": {
               "id": "login_error",
               "/text()": {
@@ -912,14 +906,14 @@
               "/text()[1]": {
                "whiteSpace": true
               },
-              "/text()[2]": {
-               "whiteSpace": true
-              },
               "/a[1]": {
                "textDecoration": "underline solid rgb(0, 0, 238)",
                "color": "#0000eeff",
                "cursor": "pointer",
                "/text()": {}
+              },
+              "/text()[2]": {
+               "whiteSpace": true
               },
               "/a[2]": {
                "/input": {
@@ -943,9 +937,6 @@
           },
           "/td[3]": {}
          },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
          "/text()[2]": {
           "whiteSpace": true
          },
@@ -958,9 +949,6 @@
           "whiteSpace": true
          }
         }
-       },
-       "/text()[1]": {
-        "whiteSpace": true
        },
        "/text()[2]": {
         "whiteSpace": true
@@ -1024,6 +1012,9 @@
          784,
          142
         ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
         "/div[1]": {
          "box": [
           8,
@@ -1072,7 +1063,7 @@
              "box": [
               48,
               97,
-              90,
+              88.578125,
               17
              ]
             }
@@ -1109,10 +1100,10 @@
             ],
             "/text()": {
              "box": [
-              47,
+              48,
               115,
-              112,
-              17
+              110,
+              18
              ]
             }
            }
@@ -1148,10 +1139,10 @@
             ],
             "/text()": {
              "box": [
-              47,
+              48,
               133,
-              100,
-              17
+              98,
+              18
              ]
             }
            }
@@ -1187,9 +1178,9 @@
             ],
             "/text()": {
              "box": [
-              47,
+              48,
               151,
-              86,
+              83.125,
               17
              ]
             }
@@ -1265,10 +1256,10 @@
             ],
             "/text()": {
              "box": [
-              47,
+              48,
               187,
-              102,
-              17
+              100,
+              18
              ]
             }
            }
@@ -1294,16 +1285,13 @@
           ],
           "/text()": {
            "box": [
-            7,
+            8,
             221,
-            116,
-            17
+            113,
+            18
            ]
           }
          }
-        },
-        "/text()[1]": {
-         "whiteSpace": true
         },
         "/text()[2]": {
          "whiteSpace": true
@@ -1332,6 +1320,9 @@
       "whiteSpace": true
      }
     },
+    "/text()[2]": {
+     "whiteSpace": true
+    },
     "/div[2]": {
      "box": [
       8,
@@ -1350,6 +1341,9 @@
       784,
       1232.4375
      ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
      "/h1": {
       "fontSize": 32,
       "fontWeight": "700",
@@ -1368,16 +1362,7 @@
        ]
       }
      },
-     "/text()[1]": {
-      "whiteSpace": true
-     },
      "/text()[2]": {
-      "whiteSpace": true
-     },
-     "/text()[3]": {
-      "whiteSpace": true
-     },
-     "/text()[4]": {
       "whiteSpace": true
      },
      "/div[1]": {
@@ -1388,6 +1373,12 @@
        0
       ]
      },
+     "/text()[3]": {
+      "whiteSpace": true
+     },
+     "/text()[4]": {
+      "whiteSpace": true
+     },
      "/div[2]": {
       "box": [
        8,
@@ -1395,6 +1386,9 @@
        784,
        324
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/div": {
        "id": "l_block_desc",
        "box": [
@@ -1406,9 +1400,6 @@
        "/text()[1]": {
         "whiteSpace": true
        },
-       "/text()[2]": {
-        "whiteSpace": true
-       },
        "/div[1]": {
         "box": [
          8,
@@ -1416,9 +1407,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1430,10 +1418,13 @@
           "box": [
            8,
            318.875,
-           113.53125,
-           17
+           114,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1446,11 +1437,14 @@
           "box": [
            8,
            336.875,
-           118,
+           117.328125,
            17
           ]
          }
         }
+       },
+       "/text()[2]": {
+        "whiteSpace": true
        },
        "/div[2]": {
         "box": [
@@ -1459,9 +1453,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1473,10 +1464,13 @@
           "box": [
            8,
            354.875,
-           86,
-           17
+           85,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1487,9 +1481,9 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            372.875,
-           129,
+           127.484375,
            17
           ]
          }
@@ -1505,9 +1499,6 @@
          784,
          54
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1517,12 +1508,15 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            390.875,
-           59,
+           56.875,
            17
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1532,18 +1526,6 @@
           36
          ],
          "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
-          "whiteSpace": true
-         },
-         "/script": {
-          "/text()": {}
-         },
-         "/text()[3]": {
-          "whiteSpace": true
-         },
-         "/text()[4]": {
           "whiteSpace": true
          },
          "/div[1]": {
@@ -1569,6 +1551,9 @@
             ]
            }
           },
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/div[2]": {
            "box": [
             8,
@@ -1588,23 +1573,35 @@
             ],
             "/text()": {
              "box": [
-              7,
+              8,
               426.875,
-              56,
-              17
+              54,
+              18
              ]
             }
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
           }
          },
+         "/text()[2]": {
+          "whiteSpace": true
+         },
+         "/script": {
+          "/text()": {}
+         },
+         "/text()[3]": {
+          "whiteSpace": true
+         },
+         "/text()[4]": {
+          "whiteSpace": true
+         },
          "/div[2]": {
           "id": "t_popup",
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/div": {
            "/text()[1]": {
             "whiteSpace": true
@@ -1612,26 +1609,23 @@
            "/text()[2]": {
             "whiteSpace": true
            },
-           "/text()[3]": {
-            "whiteSpace": true
-           },
            "/div[1]": {
             "/text()[1]": {
-             "whiteSpace": true
-            },
-            "/text()[2]": {
              "whiteSpace": true
             },
             "/div[1]": {
              "/div": {}
             },
+            "/text()[2]": {
+             "whiteSpace": true
+            },
             "/div[2]": {
              "/div": {
+              "/text()[1]": {
+               "whiteSpace": true
+              },
               "/div": {
                "/text()[1]": {
-                "whiteSpace": true
-               },
-               "/text()[2]": {
                 "whiteSpace": true
                },
                "/div[1]": {
@@ -1648,6 +1642,9 @@
                   }
                  }
                 }
+               },
+               "/text()[2]": {
+                "whiteSpace": true
                },
                "/div[2]": {
                 "id": "map_canvas1",
@@ -1673,9 +1670,6 @@
                 "whiteSpace": true
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               }
@@ -1694,13 +1688,13 @@
              "whiteSpace": true
             }
            },
+           "/text()[3]": {
+            "whiteSpace": true
+           },
            "/div[2]": {},
            "/text()[4]": {
             "whiteSpace": true
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -1735,9 +1729,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1747,12 +1738,15 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            444.875,
-           89,
-           17
+           88,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1765,8 +1759,8 @@
           "box": [
            8,
            462.875,
-           157,
-           17
+           156,
+           18
           ]
          }
         }
@@ -1781,9 +1775,6 @@
          784,
          18
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1795,10 +1786,13 @@
           "box": [
            8,
            480.875,
-           85.75,
-           17
+           86,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1819,9 +1813,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1831,12 +1822,15 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            498.875,
-           136,
-           17
+           135,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1849,8 +1843,8 @@
           "box": [
            8,
            516.875,
-           45.765625,
-           17
+           46,
+           18
           ]
          }
         }
@@ -1865,9 +1859,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1877,12 +1868,15 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            534.875,
-           170,
-           17
+           169,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1911,9 +1905,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1923,12 +1914,15 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            570.875,
-           126,
-           17
+           125,
+           18
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1939,9 +1933,9 @@
          ],
          "/text()": {
           "box": [
-           7,
+           8,
            588.875,
-           66,
+           64.328125,
            17
           ]
          }
@@ -1957,9 +1951,6 @@
          784,
          36
         ],
-        "/text()": {
-         "whiteSpace": true
-        },
         "/div[1]": {
          "box": [
           8,
@@ -1975,6 +1966,9 @@
            17
           ]
          }
+        },
+        "/text()": {
+         "whiteSpace": true
         },
         "/div[2]": {
          "box": [
@@ -1997,9 +1991,6 @@
         "whiteSpace": true
        }
       },
-      "/text()[1]": {
-       "whiteSpace": true
-      },
       "/text()[2]": {
        "whiteSpace": true
       }
@@ -2020,11 +2011,11 @@
       "/text()[2]": {
        "whiteSpace": true
       },
-      "/text()[3]": {
-       "whiteSpace": true
-      },
       "/script[1]": {
        "/text()": {}
+      },
+      "/text()[3]": {
+       "whiteSpace": true
       },
       "/script[2]": {
        "/text()": {
@@ -2048,6 +2039,78 @@
       "/text()[6]": {
        "whiteSpace": true
       },
+      "/div[1]": {
+       "box": [
+        8,
+        642.875,
+        784,
+        18
+       ],
+       "/text()[1]": {
+        "box": [
+         8,
+         642.875,
+         137,
+         18
+        ]
+       },
+       "/a": {
+        "textDecoration": "underline solid rgb(0, 0, 238)",
+        "color": "#0000eeff",
+        "cursor": "pointer",
+        "box": [
+         144.015625,
+         642.875,
+         99.984375,
+         17
+        ],
+        "/text()[1]": {
+         "whiteSpace": true,
+         "box": [
+          8,
+          642.875,
+          0,
+          0
+         ]
+        },
+        "/span": {
+         "color": "#0000eeff",
+         "cursor": "pointer",
+         "box": [
+          144.015625,
+          642.875,
+          99.984375,
+          17
+         ],
+         "/text()": {
+          "box": [
+           144.015625,
+           642.875,
+           100,
+           18
+          ]
+         }
+        },
+        "/text()[2]": {
+         "whiteSpace": true,
+         "box": [
+          8,
+          642.875,
+          0,
+          0
+         ]
+        }
+       },
+       "/text()[2]": {
+        "whiteSpace": true,
+        "box": [
+         8,
+         642.875,
+         0,
+         0
+        ]
+       }
+      },
       "/text()[7]": {
        "whiteSpace": true
       },
@@ -2064,87 +2127,15 @@
        ],
        "/text()": {
         "box": [
-         7,
+         8,
          676.875,
-         714,
+         712,
          35
         ]
        }
       },
       "/text()[9]": {
        "whiteSpace": true
-      },
-      "/div[1]": {
-       "box": [
-        8,
-        642.875,
-        784,
-        18
-       ],
-       "/a": {
-        "textDecoration": "underline solid rgb(0, 0, 238)",
-        "color": "#0000eeff",
-        "cursor": "pointer",
-        "box": [
-         144.015625,
-         642.875,
-         99.984375,
-         17
-        ],
-        "/span": {
-         "color": "#0000eeff",
-         "cursor": "pointer",
-         "box": [
-          144.015625,
-          642.875,
-          99.984375,
-          17
-         ],
-         "/text()": {
-          "box": [
-           143.015625,
-           642.875,
-           102,
-           17
-          ]
-         }
-        },
-        "/text()[1]": {
-         "whiteSpace": true,
-         "box": [
-          8,
-          642.875,
-          0,
-          0
-         ]
-        },
-        "/text()[2]": {
-         "whiteSpace": true,
-         "box": [
-          8,
-          642.875,
-          0,
-          0
-         ]
-        }
-       },
-       "/text()[1]": {
-        "box": [
-         8,
-         642.875,
-         136.015625,
-         17
-        ]
-       },
-       "/text()[2]": {
-        "whiteSpace": true,
-        "box": [
-         8,
-         642.875,
-         0,
-         0
-        ]
-       }
       },
       "/div[2]": {
        "id": "registr_form",
@@ -2179,8 +2170,8 @@
            "box": [
             8,
             728.875,
-            102,
-            17
+            101,
+            18
            ]
           }
          }
@@ -2198,219 +2189,14 @@
         784,
         712
        ],
-       "/style": {
-        "/text()": {}
-       },
        "/text()[1]": {
         "whiteSpace": true
        },
+       "/style": {
+        "/text()": {}
+       },
        "/text()[2]": {
         "whiteSpace": true
-       },
-       "/ul": {
-        "box": [
-         8,
-         1226.875,
-         784,
-         180
-        ],
-        "/text()[1]": {
-         "whiteSpace": true
-        },
-        "/text()[2]": {
-         "whiteSpace": true
-        },
-        "/li[1]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1226.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           68,
-           1226.875,
-           665.171875,
-           17
-          ]
-         }
-        },
-        "/li[2]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1244.875,
-          724,
-          36
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1244.875,
-           708,
-           35
-          ]
-         }
-        },
-        "/text()[3]": {
-         "whiteSpace": true
-        },
-        "/li[3]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1280.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1280.875,
-           582,
-           17
-          ]
-         }
-        },
-        "/text()[4]": {
-         "whiteSpace": true
-        },
-        "/li[4]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1298.875,
-          724,
-          36
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1298.875,
-           699,
-           35
-          ]
-         }
-        },
-        "/text()[5]": {
-         "whiteSpace": true
-        },
-        "/li[5]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1334.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1334.875,
-           649,
-           17
-          ]
-         }
-        },
-        "/text()[6]": {
-         "whiteSpace": true
-        },
-        "/li[6]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1352.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1352.875,
-           374,
-           17
-          ]
-         }
-        },
-        "/text()[7]": {
-         "whiteSpace": true
-        },
-        "/li[7]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1370.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           68,
-           1370.875,
-           393.6875,
-           17
-          ]
-         }
-        },
-        "/text()[8]": {
-         "whiteSpace": true
-        },
-        "/li[8]": {
-         "textAlign": "left",
-         "box": [
-          68,
-          1388.875,
-          724,
-          18
-         ],
-         "/text()": {
-          "box": [
-           67,
-           1388.875,
-           485,
-           17
-          ]
-         }
-        },
-        "/text()[9]": {
-         "whiteSpace": true
-        }
-       },
-       "/text()[3]": {
-        "whiteSpace": true,
-        "box": [
-         8,
-         1422.875,
-         4,
-         17
-        ]
-       },
-       "/text()[4]": {
-        "whiteSpace": true,
-        "box": [
-         8,
-         1440.875,
-         4,
-         17
-        ]
-       },
-       "/br[1]": {
-        "box": [
-         8,
-         1422.875,
-         0,
-         0
-        ]
-       },
-       "/br[2]": {
-        "box": [
-         8,
-         1422.875,
-         0,
-         0
-        ]
        },
        "/p[1]": {
         "box": [
@@ -2421,10 +2207,18 @@
         ],
         "/text()[1]": {
          "box": [
-          7,
+          8,
           778.875,
-          777,
-          143
+          776,
+          144
+         ]
+        },
+        "/br[1]": {
+         "box": [
+          8,
+          778.875,
+          0,
+          0
          ]
         },
         "/text()[2]": {
@@ -2434,14 +2228,6 @@
           922.875,
           4,
           17
-         ]
-        },
-        "/br[1]": {
-         "box": [
-          8,
-          778.875,
-          0,
-          0
          ]
         },
         "/br[2]": {
@@ -2454,10 +2240,10 @@
         },
         "/text()[3]": {
          "box": [
-          7,
+          8,
           940.875,
-          784,
-          161
+          783,
+          162
          ]
         },
         "/br[3]": {
@@ -2489,8 +2275,8 @@
          "box": [
           8,
           1120.875,
-          363.03125,
-          17
+          364,
+          18
          ]
         },
         "/br[5]": {
@@ -2520,10 +2306,10 @@
         },
         "/text()[7]": {
          "box": [
-          7,
+          8,
           1156.875,
-          755,
-          35
+          754,
+          36
          ]
         },
         "/br[7]": {
@@ -2554,6 +2340,211 @@
         "/text()[9]": {
          "whiteSpace": true
         }
+       },
+       "/ul": {
+        "box": [
+         8,
+         1226.875,
+         784,
+         180
+        ],
+        "/text()[1]": {
+         "whiteSpace": true
+        },
+        "/li[1]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1226.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1226.875,
+           666,
+           18
+          ]
+         }
+        },
+        "/text()[2]": {
+         "whiteSpace": true
+        },
+        "/li[2]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1244.875,
+          724,
+          36
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1244.875,
+           707,
+           36
+          ]
+         }
+        },
+        "/text()[3]": {
+         "whiteSpace": true
+        },
+        "/li[3]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1280.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1280.875,
+           581,
+           18
+          ]
+         }
+        },
+        "/text()[4]": {
+         "whiteSpace": true
+        },
+        "/li[4]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1298.875,
+          724,
+          36
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1298.875,
+           697,
+           36
+          ]
+         }
+        },
+        "/text()[5]": {
+         "whiteSpace": true
+        },
+        "/li[5]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1334.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1334.875,
+           648,
+           18
+          ]
+         }
+        },
+        "/text()[6]": {
+         "whiteSpace": true
+        },
+        "/li[6]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1352.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1352.875,
+           372,
+           18
+          ]
+         }
+        },
+        "/text()[7]": {
+         "whiteSpace": true
+        },
+        "/li[7]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1370.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1370.875,
+           394,
+           18
+          ]
+         }
+        },
+        "/text()[8]": {
+         "whiteSpace": true
+        },
+        "/li[8]": {
+         "textAlign": "left",
+         "box": [
+          68,
+          1388.875,
+          724,
+          18
+         ],
+         "/text()": {
+          "box": [
+           68,
+           1388.875,
+           483,
+           18
+          ]
+         }
+        },
+        "/text()[9]": {
+         "whiteSpace": true
+        }
+       },
+       "/text()[3]": {
+        "whiteSpace": true,
+        "box": [
+         8,
+         1422.875,
+         4,
+         17
+        ]
+       },
+       "/br[1]": {
+        "box": [
+         8,
+         1422.875,
+         0,
+         0
+        ]
+       },
+       "/text()[4]": {
+        "whiteSpace": true,
+        "box": [
+         8,
+         1440.875,
+         4,
+         17
+        ]
+       },
+       "/br[2]": {
+        "box": [
+         8,
+         1422.875,
+         0,
+         0
+        ]
        },
        "/p[2]": {
         "box": [
@@ -2599,6 +2590,9 @@
       784,
       18
      ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
      "/div": {
       "id": "banners",
       "box": [
@@ -2607,6 +2601,9 @@
        784,
        18
       ],
+      "/text()[1]": {
+       "whiteSpace": true
+      },
       "/a": {
        "textDecoration": "underline solid rgb(0, 0, 238)",
        "color": "#0000eeff",
@@ -2628,16 +2625,13 @@
         ],
         "/text()": {
          "box": [
-          7,
+          8,
           1492.875,
-          159,
+          156.484375,
           17
          ]
         }
        }
-      },
-      "/text()[1]": {
-       "whiteSpace": true
       },
       "/text()[2]": {
        "whiteSpace": true,
@@ -2649,17 +2643,14 @@
        ]
       }
      },
-     "/text()[1]": {
-      "whiteSpace": true
-     },
      "/text()[2]": {
-      "whiteSpace": true
-     },
-     "/text()[3]": {
       "whiteSpace": true
      },
      "/script[1]": {
       "/text()": {}
+     },
+     "/text()[3]": {
+      "whiteSpace": true
      },
      "/script[2]": {
       "/text()": {
@@ -2685,6 +2676,15 @@
      "whiteSpace": true
     }
    },
+   "/text()[3]": {
+    "whiteSpace": true
+   },
+   "/text()[4]": {
+    "whiteSpace": true
+   },
+   "/text()[5]": {
+    "whiteSpace": true
+   },
    "/div[2]": {
     "id": "page-empty",
     "box": [
@@ -2708,9 +2708,6 @@
     "/text()[1]": {
      "whiteSpace": true
     },
-    "/text()[2]": {
-     "whiteSpace": true
-    },
     "/p[1]": {
      "box": [
       8,
@@ -2720,12 +2717,15 @@
      ],
      "/text()": {
       "box": [
-       16,
+       17,
        1526.875,
-       766,
-       143
+       765,
+       144
       ]
      }
+    },
+    "/text()[2]": {
+     "whiteSpace": true
     },
     "/p[2]": {
      "box": [
@@ -2734,6 +2734,14 @@
       784,
       54
      ],
+     "/text()[1]": {
+      "box": [
+       8,
+       1691.875,
+       763,
+       36
+      ]
+     },
      "/br": {
       "box": [
        8,
@@ -2742,20 +2750,12 @@
        0
       ]
      },
-     "/text()[1]": {
-      "box": [
-       8,
-       1691.875,
-       762.484375,
-       35
-      ]
-     },
      "/text()[2]": {
       "box": [
        8,
        1727.875,
-       595.078125,
-       17
+       596,
+       18
       ]
      },
      "/a": {
@@ -2770,10 +2770,10 @@
       ],
       "/text()": {
        "box": [
-        601.078125,
+        602.078125,
         1727.875,
-        71,
-        17
+        68,
+        18
        ]
       }
      },
@@ -2781,8 +2781,8 @@
       "box": [
        668.390625,
        1727.875,
-       46.65625,
-       17
+       47,
+       18
       ]
      }
     },
@@ -2793,11 +2793,11 @@
    "/text()[7]": {
     "whiteSpace": true
    },
-   "/text()[8]": {
-    "whiteSpace": true
-   },
    "/script[1]": {
     "/text()": {}
+   },
+   "/text()[8]": {
+    "whiteSpace": true
    },
    "/script[2]": {
     "/text()": {}

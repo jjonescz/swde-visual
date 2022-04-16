@@ -6,7 +6,7 @@
    0,
    0,
    800,
-   1355
+   1371
   ],
   "/head": {
    "/title": {
@@ -32,10 +32,10 @@
     "/text()": {}
    },
    "/script[3]": {},
-   "/link[8]": {},
    "/text()[1]": {
     "whiteSpace": true
    },
+   "/link[8]": {},
    "/text()[2]": {
     "whiteSpace": true
    },
@@ -44,10 +44,6 @@
    },
    "/text()[3]": {
     "whiteSpace": true
-   },
-   "/link[9]": {},
-   "/link[10]": {
-    "id": "1639029888546"
    }
   },
   "/text()": {
@@ -61,24 +57,9 @@
     8,
     0,
     784,
-    1347
+    1363
    ],
-   "/iframe": {
-    "id": "EXpopupIframe",
-    "fontFamily": "Arial, Helvetica, sans-serif",
-    "fontSize": 12,
-    "zIndex": "10",
-    "box": [
-     -3000,
-     0,
-     300,
-     150
-    ]
-   },
    "/text()[1]": {
-    "whiteSpace": true
-   },
-   "/text()[2]": {
     "whiteSpace": true
    },
    "/div[1]": {
@@ -91,6 +72,9 @@
      784,
      1347
     ],
+    "/text()[1]": {
+     "whiteSpace": true
+    },
     "/div": {
      "id": "pnlInnerWrapper",
      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -101,6 +85,9 @@
       784,
       1347
      ],
+     "/text()[1]": {
+      "whiteSpace": true
+     },
      "/form": {
       "id": "aspnetForm",
       "fontFamily": "Arial, Helvetica, sans-serif",
@@ -114,15 +101,21 @@
       "/text()[1]": {
        "whiteSpace": true
       },
-      "/text()[2]": {
-       "whiteSpace": true
+      "/input[1]": {
+       "id": "__VIEWSTATE",
+       "fontFamily": "Arial",
+       "fontSize": 11,
+       "cursor": "default"
       },
-      "/text()[3]": {
+      "/text()[2]": {
        "whiteSpace": true
       },
       "/script[1]": {
        "fontFamily": "Arial, Helvetica, sans-serif",
        "fontSize": 12
+      },
+      "/text()[3]": {
+       "whiteSpace": true
       },
       "/script[2]": {
        "fontFamily": "Arial, Helvetica, sans-serif",
@@ -239,6 +232,9 @@
         784,
         1347
        ],
+       "/text()[1]": {
+        "whiteSpace": true
+       },
        "/div": {
         "id": "JobDetails_pnlSkinnedJDP",
         "fontFamily": "Arial, Helvetica, sans-serif",
@@ -289,6 +285,9 @@
             1002.953125,
             30
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/td": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 11,
@@ -340,6 +339,9 @@
                 1002.953125,
                 30
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/td": {
                 "fontFamily": "Arial, Helvetica, sans-serif",
                 "fontSize": 11,
@@ -353,9 +355,6 @@
                 "/text()[1]": {
                  "whiteSpace": true
                 },
-                "/text()[2]": {
-                 "whiteSpace": true
-                },
                 "/div[1]": {
                  "fontFamily": "Arial, Helvetica, sans-serif",
                  "fontSize": 11,
@@ -366,6 +365,9 @@
                   126,
                   30
                  ],
+                 "/text()[1]": {
+                  "whiteSpace": true
+                 },
                  "/a": {
                   "id": "JobDetails_ucJobDetailsSkin__JobSkinHeader_siteURL",
                   "fontFamily": "Arial, Helvetica, sans-serif",
@@ -394,9 +396,6 @@
                    ]
                   }
                  },
-                 "/text()[1]": {
-                  "whiteSpace": true
-                 },
                  "/text()[2]": {
                   "whiteSpace": true,
                   "box": [
@@ -406,6 +405,9 @@
                    0
                   ]
                  }
+                },
+                "/text()[2]": {
+                 "whiteSpace": true
                 },
                 "/div[2]": {
                  "fontFamily": "Arial, Helvetica, sans-serif",
@@ -417,6 +419,9 @@
                   589.15625,
                   28
                  ],
+                 "/text()[1]": {
+                  "whiteSpace": true
+                 },
                  "/ul": {
                   "fontFamily": "Arial, Helvetica, sans-serif",
                   "fontSize": 11,
@@ -430,9 +435,6 @@
                   "/text()[1]": {
                    "whiteSpace": true
                   },
-                  "/text()[2]": {
-                   "whiteSpace": true
-                  },
                   "/li[1]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
                    "fontSize": 11,
@@ -443,6 +445,9 @@
                     180.71875,
                     17
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/img": {
                     "id": "JobDetails_ucJobDetailsSkin__JobSkinHeader_imgFacebookSmall",
                     "fontFamily": "Arial, Helvetica, sans-serif",
@@ -478,9 +483,6 @@
                      ]
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true,
                     "box": [
@@ -490,6 +492,9 @@
                      0
                     ]
                    }
+                  },
+                  "/text()[2]": {
+                   "whiteSpace": true
                   },
                   "/li[2]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
@@ -549,6 +554,15 @@
                      42.6875,
                      12
                     ],
+                    "/text()[1]": {
+                     "whiteSpace": true,
+                     "box": [
+                      650.6875,
+                      11,
+                      0,
+                      0
+                     ]
+                    },
                     "/a": {
                      "id": "JobDetails_ucJobDetailsSkin__JobSkinHeader_headerEmailJob__ucEmailJobGlobal_cbhlEmailJob",
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -567,19 +581,10 @@
                       "box": [
                        650.6875,
                        11,
-                       44,
+                       42.6875,
                        14
                       ]
                      }
-                    },
-                    "/text()[1]": {
-                     "whiteSpace": true,
-                     "box": [
-                      650.6875,
-                      11,
-                      0,
-                      0
-                     ]
                     },
                     "/text()[2]": {
                      "whiteSpace": true,
@@ -590,6 +595,15 @@
                       0
                      ]
                     }
+                   },
+                   "/text()[1]": {
+                    "whiteSpace": true,
+                    "box": [
+                     650.6875,
+                     11,
+                     0,
+                     0
+                    ]
                    },
                    "/div": {
                     "id": "JobDetails_ucJobDetailsSkin__JobSkinHeader_headerEmailJob__ucEmailJobGlobal_emailPopupWrapper",
@@ -605,15 +619,6 @@
                     "/text()": {
                      "whiteSpace": true
                     }
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true,
-                    "box": [
-                     650.6875,
-                     11,
-                     0,
-                     0
-                    ]
                    },
                    "/text()[2]": {
                     "whiteSpace": true
@@ -643,6 +648,15 @@
                      38.703125,
                      12
                     ],
+                    "/text()[1]": {
+                     "whiteSpace": true,
+                     "box": [
+                      596.59375,
+                      11,
+                      0,
+                      0
+                     ]
+                    },
                     "/a": {
                      "id": "JobDetails_ucJobDetailsSkin__JobSkinHeader_headerSaveJob__ucSaveJobGlobal_cbhlSaveJob",
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -661,19 +675,10 @@
                       "box": [
                        596.59375,
                        11,
-                       40,
+                       38.703125,
                        14
                       ]
                      }
-                    },
-                    "/text()[1]": {
-                     "whiteSpace": true,
-                     "box": [
-                      596.59375,
-                      11,
-                      0,
-                      0
-                     ]
                     },
                     "/text()[2]": {
                      "whiteSpace": true,
@@ -694,14 +699,14 @@
                      0
                     ]
                    },
-                   "/text()[2]": {
-                    "whiteSpace": true
-                   },
                    "/input[1]": {
                     "id": "__LOCALIZEDSAVEDJOBTEXT",
                     "fontFamily": "Arial",
                     "fontSize": 11,
                     "cursor": "default"
+                   },
+                   "/text()[2]": {
+                    "whiteSpace": true
                    },
                    "/input[2]": {
                     "id": "__LOCALIZEDNOTESTEXT",
@@ -806,10 +811,8 @@
                      }
                     }
                    },
-                   "/br": {
-                    "fontFamily": "Arial, Helvetica, sans-serif",
-                    "fontSize": 11,
-                    "textAlign": "-webkit-left",
+                   "/text()[1]": {
+                    "whiteSpace": true,
                     "box": [
                      461.796875,
                      11,
@@ -817,8 +820,10 @@
                      0
                     ]
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true,
+                   "/br": {
+                    "fontFamily": "Arial, Helvetica, sans-serif",
+                    "fontSize": 11,
+                    "textAlign": "-webkit-left",
                     "box": [
                      461.796875,
                      11,
@@ -834,9 +839,6 @@
                    "whiteSpace": true
                   }
                  },
-                 "/text()[1]": {
-                  "whiteSpace": true
-                 },
                  "/text()[2]": {
                   "whiteSpace": true
                  }
@@ -844,9 +846,6 @@
                 "/text()[3]": {
                  "whiteSpace": true
                 }
-               },
-               "/text()[1]": {
-                "whiteSpace": true
                },
                "/text()[2]": {
                 "whiteSpace": true
@@ -863,14 +862,14 @@
             "/text()[4]": {
              "whiteSpace": true
             },
-            "/text()[5]": {
-             "whiteSpace": true
-            },
             "/script[1]": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 11,
              "textAlign": "left",
              "/text()": {}
+            },
+            "/text()[5]": {
+             "whiteSpace": true
             },
             "/script[2]": {
              "fontFamily": "Arial, Helvetica, sans-serif",
@@ -882,12 +881,12 @@
              "whiteSpace": true
             }
            },
-           "/text()[1]": {
-            "whiteSpace": true
-           },
            "/text()[2]": {
             "whiteSpace": true
            }
+          },
+          "/text()[1]": {
+           "whiteSpace": true
           },
           "/tr[2]": {
            "fontFamily": "Arial, Helvetica, sans-serif",
@@ -899,6 +898,9 @@
             1002.953125,
             1303
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/td": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 11,
@@ -909,6 +911,9 @@
              1002.953125,
              1303
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/table": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 11,
@@ -943,6 +948,9 @@
                 1002.953125,
                 52
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/td": {
                 "fontFamily": "Arial, Helvetica, sans-serif",
                 "fontSize": 11,
@@ -989,6 +997,9 @@
                     1002.953125,
                     20
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -1011,12 +1022,12 @@
                      ]
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
+                  },
+                  "/text()[1]": {
+                   "whiteSpace": true
                   },
                   "/tr[2]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1029,9 +1040,6 @@
                     32
                    ],
                    "/text()[1]": {
-                    "whiteSpace": true
-                   },
-                   "/text()[2]": {
                     "whiteSpace": true
                    },
                    "/td[1]": {
@@ -1068,6 +1076,9 @@
                      ]
                     }
                    },
+                   "/text()[2]": {
+                    "whiteSpace": true
+                   },
                    "/td[2]": {
                     "id": "botlinks",
                     "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1081,36 +1092,11 @@
                      879.640625,
                      32
                     ],
-                    "/span[1]": {
-                     "id": "_JobDetailsSkin_litSavedJob",
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 11,
-                     "textAlign": "-webkit-right",
-                     "/text()": {}
-                    },
-                    "/span[2]": {
-                     "id": "_JobDetailsSkin_litViewSaveNote",
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 10,
-                     "fontWeight": "700",
-                     "textAlign": "-webkit-right",
-                     "color": "#f66b0cff",
-                     "cursor": "pointer",
-                     "/text()": {}
-                    },
                     "/text()[1]": {
                      "box": [
                       847.640625,
                       59.5,
                       5.921875,
-                      12
-                     ]
-                    },
-                    "/text()[2]": {
-                     "box": [
-                      916.546875,
-                      59.5,
-                      8.984375,
                       12
                      ]
                     },
@@ -1130,10 +1116,35 @@
                       "box": [
                        853.5625,
                        59.5,
-                       64,
+                       62.984375,
                        12
                       ]
                      }
+                    },
+                    "/span[1]": {
+                     "id": "_JobDetailsSkin_litSavedJob",
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 11,
+                     "textAlign": "-webkit-right",
+                     "/text()": {}
+                    },
+                    "/span[2]": {
+                     "id": "_JobDetailsSkin_litViewSaveNote",
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 10,
+                     "fontWeight": "700",
+                     "textAlign": "-webkit-right",
+                     "color": "#f66b0cff",
+                     "cursor": "pointer",
+                     "/text()": {}
+                    },
+                    "/text()[2]": {
+                     "box": [
+                      916.546875,
+                      59.5,
+                      8.984375,
+                      12
+                     ]
                     },
                     "/a[2]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1150,7 +1161,7 @@
                       "box": [
                        925.53125,
                        59.5,
-                       67,
+                       65.421875,
                        12
                       ]
                      }
@@ -1160,21 +1171,18 @@
                     "whiteSpace": true
                    }
                   },
-                  "/text()[1]": {
-                   "whiteSpace": true
-                  },
                   "/text()[2]": {
                    "whiteSpace": true
                   }
                  }
                 }
                },
-               "/text()[1]": {
-                "whiteSpace": true
-               },
                "/text()[2]": {
                 "whiteSpace": true
                }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
               },
               "/tr[2]": {
                "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1189,9 +1197,6 @@
                "/text()[1]": {
                 "whiteSpace": true
                },
-               "/text()[2]": {
-                "whiteSpace": true
-               },
                "/td[1]": {
                 "fontFamily": "Arial, Helvetica, sans-serif",
                 "fontSize": 11,
@@ -1204,9 +1209,6 @@
                  1231
                 ],
                 "/text()[1]": {
-                 "whiteSpace": true
-                },
-                "/text()[2]": {
                  "whiteSpace": true
                 },
                 "/table[1]": {
@@ -1232,9 +1234,6 @@
                    250,
                    55
                   ],
-                  "/text()": {
-                   "whiteSpace": true
-                  },
                   "/tr[1]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
                    "fontSize": 11,
@@ -1245,6 +1244,9 @@
                     250,
                     20
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -1267,12 +1269,12 @@
                      ]
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
+                  },
+                  "/text()": {
+                   "whiteSpace": true
                   },
                   "/tr[2]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1284,6 +1286,9 @@
                     250,
                     35
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -1298,14 +1303,14 @@
                      "whiteSpace": true
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
                   }
                  }
+                },
+                "/text()[2]": {
+                 "whiteSpace": true
                 },
                 "/table[2]": {
                  "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1315,7 +1320,7 @@
                   28,
                   157,
                   250,
-                  645
+                  650
                  ],
                  "/text()": {
                   "whiteSpace": true
@@ -1328,7 +1333,7 @@
                    28,
                    157,
                    250,
-                   645
+                   650
                   ],
                   "/tr[1]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1340,6 +1345,9 @@
                     250,
                     27
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -1366,20 +1374,20 @@
                      ],
                      "/text()": {
                       "box": [
-                       27,
+                       28,
                        157,
-                       97,
+                       95.8125,
                        14
                       ]
                      }
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
+                  },
+                  "/text()[1]": {
+                   "whiteSpace": true
                   },
                   "/tr[2]": {
                    "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1389,8 +1397,11 @@
                     28,
                     184,
                     250,
-                    568
+                    573
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -1402,7 +1413,7 @@
                      28,
                      184,
                      250,
-                     568
+                     573
                     ],
                     "/table": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1415,7 +1426,7 @@
                       28,
                       184,
                       250,
-                      568
+                      573
                      ],
                      "/text()": {
                       "whiteSpace": true
@@ -1431,7 +1442,7 @@
                        28,
                        184,
                        250,
-                       568
+                       573
                       ],
                       "/tr[1]": {
                        "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1447,9 +1458,6 @@
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -1474,6 +1482,9 @@
                          ]
                         }
                        },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
                        "/td[2]": {
                         "id": "overviewlinks",
                         "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1489,9 +1500,9 @@
                         ],
                         "/text()": {
                          "box": [
-                          154,
+                          155,
                           187,
-                          60,
+                          59,
                           12
                          ]
                         }
@@ -1499,6 +1510,9 @@
                        "/text()[3]": {
                         "whiteSpace": true
                        }
+                      },
+                      "/text()[1]": {
+                       "whiteSpace": true
                       },
                       "/tr[2]": {
                        "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1514,9 +1528,6 @@
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -1541,6 +1552,9 @@
                          ]
                         }
                        },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
                        "/td[2]": {
                         "id": "overviewlinks",
                         "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1558,7 +1572,7 @@
                          "box": [
                           155,
                           206,
-                          103,
+                          102,
                           12
                          ]
                         }
@@ -1566,9 +1580,6 @@
                        "/text()[3]": {
                         "whiteSpace": true
                        }
-                      },
-                      "/text()[1]": {
-                       "whiteSpace": true
                       },
                       "/text()[2]": {
                        "whiteSpace": true
@@ -1587,9 +1598,6 @@
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -1613,6 +1621,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -1651,9 +1662,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -1675,6 +1683,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -1721,9 +1732,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -1746,6 +1754,9 @@
                          ]
                         }
                        },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
                        "/td[2]": {
                         "id": "overviewlinks",
                         "fontFamily": "Arial, Helvetica, sans-serif",
@@ -1761,17 +1772,9 @@
                         ],
                         "/text()[1]": {
                          "box": [
-                          154,
-                          263,
-                          102,
-                          12
-                         ]
-                        },
-                        "/text()[2]": {
-                         "box": [
                           155,
-                          278,
-                          108.203125,
+                          263,
+                          101,
                           12
                          ]
                         },
@@ -1786,6 +1789,14 @@
                           260,
                           0,
                           0
+                         ]
+                        },
+                        "/text()[2]": {
+                         "box": [
+                          155,
+                          278,
+                          108.203125,
+                          12
                          ]
                         },
                         "/br[2]": {
@@ -1833,9 +1844,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -1857,6 +1865,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -1903,9 +1914,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -1921,12 +1929,15 @@
                         ],
                         "/text()": {
                          "box": [
-                          98.859375,
+                          99.859375,
                           331,
-                          53,
+                          51.140625,
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -1949,14 +1960,6 @@
                           12
                          ]
                         },
-                        "/text()[2]": {
-                         "box": [
-                          155,
-                          346,
-                          115,
-                          12
-                         ]
-                        },
                         "/br[1]": {
                          "fontFamily": "Arial, Helvetica, sans-serif",
                          "fontSize": 11,
@@ -1968,6 +1971,14 @@
                           328,
                           0,
                           0
+                         ]
+                        },
+                        "/text()[2]": {
+                         "box": [
+                          155,
+                          346,
+                          115,
+                          12
                          ]
                         },
                         "/br[2]": {
@@ -1987,7 +1998,7 @@
                          "box": [
                           155,
                           361,
-                          56,
+                          55.03125,
                           12
                          ]
                         }
@@ -2015,9 +2026,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2039,6 +2047,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2085,9 +2096,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2109,6 +2117,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2155,9 +2166,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2179,6 +2187,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2225,9 +2236,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2249,6 +2257,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2295,9 +2306,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2319,6 +2327,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2360,12 +2371,9 @@
                         28,
                         472,
                         250,
-                        19
+                        24
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2379,7 +2387,7 @@
                          28,
                          472,
                          125,
-                         19
+                         24
                         ],
                         "/text()": {
                          "box": [
@@ -2389,6 +2397,9 @@
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2401,28 +2412,98 @@
                          153,
                          472,
                          125,
-                         19
+                         24
                         ],
-                        "/span": {
+                        "/a": {
+                         "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_cbhlMapJob",
                          "fontFamily": "Arial, Helvetica, sans-serif",
                          "fontSize": 11,
                          "textAlign": "left",
                          "color": "#003399ff",
+                         "cursor": "pointer",
                          "lineHeight": 15,
                          "box": [
                           155,
-                          475,
-                          96,
+                          480,
+                          116,
                           12
                          ],
-                         "/text()": {
+                         "/img": {
+                          "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_imgMapIt",
+                          "fontFamily": "Arial, Helvetica, sans-serif",
+                          "fontSize": 11,
+                          "textAlign": "left",
+                          "color": "#003399ff",
+                          "cursor": "pointer",
+                          "lineHeight": 15,
                           "box": [
                            155,
-                           475,
+                           474,
+                           20,
+                           18
+                          ]
+                         },
+                         "/text()": {
+                          "box": [
+                           175,
+                           480,
                            96,
                            12
                           ]
                          }
+                        },
+                        "/text()[1]": {
+                         "whiteSpace": true,
+                         "box": [
+                          153,
+                          472,
+                          0,
+                          0
+                         ]
+                        },
+                        "/iframe": {
+                         "id": "iframeForInlineMap",
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 11,
+                         "textAlign": "left",
+                         "color": "#003399ff",
+                         "lineHeight": 15
+                        },
+                        "/text()[2]": {
+                         "whiteSpace": true
+                        },
+                        "/div": {
+                         "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_pnlLoadingMap",
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 11,
+                         "fontWeight": "700",
+                         "textAlign": "center",
+                         "color": "#003399ff",
+                         "lineHeight": 15,
+                         "/text()[1]": {
+                          "whiteSpace": true
+                         },
+                         "/img": {
+                          "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobLocation0_imgLoadingMap",
+                          "fontFamily": "Arial, Helvetica, sans-serif",
+                          "fontSize": 11,
+                          "fontWeight": "700",
+                          "textAlign": "center",
+                          "color": "#003399ff",
+                          "lineHeight": 15
+                         },
+                         "/text()[2]": {
+                          "whiteSpace": true
+                         },
+                         "/br": {
+                          "fontFamily": "Arial, Helvetica, sans-serif",
+                          "fontSize": 11,
+                          "fontWeight": "700",
+                          "textAlign": "center",
+                          "color": "#003399ff",
+                          "lineHeight": 15
+                         },
+                         "/text()[3]": {}
                         }
                        },
                        "/text()[3]": {
@@ -2441,10 +2522,13 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        491,
+                        496,
                         250,
                         169
                        ],
+                       "/text()[1]": {
+                        "whiteSpace": true
+                       },
                        "/td": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -2454,7 +2538,7 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         491,
+                         496,
                          250,
                          169
                         ],
@@ -2468,7 +2552,16 @@
                          "lineHeight": 15,
                          "box": [
                           30,
-                          493,
+                          498,
+                          0,
+                          0
+                         ]
+                        },
+                        "/text()[1]": {
+                         "whiteSpace": true,
+                         "box": [
+                          30,
+                          498,
                           0,
                           0
                          ]
@@ -2481,15 +2574,6 @@
                          "textAlign": "-webkit-center",
                          "color": "#003399ff",
                          "lineHeight": 15
-                        },
-                        "/text()[1]": {
-                         "whiteSpace": true,
-                         "box": [
-                          30,
-                          493,
-                          0,
-                          0
-                         ]
                         },
                         "/text()[2]": {
                          "whiteSpace": true
@@ -2504,10 +2588,13 @@
                          "lineHeight": 15,
                          "box": [
                           67.5,
-                          493,
+                          498,
                           181,
                           165
                          ],
+                         "/text()[1]": {
+                          "whiteSpace": true
+                         },
                          "/img": {
                           "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobMap0_imgLoadingMap",
                           "fontFamily": "Arial, Helvetica, sans-serif",
@@ -2518,19 +2605,16 @@
                           "lineHeight": 15,
                           "box": [
                            148,
-                           493,
+                           498,
                            20,
                            20
                           ]
-                         },
-                         "/text()[1]": {
-                          "whiteSpace": true
                          },
                          "/text()[2]": {
                           "whiteSpace": true,
                           "box": [
                            67.5,
-                           493,
+                           498,
                            0,
                            0
                           ]
@@ -2544,7 +2628,7 @@
                           "lineHeight": 15,
                           "box": [
                            67.5,
-                           493,
+                           498,
                            0,
                            0
                           ]
@@ -2552,15 +2636,12 @@
                          "/text()[3]": {
                           "box": [
                            119.5,
-                           514,
+                           519,
                            77,
                            12
                           ]
                          }
                         }
-                       },
-                       "/text()[1]": {
-                        "whiteSpace": true
                        },
                        "/text()[2]": {
                         "whiteSpace": true
@@ -2578,14 +2659,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        660,
+                        665,
                         250,
                         4
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2597,13 +2675,16 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         660,
+                         665,
                          125,
                          4
                         ],
                         "/text()": {
                          "whiteSpace": true
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
@@ -2614,7 +2695,7 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         660,
+                         665,
                          125,
                          4
                         ],
@@ -2644,14 +2725,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        664,
+                        669,
                         250,
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2663,18 +2741,21 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         664,
+                         669,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           106.390625,
-                          667,
+                          672,
                           44.609375,
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2685,14 +2766,14 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         664,
+                         669,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           155,
-                          667,
+                          672,
                           64.015625,
                           12
                          ]
@@ -2714,14 +2795,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        683,
+                        688,
                         250,
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2733,18 +2811,21 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         683,
+                         688,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           113.71875,
-                          686,
+                          691,
                           37.28125,
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2755,14 +2836,14 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         683,
+                         688,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           155,
-                          686,
+                          691,
                           64.015625,
                           12
                          ]
@@ -2784,14 +2865,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        702,
+                        707,
                         250,
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2803,18 +2881,21 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         702,
+                         707,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           117.984375,
-                          705,
+                          710,
                           33.015625,
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2825,7 +2906,7 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         702,
+                         707,
                          125,
                          19
                         ],
@@ -2838,15 +2919,15 @@
                          "lineHeight": 15,
                          "box": [
                           155,
-                          705,
+                          710,
                           81.328125,
                           12
                          ],
                          "/text()": {
                           "box": [
                            155,
-                           705,
-                           83,
+                           710,
+                           82,
                            12
                           ]
                          }
@@ -2855,7 +2936,7 @@
                          "whiteSpace": true,
                          "box": [
                           153,
-                          702,
+                          707,
                           0,
                           0
                          ]
@@ -2877,14 +2958,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        721,
+                        726,
                         250,
                         19
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2896,18 +2974,21 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         721,
+                         726,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           128.375,
-                          724,
+                          729,
                           22.625,
                           12
                          ]
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2918,14 +2999,14 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         721,
+                         726,
                          125,
                          19
                         ],
                         "/text()": {
                          "box": [
                           155,
-                          724,
+                          729,
                           64.015625,
                           12
                          ]
@@ -2947,14 +3028,11 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        740,
+                        745,
                         250,
                         4
                        ],
                        "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
                         "whiteSpace": true
                        },
                        "/td[1]": {
@@ -2966,13 +3044,16 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         740,
+                         745,
                          125,
                          4
                         ],
                         "/text()": {
                          "whiteSpace": true
                         }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
                        },
                        "/td[2]": {
                         "id": "overviewlinks",
@@ -2983,7 +3064,7 @@
                         "lineHeight": 15,
                         "box": [
                          153,
-                         740,
+                         745,
                          125,
                          4
                         ],
@@ -3007,10 +3088,13 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        744,
+                        749,
                         250,
                         4
                        ],
+                       "/text()[1]": {
+                        "whiteSpace": true
+                       },
                        "/td": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -3020,16 +3104,13 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         744,
+                         749,
                          125,
                          4
                         ],
                         "/text()": {
                          "whiteSpace": true
                         }
-                       },
-                       "/text()[1]": {
-                        "whiteSpace": true
                        },
                        "/text()[2]": {
                         "whiteSpace": true
@@ -3047,10 +3128,13 @@
                        "lineHeight": 15,
                        "box": [
                         28,
-                        748,
+                        753,
                         250,
                         4
                        ],
+                       "/text()[1]": {
+                        "whiteSpace": true
+                       },
                        "/td": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -3060,16 +3144,13 @@
                         "lineHeight": 15,
                         "box": [
                          28,
-                         748,
+                         753,
                          125,
                          4
                         ],
                         "/text()": {
                          "whiteSpace": true
                         }
-                       },
-                       "/text()[1]": {
-                        "whiteSpace": true
                        },
                        "/text()[2]": {
                         "whiteSpace": true
@@ -3087,15 +3168,9 @@
                      "whiteSpace": true
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
-                  },
-                  "/text()[1]": {
-                   "whiteSpace": true
                   },
                   "/text()[2]": {
                    "whiteSpace": true
@@ -3106,23 +3181,23 @@
                    "textAlign": "left",
                    "box": [
                     28,
-                    752,
+                    757,
                     250,
                     50
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
                     "textAlign": "left",
                     "box": [
                      28,
-                     752,
+                     757,
                      250,
                      50
                     ]
-                   },
-                   "/text()[1]": {
-                    "whiteSpace": true
                    },
                    "/text()[2]": {
                     "whiteSpace": true
@@ -3133,6 +3208,9 @@
                   }
                  }
                 }
+               },
+               "/text()[2]": {
+                "whiteSpace": true
                },
                "/td[2]": {
                 "fontFamily": "Arial, Helvetica, sans-serif",
@@ -3177,6 +3255,9 @@
                     712.953125,
                     1231
                    ],
+                   "/text()[1]": {
+                    "whiteSpace": true
+                   },
                    "/td": {
                     "fontFamily": "Arial, Helvetica, sans-serif",
                     "fontSize": 11,
@@ -3189,6 +3270,29 @@
                     ],
                     "/text()[1]": {
                      "whiteSpace": true
+                    },
+                    "/p[1]": {
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 12,
+                     "fontWeight": "700",
+                     "textAlign": "left",
+                     "color": "#000066ff",
+                     "borderBottom": "1px solid rgb(153, 153, 153)",
+                     "textTransform": "uppercase",
+                     "box": [
+                      318,
+                      102,
+                      672.953125,
+                      15
+                     ],
+                     "/text()": {
+                      "box": [
+                       318,
+                       102,
+                       131.359375,
+                       14
+                      ]
+                     }
                     },
                     "/text()[2]": {
                      "box": [
@@ -3211,9 +3315,9 @@
                      ],
                      "/text()": {
                       "box": [
-                       405.6875,
+                       406.6875,
                        129,
-                       65,
+                       64,
                        12
                       ]
                      }
@@ -3226,9 +3330,6 @@
                       72
                      ]
                     },
-                    "/text()[4]": {
-                     "whiteSpace": true
-                    },
                     "/br[1]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
                      "fontSize": 11,
@@ -3239,6 +3340,9 @@
                       0,
                       0
                      ]
+                    },
+                    "/text()[4]": {
+                     "whiteSpace": true
                     },
                     "/br[2]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -3265,31 +3369,202 @@
                     "/text()[5]": {
                      "whiteSpace": true
                     },
-                    "/text()[6]": {
-                     "whiteSpace": true
-                    },
-                    "/p[1]": {
+                    "/table[1]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 12,
-                     "fontWeight": "700",
+                     "fontSize": 11,
                      "textAlign": "left",
-                     "color": "#000066ff",
-                     "borderBottom": "1px solid rgb(153, 153, 153)",
-                     "textTransform": "uppercase",
                      "box": [
                       318,
-                      102,
+                      225,
                       672.953125,
-                      15
+                      35
                      ],
                      "/text()": {
+                      "whiteSpace": true
+                     },
+                     "/tbody": {
+                      "fontFamily": "Arial, Helvetica, sans-serif",
+                      "fontSize": 11,
+                      "textAlign": "left",
                       "box": [
                        318,
-                       102,
-                       131.359375,
-                       14
-                      ]
+                       225,
+                       672.953125,
+                       35
+                      ],
+                      "/tr": {
+                       "fontFamily": "Arial, Helvetica, sans-serif",
+                       "fontSize": 11,
+                       "textAlign": "left",
+                       "box": [
+                        318,
+                        225,
+                        672.953125,
+                        35
+                       ],
+                       "/text()[1]": {
+                        "whiteSpace": true
+                       },
+                       "/td[1]": {
+                        "fontFamily": "Arial, Helvetica, sans-serif",
+                        "fontSize": 11,
+                        "textAlign": "left",
+                        "box": [
+                         318,
+                         225,
+                         507.953125,
+                         35
+                        ],
+                        "/span": {
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 18,
+                         "textAlign": "left",
+                         "color": "#000066ff",
+                         "box": [
+                          318,
+                          232,
+                          464.875,
+                          20
+                         ],
+                         "/text()": {
+                          "box": [
+                           318,
+                           232,
+                           464.875,
+                           20
+                          ]
+                         }
+                        }
+                       },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
+                       "/td[2]": {
+                        "fontFamily": "Arial, Helvetica, sans-serif",
+                        "fontSize": 11,
+                        "textAlign": "-webkit-right",
+                        "box": [
+                         825.953125,
+                         225,
+                         165,
+                         35
+                        ],
+                        "/text()[1]": {
+                         "whiteSpace": true
+                        },
+                        "/a": {
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 13,
+                         "fontWeight": "700",
+                         "textAlign": "center",
+                         "color": "#ffffffff",
+                         "backgroundColor": "#ff7d00ff",
+                         "backgroundImage": "url(\"http://img.icbdr.com/images/js/elements/buttons/bg_btn.gif\")",
+                         "borderLeft": "1px solid rgb(204, 51, 0)",
+                         "borderTop": "1px solid rgb(255, 204, 102)",
+                         "borderRight": "1px solid rgb(204, 51, 0)",
+                         "borderBottom": "1px solid rgb(204, 51, 0)",
+                         "cursor": "pointer",
+                         "lineHeight": 21,
+                         "box": [
+                          839.953125,
+                          225,
+                          151,
+                          23
+                         ],
+                         "/text()": {
+                          "box": [
+                           881.859375,
+                           229,
+                           69,
+                           15
+                          ]
+                         }
+                        },
+                        "/br": {
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 11,
+                         "textAlign": "-webkit-right",
+                         "box": [
+                          825.953125,
+                          225,
+                          0,
+                          0
+                         ]
+                        },
+                        "/span": {
+                         "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobFeedback_jobFeedbackWrapper",
+                         "fontFamily": "Arial, Helvetica, sans-serif",
+                         "fontSize": 11,
+                         "textAlign": "-webkit-right",
+                         "box": [
+                          944.765625,
+                          248,
+                          46.1875,
+                          12
+                         ],
+                         "/text()[1]": {
+                          "whiteSpace": true,
+                          "box": [
+                           825.953125,
+                           225,
+                           0,
+                           0
+                          ]
+                         },
+                         "/a": {
+                          "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobFeedback_cbhlJobFeedback",
+                          "fontFamily": "Arial, Helvetica, sans-serif",
+                          "fontSize": 11,
+                          "textAlign": "-webkit-right",
+                          "color": "#1e3e8cff",
+                          "cursor": "pointer",
+                          "box": [
+                           944.765625,
+                           248,
+                           42.1875,
+                           12
+                          ],
+                          "/text()": {
+                           "box": [
+                            944.765625,
+                            248,
+                            42.1875,
+                            12
+                           ]
+                          }
+                         },
+                         "/text()[2]": {
+                          "whiteSpace": true,
+                          "box": [
+                           825.953125,
+                           225,
+                           0,
+                           0
+                          ]
+                         }
+                        },
+                        "/text()[2]": {
+                         "whiteSpace": true,
+                         "box": [
+                          825.953125,
+                          225,
+                          0,
+                          0
+                         ]
+                        }
+                       },
+                       "/text()[3]": {
+                        "whiteSpace": true
+                       }
+                      },
+                      "/text()": {
+                       "whiteSpace": true
+                      }
                      }
+                    },
+                    "/text()[6]": {
+                     "whiteSpace": true
                     },
                     "/p[2]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -3307,65 +3582,14 @@
                      ],
                      "/text()": {
                       "box": [
-                       317,
+                       318,
                        260,
-                       115,
+                       113.359375,
                        14
                       ]
                      }
                     },
                     "/text()[7]": {
-                     "whiteSpace": true
-                    },
-                    "/br[4]": {
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 11,
-                     "textAlign": "left",
-                     "box": [
-                      318,
-                      803,
-                      0,
-                      0
-                     ]
-                    },
-                    "/br[5]": {
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 11,
-                     "textAlign": "left",
-                     "box": [
-                      318,
-                      803,
-                      0,
-                      0
-                     ]
-                    },
-                    "/text()[8]": {
-                     "whiteSpace": true
-                    },
-                    "/p[3]": {
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 12,
-                     "fontWeight": "700",
-                     "textAlign": "left",
-                     "color": "#000066ff",
-                     "borderBottom": "1px solid rgb(153, 153, 153)",
-                     "textTransform": "uppercase",
-                     "box": [
-                      318,
-                      827,
-                      672.953125,
-                      15
-                     ],
-                     "/text()": {
-                      "box": [
-                       317,
-                       827,
-                       130,
-                       14
-                      ]
-                     }
-                    },
-                    "/text()[9]": {
                      "whiteSpace": true
                     },
                     "/div[1]": {
@@ -3407,6 +3631,9 @@
                         ]
                        }
                       },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
                       "/p[2]": {
                        "fontFamily": "Arial, Helvetica, sans-serif",
                        "fontSize": 11,
@@ -3426,9 +3653,6 @@
                          12
                         ]
                        }
-                      },
-                      "/text()[1]": {
-                       "whiteSpace": true
                       },
                       "/text()[2]": {
                        "whiteSpace": true
@@ -3557,6 +3781,14 @@
                         672.953125,
                         24
                        ],
+                       "/text()[1]": {
+                        "box": [
+                         318,
+                         359,
+                         70.546875,
+                         12
+                        ]
+                       },
                        "/strong": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -3590,19 +3822,11 @@
                          }
                         }
                        },
-                       "/text()[1]": {
-                        "box": [
-                         317,
-                         359,
-                         72,
-                         12
-                        ]
-                       },
                        "/text()[2]": {
                         "box": [
                          318,
                          359,
-                         653.984375,
+                         652.609375,
                          24
                         ]
                        }
@@ -3651,14 +3875,6 @@
                          12
                         ]
                        },
-                       "/text()[2]": {
-                        "box": [
-                         318,
-                         407,
-                         422.09375,
-                         12
-                        ]
-                       },
                        "/br[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -3668,6 +3884,14 @@
                          395,
                          0,
                          0
+                        ]
+                       },
+                       "/text()[2]": {
+                        "box": [
+                         318,
+                         407,
+                         422.09375,
+                         12
                         ]
                        },
                        "/br[2]": {
@@ -3704,7 +3928,7 @@
                         "box": [
                          318,
                          431,
-                         364,
+                         362.796875,
                          12
                         ]
                        },
@@ -3802,9 +4026,9 @@
                        },
                        "/text()[9]": {
                         "box": [
-                         317,
+                         318,
                          491,
-                         650,
+                         648.078125,
                          12
                         ]
                        }
@@ -3853,14 +4077,6 @@
                          12
                         ]
                        },
-                       "/text()[2]": {
-                        "box": [
-                         318,
-                         527,
-                         250,
-                         12
-                        ]
-                       },
                        "/br[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -3870,6 +4086,14 @@
                          515,
                          0,
                          0
+                        ]
+                       },
+                       "/text()[2]": {
+                        "box": [
+                         318,
+                         527,
+                         249.453125,
+                         12
                         ]
                        },
                        "/br[2]": {
@@ -3887,7 +4111,7 @@
                         "box": [
                          318,
                          539,
-                         90,
+                         89,
                          12
                         ]
                        },
@@ -3963,7 +4187,7 @@
                         "box": [
                          318,
                          587,
-                         67,
+                         66,
                          12
                         ]
                        },
@@ -4058,7 +4282,7 @@
                         "box": [
                          318,
                          647,
-                         429,
+                         428.375,
                          12
                         ]
                        },
@@ -4126,14 +4350,6 @@
                          12
                         ]
                        },
-                       "/text()[2]": {
-                        "box": [
-                         317,
-                         695,
-                         666,
-                         24
-                        ]
-                       },
                        "/br[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -4143,6 +4359,14 @@
                          683,
                          0,
                          0
+                        ]
+                       },
+                       "/text()[2]": {
+                        "box": [
+                         318,
+                         695,
+                         664,
+                         24
                         ]
                        },
                        "/br[2]": {
@@ -4205,7 +4429,7 @@
                         "box": [
                          318,
                          755,
-                         674,
+                         672.625,
                          24
                         ]
                        }
@@ -4244,6 +4468,57 @@
                       ]
                      }
                     },
+                    "/br[4]": {
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 11,
+                     "textAlign": "left",
+                     "box": [
+                      318,
+                      803,
+                      0,
+                      0
+                     ]
+                    },
+                    "/br[5]": {
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 11,
+                     "textAlign": "left",
+                     "box": [
+                      318,
+                      803,
+                      0,
+                      0
+                     ]
+                    },
+                    "/text()[8]": {
+                     "whiteSpace": true
+                    },
+                    "/p[3]": {
+                     "fontFamily": "Arial, Helvetica, sans-serif",
+                     "fontSize": 12,
+                     "fontWeight": "700",
+                     "textAlign": "left",
+                     "color": "#000066ff",
+                     "borderBottom": "1px solid rgb(153, 153, 153)",
+                     "textTransform": "uppercase",
+                     "box": [
+                      318,
+                      827,
+                      672.953125,
+                      15
+                     ],
+                     "/text()": {
+                      "box": [
+                       318,
+                       827,
+                       128.015625,
+                       14
+                      ]
+                     }
+                    },
+                    "/text()[9]": {
+                     "whiteSpace": true
+                    },
                     "/div[2]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
                      "fontSize": 11,
@@ -4276,17 +4551,9 @@
                        ],
                        "/text()[1]": {
                         "box": [
-                         317,
-                         854,
-                         569,
-                         12
-                        ]
-                       },
-                       "/text()[2]": {
-                        "box": [
                          318,
-                         866,
-                         228.875,
+                         854,
+                         567.84375,
                          12
                         ]
                        },
@@ -4299,6 +4566,14 @@
                          854,
                          0,
                          0
+                        ]
+                       },
+                       "/text()[2]": {
+                        "box": [
+                         318,
+                         866,
+                         228.875,
+                         12
                         ]
                        },
                        "/br[2]": {
@@ -4340,6 +4615,9 @@
                         ]
                        }
                       },
+                      "/text()[1]": {
+                       "whiteSpace": true
+                      },
                       "/p[2]": {
                        "fontFamily": "Arial, Helvetica, sans-serif",
                        "fontSize": 11,
@@ -4352,18 +4630,10 @@
                        ],
                        "/text()[1]": {
                         "box": [
-                         317,
-                         902,
-                         652,
-                         36
-                        ]
-                       },
-                       "/text()[2]": {
-                        "box": [
                          318,
-                         938,
-                         119.6875,
-                         12
+                         902,
+                         649.140625,
+                         36
                         ]
                        },
                        "/br[1]": {
@@ -4375,6 +4645,14 @@
                          902,
                          0,
                          0
+                        ]
+                       },
+                       "/text()[2]": {
+                        "box": [
+                         318,
+                         938,
+                         119.6875,
+                         12
                         ]
                        },
                        "/br[2]": {
@@ -4416,9 +4694,6 @@
                         ]
                        }
                       },
-                      "/text()[1]": {
-                       "whiteSpace": true
-                      },
                       "/text()[2]": {
                        "whiteSpace": true
                       },
@@ -4458,9 +4733,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/li[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -4480,6 +4752,9 @@
                          ]
                         }
                        },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
                        "/li[2]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -4492,9 +4767,9 @@
                         ],
                         "/text()": {
                          "box": [
-                          377,
+                          378,
                           998,
-                          282,
+                          280.265625,
                           12
                          ]
                         }
@@ -4514,9 +4789,9 @@
                         ],
                         "/text()": {
                          "box": [
-                          377,
+                          378,
                           1010,
-                          294,
+                          292.546875,
                           12
                          ]
                         }
@@ -4536,9 +4811,9 @@
                         ],
                         "/text()": {
                          "box": [
-                          377,
+                          378,
                           1022,
-                          498,
+                          496.5,
                           12
                          ]
                         }
@@ -4628,200 +4903,6 @@
                     "/text()[11]": {
                      "whiteSpace": true
                     },
-                    "/table[1]": {
-                     "fontFamily": "Arial, Helvetica, sans-serif",
-                     "fontSize": 11,
-                     "textAlign": "left",
-                     "box": [
-                      318,
-                      225,
-                      672.953125,
-                      35
-                     ],
-                     "/text()": {
-                      "whiteSpace": true
-                     },
-                     "/tbody": {
-                      "fontFamily": "Arial, Helvetica, sans-serif",
-                      "fontSize": 11,
-                      "textAlign": "left",
-                      "box": [
-                       318,
-                       225,
-                       672.953125,
-                       35
-                      ],
-                      "/tr": {
-                       "fontFamily": "Arial, Helvetica, sans-serif",
-                       "fontSize": 11,
-                       "textAlign": "left",
-                       "box": [
-                        318,
-                        225,
-                        672.953125,
-                        35
-                       ],
-                       "/text()[1]": {
-                        "whiteSpace": true
-                       },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
-                       "/td[1]": {
-                        "fontFamily": "Arial, Helvetica, sans-serif",
-                        "fontSize": 11,
-                        "textAlign": "left",
-                        "box": [
-                         318,
-                         225,
-                         507.953125,
-                         35
-                        ],
-                        "/span": {
-                         "fontFamily": "Arial, Helvetica, sans-serif",
-                         "fontSize": 18,
-                         "textAlign": "left",
-                         "color": "#000066ff",
-                         "box": [
-                          318,
-                          232,
-                          464.875,
-                          20
-                         ],
-                         "/text()": {
-                          "box": [
-                           318,
-                           232,
-                           464.875,
-                           20
-                          ]
-                         }
-                        }
-                       },
-                       "/td[2]": {
-                        "fontFamily": "Arial, Helvetica, sans-serif",
-                        "fontSize": 11,
-                        "textAlign": "-webkit-right",
-                        "box": [
-                         825.953125,
-                         225,
-                         165,
-                         35
-                        ],
-                        "/a": {
-                         "fontFamily": "Arial, Helvetica, sans-serif",
-                         "fontSize": 13,
-                         "fontWeight": "700",
-                         "textAlign": "center",
-                         "color": "#ffffffff",
-                         "backgroundColor": "#ff7d00ff",
-                         "backgroundImage": "url(\"http://img.icbdr.com/images/js/elements/buttons/bg_btn.gif\")",
-                         "borderLeft": "1px solid rgb(204, 51, 0)",
-                         "borderTop": "1px solid rgb(255, 204, 102)",
-                         "borderRight": "1px solid rgb(204, 51, 0)",
-                         "borderBottom": "1px solid rgb(204, 51, 0)",
-                         "cursor": "pointer",
-                         "lineHeight": 21,
-                         "box": [
-                          839.953125,
-                          225,
-                          151,
-                          23
-                         ],
-                         "/text()": {
-                          "box": [
-                           880.859375,
-                           229,
-                           70,
-                           15
-                          ]
-                         }
-                        },
-                        "/br": {
-                         "fontFamily": "Arial, Helvetica, sans-serif",
-                         "fontSize": 11,
-                         "textAlign": "-webkit-right",
-                         "box": [
-                          825.953125,
-                          225,
-                          0,
-                          0
-                         ]
-                        },
-                        "/span": {
-                         "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobFeedback_jobFeedbackWrapper",
-                         "fontFamily": "Arial, Helvetica, sans-serif",
-                         "fontSize": 11,
-                         "textAlign": "-webkit-right",
-                         "box": [
-                          944.765625,
-                          248,
-                          46.1875,
-                          12
-                         ],
-                         "/a": {
-                          "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobFeedback_cbhlJobFeedback",
-                          "fontFamily": "Arial, Helvetica, sans-serif",
-                          "fontSize": 11,
-                          "textAlign": "-webkit-right",
-                          "color": "#1e3e8cff",
-                          "cursor": "pointer",
-                          "box": [
-                           944.765625,
-                           248,
-                           42.1875,
-                           12
-                          ],
-                          "/text()": {
-                           "box": [
-                            944.765625,
-                            248,
-                            44,
-                            12
-                           ]
-                          }
-                         },
-                         "/text()[1]": {
-                          "whiteSpace": true,
-                          "box": [
-                           825.953125,
-                           225,
-                           0,
-                           0
-                          ]
-                         },
-                         "/text()[2]": {
-                          "whiteSpace": true,
-                          "box": [
-                           825.953125,
-                           225,
-                           0,
-                           0
-                          ]
-                         }
-                        },
-                        "/text()[1]": {
-                         "whiteSpace": true
-                        },
-                        "/text()[2]": {
-                         "whiteSpace": true,
-                         "box": [
-                          825.953125,
-                          225,
-                          0,
-                          0
-                         ]
-                        }
-                       },
-                       "/text()[3]": {
-                        "whiteSpace": true
-                       }
-                      },
-                      "/text()": {
-                       "whiteSpace": true
-                      }
-                     }
-                    },
                     "/table[2]": {
                      "fontFamily": "Arial, Helvetica, sans-serif",
                      "fontSize": 11,
@@ -4858,9 +4939,6 @@
                        "/text()[1]": {
                         "whiteSpace": true
                        },
-                       "/text()[2]": {
-                        "whiteSpace": true
-                       },
                        "/td[1]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -4875,6 +4953,9 @@
                          "whiteSpace": true
                         }
                        },
+                       "/text()[2]": {
+                        "whiteSpace": true
+                       },
                        "/td[2]": {
                         "fontFamily": "Arial, Helvetica, sans-serif",
                         "fontSize": 11,
@@ -4885,6 +4966,9 @@
                          672.953125,
                          35
                         ],
+                        "/text()[1]": {
+                         "whiteSpace": true
+                        },
                         "/a": {
                          "fontFamily": "Arial, Helvetica, sans-serif",
                          "fontSize": 13,
@@ -4907,9 +4991,9 @@
                          ],
                          "/text()": {
                           "box": [
-                           880.859375,
+                           881.859375,
                            1109,
-                           70,
+                           69,
                            15
                           ]
                          }
@@ -4936,6 +5020,15 @@
                           46.1875,
                           12
                          ],
+                         "/text()[1]": {
+                          "whiteSpace": true,
+                          "box": [
+                           318,
+                           1105,
+                           0,
+                           0
+                          ]
+                         },
                          "/a": {
                           "id": "JobDetails_ucJobDetailsSkin__JobSkinContent_ucJobFeedback_cbhlJobFeedback",
                           "fontFamily": "Arial, Helvetica, sans-serif",
@@ -4953,19 +5046,10 @@
                            "box": [
                             944.765625,
                             1128,
-                            44,
+                            42.1875,
                             12
                            ]
                           }
-                         },
-                         "/text()[1]": {
-                          "whiteSpace": true,
-                          "box": [
-                           318,
-                           1105,
-                           0,
-                           0
-                          ]
                          },
                          "/text()[2]": {
                           "whiteSpace": true,
@@ -4976,9 +5060,6 @@
                            0
                           ]
                          }
-                        },
-                        "/text()[1]": {
-                         "whiteSpace": true
                         },
                         "/text()[2]": {
                          "whiteSpace": true,
@@ -5169,24 +5250,8 @@
                            "box": [
                             374,
                             1196,
-                            43,
+                            42,
                             12
-                           ]
-                          },
-                          "/text()[2]": {
-                           "box": [
-                            525.640625,
-                            1196,
-                            151.0625,
-                            12
-                           ]
-                          },
-                          "/text()[3]": {
-                           "box": [
-                            374,
-                            1208,
-                            610.171875,
-                            24
                            ]
                           },
                           "/a[1]": {
@@ -5209,6 +5274,33 @@
                              12
                             ]
                            }
+                          },
+                          "/text()[2]": {
+                           "box": [
+                            525.640625,
+                            1196,
+                            151.0625,
+                            12
+                           ]
+                          },
+                          "/br[1]": {
+                           "fontFamily": "Arial, Helvetica, sans-serif",
+                           "fontSize": 11,
+                           "textAlign": "left",
+                           "box": [
+                            374,
+                            1196,
+                            0,
+                            0
+                           ]
+                          },
+                          "/text()[3]": {
+                           "box": [
+                            374,
+                            1208,
+                            610.171875,
+                            24
+                           ]
                           },
                           "/a[2]": {
                            "fontFamily": "Arial, Helvetica, sans-serif",
@@ -5246,22 +5338,11 @@
                              "box": [
                               596.578125,
                               1220,
-                              17,
+                              15.90625,
                               12
                              ]
                             }
                            }
-                          },
-                          "/br[1]": {
-                           "fontFamily": "Arial, Helvetica, sans-serif",
-                           "fontSize": 11,
-                           "textAlign": "left",
-                           "box": [
-                            374,
-                            1196,
-                            0,
-                            0
-                           ]
                           },
                           "/br[2]": {
                            "fontFamily": "Arial, Helvetica, sans-serif",
@@ -5336,9 +5417,9 @@
                            ],
                            "/text()": {
                             "box": [
-                             778,
+                             779,
                              1256,
-                             108,
+                             107,
                              12
                             ]
                            }
@@ -5369,9 +5450,6 @@
                      }
                     }
                    },
-                   "/text()[1]": {
-                    "whiteSpace": true
-                   },
                    "/text()[2]": {
                     "whiteSpace": true
                    }
@@ -5386,9 +5464,6 @@
                 "whiteSpace": true
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               },
@@ -5402,6 +5477,9 @@
                 1002.953125,
                 20
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/td": {
                 "fontFamily": "Arial, Helvetica, sans-serif",
                 "fontSize": 11,
@@ -5425,9 +5503,6 @@
                  ]
                 }
                },
-               "/text()[1]": {
-                "whiteSpace": true
-               },
                "/text()[2]": {
                 "whiteSpace": true
                }
@@ -5437,9 +5512,6 @@
               }
              }
             },
-            "/text()[1]": {
-             "whiteSpace": true
-            },
             "/text()[2]": {
              "whiteSpace": true
             },
@@ -5447,15 +5519,9 @@
              "whiteSpace": true
             }
            },
-           "/text()[1]": {
-            "whiteSpace": true
-           },
            "/text()[2]": {
             "whiteSpace": true
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -5465,28 +5531,22 @@
         "/text()[3]": {
          "whiteSpace": true
         },
-        "/text()[4]": {
-         "whiteSpace": true
-        },
-        "/text()[5]": {
-         "whiteSpace": true
-        },
-        "/text()[6]": {
-         "whiteSpace": true
-        },
         "/script[1]": {
          "fontFamily": "Arial, Helvetica, sans-serif",
          "fontSize": 12,
          "textAlign": "center",
          "/text()": {}
         },
-        "/script[2]": {
+        "/text()[4]": {
+         "whiteSpace": true
+        },
+        "/style[1]": {
          "fontFamily": "Arial, Helvetica, sans-serif",
          "fontSize": 12,
          "textAlign": "center",
          "/text()": {}
         },
-        "/text()[7]": {
+        "/text()[5]": {
          "whiteSpace": true
         },
         "/div[1]": {
@@ -5504,6 +5564,18 @@
           0
          ]
         },
+        "/text()[6]": {
+         "whiteSpace": true
+        },
+        "/script[2]": {
+         "fontFamily": "Arial, Helvetica, sans-serif",
+         "fontSize": 12,
+         "textAlign": "center",
+         "/text()": {}
+        },
+        "/text()[7]": {
+         "whiteSpace": true
+        },
         "/div[2]": {
          "id": "sending",
          "fontFamily": "Arial, Helvetica, sans-serif",
@@ -5514,11 +5586,14 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           31
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/span": {
           "fontFamily": "arial",
           "fontSize": 18,
@@ -5526,28 +5601,25 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            76.0625,
-           22
+           20
           ],
           "/text()": {
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             76.0625,
             20
            ]
           }
          },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
          "/text()[2]": {
           "whiteSpace": true,
           "box": [
-           -3002,
-           -5,
+           6,
+           1328,
            0,
            0
           ]
@@ -5566,11 +5638,14 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           73
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
           "fontFamily": "Arial, Helvetica, sans-serif",
           "fontSize": 12,
@@ -5578,26 +5653,14 @@
           "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
           "cursor": "pointer",
           "box": [
-           -2627,
-           0,
+           381,
+           1333,
            14,
            14
           ]
          },
-         "/text()[1]": {
-          "whiteSpace": true
-         },
          "/text()[2]": {
           "whiteSpace": true
-         },
-         "/text()[3]": {
-          "whiteSpace": true,
-          "box": [
-           -2715.890625,
-           5,
-           3.34375,
-           14
-          ]
          },
          "/span[1]": {
           "id": "sendSuccess",
@@ -5607,19 +5670,28 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            281.109375,
-           22
+           20
           ],
           "/text()": {
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             281.109375,
             20
            ]
           }
+         },
+         "/text()[3]": {
+          "whiteSpace": true,
+          "box": [
+           292.109375,
+           1338,
+           3.34375,
+           14
+          ]
          },
          "/span[2]": {
           "id": "sendError",
@@ -5629,15 +5701,15 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            363.203125,
-           64
+           62
           ],
           "/text()": {
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             363.203125,
             62
            ]
@@ -5646,8 +5718,8 @@
          "/text()[4]": {
           "whiteSpace": true,
           "box": [
-           -3002,
-           -5,
+           6,
+           1328,
            0,
            0
           ]
@@ -5666,25 +5738,25 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           242
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
           "fontFamily": "Arial, Helvetica, sans-serif",
           "fontSize": 12,
           "textAlign": "left",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            384,
            224
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/div[1]": {
@@ -5692,11 +5764,14 @@
            "fontSize": 12,
            "textAlign": "left",
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             376,
             42
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/div": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 12,
@@ -5704,26 +5779,14 @@
             "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
             "cursor": "pointer",
             "box": [
-             -2631,
-             0,
+             377,
+             1333,
              14,
              14
             ]
            },
-           "/text()[1]": {
-            "whiteSpace": true
-           },
            "/text()[2]": {
             "whiteSpace": true
-           },
-           "/text()[3]": {
-            "whiteSpace": true,
-            "box": [
-             -2681.875,
-             5,
-             3.34375,
-             14
-            ]
            },
            "/span[1]": {
             "id": "prompt",
@@ -5733,19 +5796,28 @@
             "textAlign": "left",
             "color": "#000064ff",
             "box": [
-             -2993,
-             0,
+             15,
+             1333,
              311.125,
-             22
+             20
             ],
             "/text()": {
              "box": [
-              -2993,
-              0,
+              15,
+              1333,
               311.125,
               20
              ]
             }
+           },
+           "/text()[3]": {
+            "whiteSpace": true,
+            "box": [
+             326.125,
+             1338,
+             3.34375,
+             14
+            ]
            },
            "/span[2]": {
             "id": "bademail",
@@ -5755,15 +5827,15 @@
             "textAlign": "left",
             "color": "#000064ff",
             "box": [
-             -2993,
-             0,
+             15,
+             1333,
              358.484375,
-             43
+             41
             ],
             "/text()": {
              "box": [
-              -2993,
-              0,
+              15,
+              1333,
               358.484375,
               41
              ]
@@ -5772,12 +5844,15 @@
            "/text()[4]": {
             "whiteSpace": true,
             "box": [
-             -2993,
-             0,
+             15,
+             1333,
              0,
              0
             ]
            }
+          },
+          "/text()[2]": {
+           "whiteSpace": true
           },
           "/div[2]": {
            "id": "EmailJobBoxForm",
@@ -5786,15 +5861,12 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            44,
+            19,
+            1377,
             368,
             180
            ],
            "/text()[1]": {
-            "whiteSpace": true
-           },
-           "/text()[2]": {
             "whiteSpace": true
            },
            "/div[1]": {
@@ -5803,11 +5875,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             44,
+             19,
+             1377,
              180.3125,
              43
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/label": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 13,
@@ -5816,22 +5891,19 @@
              "cursor": "default",
              "lineHeight": 21,
              "box": [
-              -2989,
-              48,
+              19,
+              1381,
               180.3125,
               21
              ],
              "/text()": {
               "box": [
-               -2989,
-               51,
+               19,
+               1384,
                114.125,
                15
               ]
              }
-            },
-            "/text()[1]": {
-             "whiteSpace": true
             },
             "/text()[2]": {
              "whiteSpace": true
@@ -5844,8 +5916,8 @@
              "border": "2px inset rgb(118, 118, 118)",
              "cursor": "text",
              "box": [
-              -2989,
-              69,
+              19,
+              1402,
               181.09375,
               18
              ]
@@ -5853,12 +5925,15 @@
             "/text()[3]": {
              "whiteSpace": true,
              "box": [
-              -2989,
-              69,
+              19,
+              1402,
               0,
               0
              ]
             }
+           },
+           "/text()[2]": {
+            "whiteSpace": true
            },
            "/div[2]": {
             "fontFamily": "Arial, Helvetica, sans-serif",
@@ -5866,11 +5941,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2806.6875,
-             44,
+             201.3125,
+             1377,
              180.3125,
              43
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/label": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 13,
@@ -5879,22 +5957,19 @@
              "cursor": "default",
              "lineHeight": 21,
              "box": [
-              -2806.6875,
-              48,
+              201.3125,
+              1381,
               180.3125,
               21
              ],
              "/text()": {
               "box": [
-               -2806.6875,
-               51,
+               201.3125,
+               1384,
                132.890625,
                15
               ]
              }
-            },
-            "/text()[1]": {
-             "whiteSpace": true
             },
             "/text()[2]": {
              "whiteSpace": true
@@ -5907,8 +5982,8 @@
              "border": "2px inset rgb(118, 118, 118)",
              "cursor": "text",
              "box": [
-              -2806.6875,
-              69,
+              201.3125,
+              1402,
               181.09375,
               18
              ]
@@ -5916,8 +5991,8 @@
             "/text()[3]": {
              "whiteSpace": true,
              "box": [
-              -2806.6875,
-              69,
+              201.3125,
+              1402,
               0,
               0
              ]
@@ -5933,8 +6008,8 @@
             "lineHeight": 21,
             "overflow": "hidden",
             "box": [
-             -2989,
-             87,
+             19,
+             1420,
              368,
              1
             ]
@@ -5948,11 +6023,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             88,
+             19,
+             1421,
              180.3125,
              43
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/label": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 13,
@@ -5961,22 +6039,19 @@
              "cursor": "default",
              "lineHeight": 21,
              "box": [
-              -2989,
-              92,
+              19,
+              1425,
               180.3125,
               21
              ],
              "/text()": {
               "box": [
-               -2990,
-               95,
-               68,
+               19,
+               1428,
+               66.21875,
                15
               ]
              }
-            },
-            "/text()[1]": {
-             "whiteSpace": true
             },
             "/text()[2]": {
              "whiteSpace": true
@@ -5989,8 +6064,8 @@
              "border": "2px inset rgb(118, 118, 118)",
              "cursor": "text",
              "box": [
-              -2989,
-              113,
+              19,
+              1446,
               181.09375,
               18
              ]
@@ -5998,8 +6073,8 @@
             "/text()[3]": {
              "whiteSpace": true,
              "box": [
-              -2989,
-              113,
+              19,
+              1446,
               0,
               0
              ]
@@ -6015,8 +6090,8 @@
             "lineHeight": 21,
             "overflow": "hidden",
             "box": [
-             -2989,
-             131,
+             19,
+             1464,
              368,
              1
             ]
@@ -6030,11 +6105,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             136,
+             19,
+             1469,
              368,
              67
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/label": {
              "fontFamily": "Arial, Helvetica, sans-serif",
              "fontSize": 13,
@@ -6043,22 +6121,19 @@
              "cursor": "default",
              "lineHeight": 21,
              "box": [
-              -2989,
-              136,
+              19,
+              1469,
               368,
               21
              ],
              "/text()": {
               "box": [
-               -2989,
-               139,
+               19,
+               1472,
                36.125,
                15
               ]
              }
-            },
-            "/text()[1]": {
-             "whiteSpace": true
             },
             "/text()[2]": {
              "whiteSpace": true
@@ -6072,8 +6147,8 @@
              "cursor": "text",
              "overflow": "auto",
              "box": [
-              -2989,
-              157,
+              19,
+              1490,
               374,
               46
              ]
@@ -6081,8 +6156,8 @@
             "/text()[3]": {
              "whiteSpace": true,
              "box": [
-              -2989,
-              157,
+              19,
+              1490,
               0,
               0
              ]
@@ -6098,8 +6173,8 @@
             "lineHeight": 21,
             "overflow": "hidden",
             "box": [
-             -2989,
-             203,
+             19,
+             1536,
              368,
              1
             ]
@@ -6113,11 +6188,14 @@
             "textAlign": "right",
             "lineHeight": 21,
             "box": [
-             -2989,
-             206,
+             19,
+             1539,
              368,
              18
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/input": {
              "id": "btn_sendEmail",
              "fontFamily": "Arial",
@@ -6133,20 +6211,17 @@
              "borderBottom": "1px solid rgb(204, 51, 0)",
              "cursor": "default",
              "box": [
-              -2696.375,
-              206,
+              311.625,
+              1539,
               75.375,
               18
              ]
             },
-            "/text()[1]": {
-             "whiteSpace": true
-            },
             "/text()[2]": {
              "whiteSpace": true,
              "box": [
-              -2989,
-              206,
+              19,
+              1539,
               0,
               0
              ]
@@ -6168,9 +6243,6 @@
           "/text()[3]": {
            "whiteSpace": true
           }
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -6197,14 +6269,14 @@
         "/text()[12]": {
          "whiteSpace": true
         },
-        "/text()[13]": {
-         "whiteSpace": true
-        },
         "/input[1]": {
          "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_hdnSavedJobDID",
          "fontFamily": "Arial",
          "fontSize": 11,
          "cursor": "default"
+        },
+        "/text()[13]": {
+         "whiteSpace": true
         },
         "/input[2]": {
          "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_hdnSavedNotes",
@@ -6229,6 +6301,7 @@
          "fontFamily": "Arial, Helvetica, sans-serif",
          "fontSize": 12,
          "textAlign": "center",
+         "/text()[1]": {},
          "/br": {
           "fontFamily": "Arial, Helvetica, sans-serif",
           "fontSize": 12,
@@ -6242,7 +6315,6 @@
           "cursor": "pointer",
           "/text()": {}
          },
-         "/text()[1]": {},
          "/text()[2]": {
           "whiteSpace": true
          }
@@ -6287,8 +6359,8 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           31
          ],
@@ -6299,15 +6371,15 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            70.046875,
-           22
+           20
           ],
           "/text()": {
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             70.046875,
             20
            ]
@@ -6327,8 +6399,8 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           118
          ],
@@ -6338,17 +6410,52 @@
          "/text()[2]": {
           "whiteSpace": true
          },
+         "/div[1]": {
+          "fontFamily": "Arial, Helvetica, sans-serif",
+          "fontSize": 12,
+          "textAlign": "left",
+          "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
+          "cursor": "pointer",
+          "box": [
+           381,
+           1333,
+           14,
+           14
+          ]
+         },
          "/text()[3]": {
           "whiteSpace": true
          },
          "/text()[4]": {
           "whiteSpace": true
          },
+         "/span[1]": {
+          "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_SaveJobBoxIntro",
+          "fontFamily": "arial",
+          "fontSize": 18,
+          "fontWeight": "500",
+          "textAlign": "left",
+          "color": "#000064ff",
+          "box": [
+           11,
+           1333,
+           218.90625,
+           20
+          ],
+          "/text()": {
+           "box": [
+            11,
+            1333,
+            218.90625,
+            20
+           ]
+          }
+         },
          "/text()[5]": {
           "whiteSpace": true,
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            0,
            0
           ]
@@ -6361,33 +6468,11 @@
           "fontSize": 12,
           "textAlign": "left",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            0,
            0
           ]
-         },
-         "/span[1]": {
-          "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucSavedJob_SaveJobBoxIntro",
-          "fontFamily": "arial",
-          "fontSize": 18,
-          "fontWeight": "500",
-          "textAlign": "left",
-          "color": "#000064ff",
-          "box": [
-           -2997,
-           0,
-           218.90625,
-           22
-          ],
-          "/text()": {
-           "box": [
-            -2998,
-            0,
-            220,
-            20
-           ]
-          }
          },
          "/span[2]": {
           "id": "SaveJobTitleCompany",
@@ -6398,8 +6483,8 @@
           "color": "#666666ff",
           "lineHeight": 16,
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            0,
            0
           ]
@@ -6407,23 +6492,10 @@
          "/text()[7]": {
           "whiteSpace": true,
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            0,
            0
-          ]
-         },
-         "/div[1]": {
-          "fontFamily": "Arial, Helvetica, sans-serif",
-          "fontSize": 12,
-          "textAlign": "left",
-          "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
-          "cursor": "pointer",
-          "box": [
-           -2627,
-           0,
-           14,
-           14
           ]
          },
          "/div[2]": {
@@ -6433,18 +6505,12 @@
           "textAlign": "left",
           "lineHeight": 21,
           "box": [
-           -2989,
-           23,
+           19,
+           1356,
            368,
            77
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
-           "whiteSpace": true
-          },
-          "/text()[3]": {
            "whiteSpace": true
           },
           "/div[1]": {
@@ -6472,17 +6538,26 @@
             "/text()": {}
            }
           },
+          "/text()[2]": {
+           "whiteSpace": true
+          },
+          "/text()[3]": {
+           "whiteSpace": true
+          },
           "/div[2]": {
            "fontFamily": "Arial, Helvetica, sans-serif",
            "fontSize": 13,
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             368,
             57
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/label": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 13,
@@ -6491,22 +6566,19 @@
             "cursor": "default",
             "lineHeight": 21,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              368,
              21
             ],
             "/text()": {
              "box": [
-              -2989,
-              26,
+              19,
+              1359,
               40.453125,
               15
              ]
             }
-           },
-           "/text()[1]": {
-            "whiteSpace": true
            },
            "/text()[2]": {
             "whiteSpace": true
@@ -6520,8 +6592,8 @@
             "cursor": "text",
             "overflow": "auto",
             "box": [
-             -2989,
-             44,
+             19,
+             1377,
              374,
              36
             ]
@@ -6529,8 +6601,8 @@
            "/text()[3]": {
             "whiteSpace": true,
             "box": [
-             -2989,
-             44,
+             19,
+             1377,
              0,
              0
             ]
@@ -6548,11 +6620,14 @@
            "textAlign": "right",
            "lineHeight": 21,
            "box": [
-            -2989,
-            80,
+            19,
+            1413,
             368,
             20
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/input": {
             "id": "btn_saveJob",
             "fontFamily": "Arial",
@@ -6568,20 +6643,17 @@
             "borderBottom": "1px solid rgb(204, 51, 0)",
             "cursor": "default",
             "box": [
-             -2696.375,
-             82,
+             311.625,
+             1415,
              75.375,
              18
             ]
            },
-           "/text()[1]": {
-            "whiteSpace": true
-           },
            "/text()[2]": {
             "whiteSpace": true,
             "box": [
-             -2989,
-             80,
+             19,
+             1413,
              0,
              0
             ]
@@ -6611,11 +6683,14 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           91
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
           "fontFamily": "Arial, Helvetica, sans-serif",
           "fontSize": 12,
@@ -6623,14 +6698,11 @@
           "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
           "cursor": "pointer",
           "box": [
-           -2627,
-           0,
+           381,
+           1333,
            14,
            14
           ]
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -6643,11 +6715,20 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            0,
            0
           ],
+          "/text()[1]": {
+           "whiteSpace": true,
+           "box": [
+            11,
+            1333,
+            0,
+            0
+           ]
+          },
           "/center": {
            "fontFamily": "arial",
            "fontSize": 18,
@@ -6655,28 +6736,19 @@
            "textAlign": "-webkit-center",
            "color": "#000064ff",
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             384,
             21
            ],
            "/text()": {
             "box": [
-             -2970.109375,
-             0,
-             316,
+             38.890625,
+             1333,
+             314.203125,
              20
             ]
            }
-          },
-          "/text()[1]": {
-           "whiteSpace": true,
-           "box": [
-            -2997,
-            0,
-            0,
-            0
-           ]
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -6685,8 +6757,8 @@
          "/text()[3]": {
           "whiteSpace": true,
           "box": [
-           -2997,
-           21,
+           11,
+           1354,
            0,
            0
           ]
@@ -6696,13 +6768,24 @@
           "fontSize": 12,
           "textAlign": "-webkit-center",
           "box": [
-           -2997,
-           21,
+           11,
+           1354,
            384,
            60
           ],
           "/text()[1]": {
            "whiteSpace": true
+          },
+          "/br[1]": {
+           "fontFamily": "Arial, Helvetica, sans-serif",
+           "fontSize": 12,
+           "textAlign": "-webkit-center",
+           "box": [
+            11,
+            1354,
+            0,
+            0
+           ]
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -6715,15 +6798,15 @@
            "color": "#1e3e8cff",
            "cursor": "pointer",
            "box": [
-            -2860.59375,
-            35,
+            147.40625,
+            1368,
             111.171875,
             14
            ],
            "/text()": {
             "box": [
-             -2860.59375,
-             35,
+             147.40625,
+             1368,
              111.171875,
              14
             ]
@@ -6732,19 +6815,8 @@
           "/text()[3]": {
            "whiteSpace": true,
            "box": [
-            -2997,
-            21,
-            0,
-            0
-           ]
-          },
-          "/br[1]": {
-           "fontFamily": "Arial, Helvetica, sans-serif",
-           "fontSize": 12,
-           "textAlign": "-webkit-center",
-           "box": [
-            -2997,
-            21,
+            11,
+            1354,
             0,
             0
            ]
@@ -6754,8 +6826,8 @@
            "fontSize": 12,
            "textAlign": "-webkit-center",
            "box": [
-            -2997,
-            21,
+            11,
+            1354,
             0,
             0
            ]
@@ -6765,8 +6837,8 @@
            "fontSize": 12,
            "textAlign": "-webkit-center",
            "box": [
-            -2997,
-            21,
+            11,
+            1354,
             0,
             0
            ]
@@ -6787,15 +6859,15 @@
            "borderRight": "1px solid rgb(204, 51, 0)",
            "borderBottom": "1px solid rgb(204, 51, 0)",
            "box": [
-            -2878.5,
-            63,
+            129.5,
+            1396,
             147,
             18
            ],
            "/text()": {
             "box": [
-             -2825.859375,
-             66.5,
+             182.140625,
+             1399.5,
              42,
              11
             ]
@@ -6822,11 +6894,14 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           394,
           31
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/div": {
           "fontFamily": "Arial, Helvetica, sans-serif",
           "fontSize": 12,
@@ -6834,14 +6909,11 @@
           "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
           "cursor": "pointer",
           "box": [
-           -2627,
-           0,
+           381,
+           1333,
            14,
            14
           ]
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -6854,15 +6926,15 @@
           "textAlign": "left",
           "color": "#000064ff",
           "box": [
-           -2997,
-           0,
+           11,
+           1333,
            45,
-           22
+           20
           ],
           "/text()": {
            "box": [
-            -2997,
-            0,
+            11,
+            1333,
             45,
             20
            ]
@@ -6871,8 +6943,8 @@
          "/text()[3]": {
           "whiteSpace": true,
           "box": [
-           -3002,
-           -5,
+           6,
+           1328,
            0,
            0
           ]
@@ -6894,14 +6966,14 @@
          "fontFamily": "Arial, Helvetica, sans-serif",
          "fontSize": 12,
          "textAlign": "center",
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/input": {
           "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_hdn_auth",
           "fontFamily": "Arial",
           "fontSize": 11,
           "cursor": "default"
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -6923,15 +6995,12 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           296,
           212.125
          ],
          "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
           "whiteSpace": true
          },
          "/div[1]": {
@@ -6939,11 +7008,14 @@
           "fontSize": 12,
           "textAlign": "left",
           "box": [
-           -2993,
-           0,
+           15,
+           1333,
            278,
            21
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/div": {
            "fontFamily": "Arial, Helvetica, sans-serif",
            "fontSize": 12,
@@ -6951,14 +7023,11 @@
            "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
            "cursor": "pointer",
            "box": [
-            -2729,
-            0,
+            279,
+            1333,
             14,
             14
            ]
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -6970,15 +7039,15 @@
            "textAlign": "left",
            "color": "#000064ff",
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             56.046875,
-            22
+            20
            ],
            "/text()": {
             "box": [
-             -2993,
-             0,
+             15,
+             1333,
              56.046875,
              20
             ]
@@ -6987,12 +7056,15 @@
           "/text()[3]": {
            "whiteSpace": true,
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             0,
             0
            ]
           }
+         },
+         "/text()[2]": {
+          "whiteSpace": true
          },
          "/div[2]": {
           "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7000,15 +7072,12 @@
           "textAlign": "left",
           "lineHeight": 21,
           "box": [
-           -2989,
-           23,
+           19,
+           1356,
            270,
            171.125
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/div[1]": {
@@ -7018,9 +7087,6 @@
            "textAlign": "left",
            "lineHeight": 21,
            "/text()[1]": {
-            "whiteSpace": true
-           },
-           "/text()[2]": {
             "whiteSpace": true
            },
            "/div[1]": {
@@ -7040,6 +7106,7 @@
              "textAlign": "left",
              "lineHeight": 21
             },
+            "/text()[1]": {},
             "/a": {
              "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_AJAXCQsetUpLink",
              "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7057,10 +7124,12 @@
              "textAlign": "left",
              "lineHeight": 21
             },
-            "/text()[1]": {},
             "/text()[2]": {
              "whiteSpace": true
             }
+           },
+           "/text()[2]": {
+            "whiteSpace": true
            },
            "/div[2]": {
             "id": "VISetupDiv",
@@ -7079,6 +7148,7 @@
              "textAlign": "left",
              "lineHeight": 21
             },
+            "/text()[1]": {},
             "/a": {
              "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_AJAXVIsetupLink",
              "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7096,7 +7166,6 @@
              "textAlign": "left",
              "lineHeight": 21
             },
-            "/text()[1]": {},
             "/text()[2]": {
              "whiteSpace": true
             }
@@ -7105,6 +7174,9 @@
             "whiteSpace": true
            }
           },
+          "/text()[2]": {
+           "whiteSpace": true
+          },
           "/div[2]": {
            "id": "AJAXLoginDiv",
            "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7112,15 +7184,12 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             270,
             141
            ],
            "/text()[1]": {
-            "whiteSpace": true
-           },
-           "/text()[2]": {
             "whiteSpace": true
            },
            "/div[1]": {
@@ -7142,6 +7211,9 @@
             },
             "/text()": {}
            },
+           "/text()[2]": {
+            "whiteSpace": true
+           },
            "/div[2]": {
             "id": "loginIntroDiv",
             "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7149,8 +7221,8 @@
             "textAlign": "left",
             "lineHeight": 14,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              270,
              0
             ]
@@ -7158,8 +7230,27 @@
            "/text()[3]": {
             "whiteSpace": true
            },
-           "/text()[4]": {
-            "whiteSpace": true
+           "/a[1]": {
+            "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_cbAJAXRegisterLink",
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": 13,
+            "textAlign": "left",
+            "color": "#1e3e8cff",
+            "lineHeight": 21,
+            "box": [
+             19,
+             1359,
+             143.796875,
+             15
+            ],
+            "/text()": {
+             "box": [
+              19,
+              1359,
+              143.796875,
+              15
+             ]
+            }
            },
            "/br[1]": {
             "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7167,40 +7258,13 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              0,
              0
             ]
            },
-           "/br[2]": {
-            "fontFamily": "Arial, Helvetica, sans-serif",
-            "fontSize": 13,
-            "textAlign": "left",
-            "lineHeight": 21,
-            "box": [
-             -2989,
-             23,
-             0,
-             0
-            ]
-           },
-           "/text()[5]": {
-            "whiteSpace": true
-           },
-           "/br[3]": {
-            "fontFamily": "Arial, Helvetica, sans-serif",
-            "fontSize": 13,
-            "textAlign": "left",
-            "lineHeight": 21,
-            "box": [
-             -2989,
-             23,
-             0,
-             0
-            ]
-           },
-           "/text()[6]": {
+           "/text()[4]": {
             "whiteSpace": true
            },
            "/b[1]": {
@@ -7210,19 +7274,63 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             47,
+             19,
+             1380,
              94.171875,
              15
             ],
             "/text()": {
              "box": [
-              -2989,
-              47,
+              19,
+              1380,
               94.171875,
               15
              ]
             }
+           },
+           "/br[2]": {
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": 13,
+            "textAlign": "left",
+            "lineHeight": 21,
+            "box": [
+             19,
+             1356,
+             0,
+             0
+            ]
+           },
+           "/text()[5]": {
+            "whiteSpace": true
+           },
+           "/input[1]": {
+            "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_loginEmail",
+            "fontFamily": "Arial",
+            "fontSize": 11,
+            "backgroundColor": "#ffffffff",
+            "border": "2px inset rgb(118, 118, 118)",
+            "cursor": "text",
+            "box": [
+             19,
+             1398,
+             211,
+             18
+            ]
+           },
+           "/br[3]": {
+            "fontFamily": "Arial, Helvetica, sans-serif",
+            "fontSize": 13,
+            "textAlign": "left",
+            "lineHeight": 21,
+            "box": [
+             19,
+             1356,
+             0,
+             0
+            ]
+           },
+           "/text()[6]": {
+            "whiteSpace": true
            },
            "/b[2]": {
             "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7231,15 +7339,15 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             86,
+             19,
+             1419,
              65.75,
              15
             ],
             "/text()": {
              "box": [
-              -2989,
-              86,
+              19,
+              1419,
               65.75,
               15
              ]
@@ -7251,28 +7359,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              0,
              0
             ]
            },
            "/text()[7]": {
             "whiteSpace": true
-           },
-           "/input[1]": {
-            "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_loginEmail",
-            "fontFamily": "Arial",
-            "fontSize": 11,
-            "backgroundColor": "#ffffffff",
-            "border": "2px inset rgb(118, 118, 118)",
-            "cursor": "text",
-            "box": [
-             -2989,
-             65,
-             211,
-             18
-            ]
            },
            "/input[2]": {
             "id": "loginPW",
@@ -7282,9 +7376,9 @@
             "border": "2px inset rgb(118, 118, 118)",
             "cursor": "text",
             "box": [
-             -2989,
-             104,
-             151,
+             19,
+             1437,
+             146,
              17
             ]
            },
@@ -7294,36 +7388,14 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              0,
              0
             ]
            },
            "/text()[8]": {
             "whiteSpace": true
-           },
-           "/a[1]": {
-            "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_cbAJAXRegisterLink",
-            "fontFamily": "Arial, Helvetica, sans-serif",
-            "fontSize": 13,
-            "textAlign": "left",
-            "color": "#1e3e8cff",
-            "lineHeight": 21,
-            "box": [
-             -2989,
-             26,
-             143.796875,
-             15
-            ],
-            "/text()": {
-             "box": [
-              -2989,
-              26,
-              143.796875,
-              15
-             ]
-            }
            },
            "/a[2]": {
             "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets_AJAXLogin_AJAXForgotPWLink",
@@ -7334,15 +7406,15 @@
             "cursor": "pointer",
             "lineHeight": 21,
             "box": [
-             -2989,
-             124,
+             19,
+             1457,
              105.5,
              15
             ],
             "/text()": {
              "box": [
-              -2989,
-              124,
+              19,
+              1457,
               105.5,
               15
              ]
@@ -7354,8 +7426,8 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              0,
              0
             ]
@@ -7369,8 +7441,8 @@
             "fontSize": 11,
             "cursor": "default",
             "box": [
-             -2989,
-             144,
+             19,
+             1477,
              13,
              13
             ]
@@ -7378,8 +7450,8 @@
            "/text()[10]": {
             "whiteSpace": true,
             "box": [
-             -2976,
-             145,
+             32,
+             1478,
              3.625,
              15
             ]
@@ -7391,16 +7463,16 @@
             "cursor": "default",
             "lineHeight": 21,
             "box": [
-             -2972.375,
-             148,
+             35.625,
+             1481,
              153.953125,
              11
             ],
             "/text()": {
              "box": [
-              -2973.375,
-              148,
-              156,
+              35.625,
+              1481,
+              153.953125,
               11
              ]
             }
@@ -7408,8 +7480,8 @@
            "/text()[11]": {
             "whiteSpace": true,
             "box": [
-             -2989,
-             23,
+             19,
+             1356,
              0,
              0
             ]
@@ -7425,19 +7497,22 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            164,
+            19,
+            1497,
             270,
             30.125
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/center": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 13,
             "textAlign": "-webkit-center",
             "lineHeight": 21,
             "box": [
-             -2989,
-             164,
+             19,
+             1497,
              270,
              30.125
             ],
@@ -7456,23 +7531,20 @@
              "borderBottom": "1px solid rgb(204, 51, 0)",
              "cursor": "default",
              "box": [
-              -2882,
-              169,
+              126,
+              1502,
               55.984375,
               25.125
              ],
              "/text()": {
               "box": [
-               -2877.4375,
-               173.5625,
+               130.5625,
+               1506.5625,
                46.859375,
                16
               ]
              }
             }
-           },
-           "/text()[1]": {
-            "whiteSpace": true
            },
            "/text()[2]": {
             "whiteSpace": true
@@ -7499,15 +7571,12 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           296,
           113.125
          ],
          "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
           "whiteSpace": true
          },
          "/div[1]": {
@@ -7515,11 +7584,14 @@
           "fontSize": 12,
           "textAlign": "left",
           "box": [
-           -2993,
-           0,
+           15,
+           1333,
            278,
            21
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/div": {
            "fontFamily": "Arial, Helvetica, sans-serif",
            "fontSize": 12,
@@ -7527,14 +7599,11 @@
            "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
            "cursor": "pointer",
            "box": [
-            -2729,
-            0,
+            279,
+            1333,
             14,
             14
            ]
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -7546,15 +7615,15 @@
            "textAlign": "left",
            "color": "#000064ff",
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             48.015625,
-            22
+            20
            ],
            "/text()": {
             "box": [
-             -2993,
-             0,
+             15,
+             1333,
              48.015625,
              20
             ]
@@ -7563,12 +7632,15 @@
           "/text()[3]": {
            "whiteSpace": true,
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             0,
             0
            ]
           }
+         },
+         "/text()[2]": {
+          "whiteSpace": true
          },
          "/div[2]": {
           "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7576,42 +7648,12 @@
           "textAlign": "left",
           "lineHeight": 21,
           "box": [
-           -2989,
-           23,
+           19,
+           1356,
            270,
            72.125
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
-           "whiteSpace": true
-          },
-          "/br[1]": {
-           "fontFamily": "Arial, Helvetica, sans-serif",
-           "fontSize": 13,
-           "textAlign": "left",
-           "lineHeight": 21,
-           "box": [
-            -2989,
-            23,
-            0,
-            0
-           ]
-          },
-          "/br[2]": {
-           "fontFamily": "Arial, Helvetica, sans-serif",
-           "fontSize": 13,
-           "textAlign": "left",
-           "lineHeight": 21,
-           "box": [
-            -2989,
-            23,
-            0,
-            0
-           ]
-          },
-          "/text()[3]": {
            "whiteSpace": true
           },
           "/div[1]": {
@@ -7621,11 +7663,41 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             270,
             0
            ]
+          },
+          "/br[1]": {
+           "fontFamily": "Arial, Helvetica, sans-serif",
+           "fontSize": 13,
+           "textAlign": "left",
+           "lineHeight": 21,
+           "box": [
+            19,
+            1356,
+            0,
+            0
+           ]
+          },
+          "/text()[2]": {
+           "whiteSpace": true
+          },
+          "/br[2]": {
+           "fontFamily": "Arial, Helvetica, sans-serif",
+           "fontSize": 13,
+           "textAlign": "left",
+           "lineHeight": 21,
+           "box": [
+            19,
+            1356,
+            0,
+            0
+           ]
+          },
+          "/text()[3]": {
+           "whiteSpace": true
           },
           "/div[2]": {
            "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7633,19 +7705,22 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            65,
+            19,
+            1398,
             270,
             30.125
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/center": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 13,
             "textAlign": "-webkit-center",
             "lineHeight": 21,
             "box": [
-             -2989,
-             65,
+             19,
+             1398,
              270,
              30.125
             ],
@@ -7663,23 +7738,20 @@
              "borderBottom": "1px solid rgb(204, 51, 0)",
              "cursor": "default",
              "box": [
-              -2882.015625,
-              70,
+              125.984375,
+              1403,
               56.015625,
               25.125
              ],
              "/text()": {
               "box": [
-               -2877.453125,
-               74.5625,
+               130.546875,
+               1407.5625,
                46.890625,
                16
               ]
              }
             }
-           },
-           "/text()[1]": {
-            "whiteSpace": true
            },
            "/text()[2]": {
             "whiteSpace": true
@@ -7706,15 +7778,12 @@
          "border": "1px solid rgb(170, 170, 170)",
          "zIndex": "100001",
          "box": [
-          -3002,
-          -5,
+          6,
+          1328,
           296,
           166
          ],
          "/text()[1]": {
-          "whiteSpace": true
-         },
-         "/text()[2]": {
           "whiteSpace": true
          },
          "/div[1]": {
@@ -7722,11 +7791,14 @@
           "fontSize": 12,
           "textAlign": "left",
           "box": [
-           -2993,
-           0,
+           15,
+           1333,
            278,
            21
           ],
+          "/text()[1]": {
+           "whiteSpace": true
+          },
           "/div": {
            "fontFamily": "Arial, Helvetica, sans-serif",
            "fontSize": 12,
@@ -7734,14 +7806,11 @@
            "backgroundImage": "url(\"http://img.icbdr.com/images/js/widgets/close.gif\")",
            "cursor": "pointer",
            "box": [
-            -2729,
-            0,
+            279,
+            1333,
             14,
             14
            ]
-          },
-          "/text()[1]": {
-           "whiteSpace": true
           },
           "/text()[2]": {
            "whiteSpace": true
@@ -7753,16 +7822,16 @@
            "textAlign": "left",
            "color": "#000064ff",
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             105.0625,
-            22
+            20
            ],
            "/text()": {
             "box": [
-             -2994,
-             0,
-             107,
+             15,
+             1333,
+             105.0625,
              20
             ]
            }
@@ -7770,12 +7839,15 @@
           "/text()[3]": {
            "whiteSpace": true,
            "box": [
-            -2993,
-            0,
+            15,
+            1333,
             0,
             0
            ]
           }
+         },
+         "/text()[2]": {
+          "whiteSpace": true
          },
          "/div[2]": {
           "fontFamily": "Arial, Helvetica, sans-serif",
@@ -7783,19 +7855,27 @@
           "textAlign": "left",
           "lineHeight": 21,
           "box": [
-           -2989,
-           23,
+           19,
+           1356,
            270,
            125
           ],
+          "/text()[1]": {
+           "box": [
+            19,
+            1359,
+            230.109375,
+            36
+           ]
+          },
           "/br[1]": {
            "fontFamily": "Arial, Helvetica, sans-serif",
            "fontSize": 13,
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             0,
             0
            ]
@@ -7806,8 +7886,8 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             0,
             0
            ]
@@ -7818,18 +7898,10 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            23,
+            19,
+            1356,
             0,
             0
-           ]
-          },
-          "/text()[1]": {
-           "box": [
-            -2989,
-            26,
-            230.109375,
-            36
            ]
           },
           "/text()[2]": {
@@ -7841,19 +7913,22 @@
            "textAlign": "left",
            "lineHeight": 21,
            "box": [
-            -2989,
-            107,
+            19,
+            1440,
             270,
             41
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/center": {
             "fontFamily": "Arial, Helvetica, sans-serif",
             "fontSize": 13,
             "textAlign": "-webkit-center",
             "lineHeight": 21,
             "box": [
-             -2989,
-             107,
+             19,
+             1440,
              270,
              20
             ],
@@ -7863,8 +7938,8 @@
              "textAlign": "-webkit-center",
              "lineHeight": 21,
              "box": [
-              -2864,
-              107,
+              144,
+              1440,
               20,
               20
              ]
@@ -7876,14 +7951,11 @@
             "textAlign": "left",
             "lineHeight": 21,
             "box": [
-             -2989,
-             127,
+             19,
+             1460,
              0,
              0
             ]
-           },
-           "/text()[1]": {
-            "whiteSpace": true
            },
            "/text()[2]": {
             "whiteSpace": true
@@ -7936,12 +8008,6 @@
         "/text()[31]": {
          "whiteSpace": true
         },
-        "/style[1]": {
-         "fontFamily": "Arial, Helvetica, sans-serif",
-         "fontSize": 12,
-         "textAlign": "center",
-         "/text()": {}
-        },
         "/style[2]": {
          "fontFamily": "Arial, Helvetica, sans-serif",
          "fontSize": 12,
@@ -7967,16 +8033,16 @@
           8,
           405,
           374,
-          218
+          211
          ],
+         "/text()[1]": {
+          "whiteSpace": true
+         },
          "/input": {
           "id": "hdnExternalURL",
           "fontFamily": "Arial",
           "fontSize": 11,
           "cursor": "default"
-         },
-         "/text()[1]": {
-          "whiteSpace": true
          },
          "/text()[2]": {
           "whiteSpace": true
@@ -7990,12 +8056,9 @@
            15,
            415,
            360,
-           201
+           194
           ],
           "/text()[1]": {
-           "whiteSpace": true
-          },
-          "/text()[2]": {
            "whiteSpace": true
           },
           "/div[1]": {
@@ -8009,6 +8072,23 @@
             350,
             15
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
+           "/p[1]": {
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": 13,
+            "textAlign": "left",
+            "box": [
+             20,
+             415,
+             350,
+             0
+            ],
+            "/text()": {
+             "whiteSpace": true
+            }
+           },
            "/div": {
             "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucExternalAskInfo_externalInfoClose",
             "fontFamily": "Arial, sans-serif",
@@ -8022,9 +8102,6 @@
              14,
              14
             ]
-           },
-           "/text()[1]": {
-            "whiteSpace": true
            },
            "/text()[2]": {
             "whiteSpace": true
@@ -8058,20 +8135,6 @@
              0
             ]
            },
-           "/p[1]": {
-            "fontFamily": "Arial, sans-serif",
-            "fontSize": 13,
-            "textAlign": "left",
-            "box": [
-             20,
-             415,
-             350,
-             0
-            ],
-            "/text()": {
-             "whiteSpace": true
-            }
-           },
            "/p[2]": {
             "fontFamily": "Arial, sans-serif",
             "fontSize": 13,
@@ -8087,6 +8150,9 @@
             "whiteSpace": true
            }
           },
+          "/text()[2]": {
+           "whiteSpace": true
+          },
           "/div[2]": {
            "id": "externalInfoBody",
            "fontFamily": "Arial, sans-serif",
@@ -8096,8 +8162,11 @@
             20,
             443,
             345,
-            173
+            166
            ],
+           "/text()[1]": {
+            "whiteSpace": true
+           },
            "/strong": {
             "fontFamily": "Arial, sans-serif",
             "fontSize": 11,
@@ -8111,9 +8180,9 @@
             ],
             "/text()": {
              "box": [
-              19,
+              20,
               443,
-              276,
+              274,
               24
              ]
             }
@@ -8140,9 +8209,6 @@
              0
             ]
            },
-           "/text()[1]": {
-            "whiteSpace": true
-           },
            "/text()[2]": {
             "whiteSpace": true
            },
@@ -8158,9 +8224,9 @@
             ],
             "/text()": {
              "box": [
-              19,
+              20,
               479,
-              324,
+              322.859375,
               12
              ]
             }
@@ -8176,18 +8242,21 @@
              20,
              502,
              345,
-             114
+             107
             ],
+            "/text()[1]": {
+             "whiteSpace": true
+            },
             "/table": {
              "id": "tblDataInput",
              "fontFamily": "Arial, sans-serif",
              "fontSize": 11,
              "textAlign": "left",
              "box": [
-              24.953125,
+              21.953125,
               502,
-              335.078125,
-              50
+              341.078125,
+              43
              ],
              "/text()": {
               "whiteSpace": true
@@ -8197,10 +8266,10 @@
               "fontSize": 11,
               "textAlign": "left",
               "box": [
-               26.953125,
+               23.953125,
                504,
-               331.078125,
-               46
+               337.078125,
+               39
               ],
               "/tr[1]": {
                "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucExternalAskInfo_tblRowRequired",
@@ -8208,21 +8277,27 @@
                "fontSize": 11,
                "textAlign": "left",
                "box": [
-                26.953125,
+                23.953125,
                 504,
-                331.078125,
-                15.59375
+                337.078125,
+                13
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/td": {
                 "fontFamily": "Arial, sans-serif",
                 "fontSize": 11,
                 "textAlign": "right",
                 "box": [
-                 26.953125,
+                 23.953125,
                  504,
-                 331.078125,
-                 15.59375
+                 337.078125,
+                 13
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/span": {
                  "fontFamily": "arial, helvetica",
                  "fontSize": 10,
@@ -8230,54 +8305,48 @@
                  "textAlign": "right",
                  "color": "#ff6600ff",
                  "box": [
-                  307.015625,
-                  506.296875,
+                  310.015625,
+                  505,
                   50.015625,
                   11
                  ],
                  "/text()": {
                   "box": [
-                   306.015625,
-                   506.296875,
-                   52,
+                   310.015625,
+                   505,
+                   50.015625,
                    11
                   ]
                  }
                 },
-                "/text()[1]": {
-                 "whiteSpace": true
-                },
                 "/text()[2]": {
                  "whiteSpace": true,
                  "box": [
-                  26.953125,
+                  23.953125,
                   504,
                   0,
                   0
                  ]
                 }
                },
-               "/text()[1]": {
-                "whiteSpace": true
-               },
                "/text()[2]": {
                 "whiteSpace": true
                }
+              },
+              "/text()[1]": {
+               "whiteSpace": true
               },
               "/tr[2]": {
                "fontFamily": "Arial, sans-serif",
                "fontSize": 11,
                "textAlign": "left",
                "box": [
-                26.953125,
-                521.59375,
-                331.078125,
-                24
+                23.953125,
+                519,
+                337.078125,
+                20
                ],
                "/text()[1]": {
-                "whiteSpace": true
-               },
-               "/text()[2]": {
                 "whiteSpace": true
                },
                "/td[1]": {
@@ -8285,54 +8354,60 @@
                 "fontSize": 11,
                 "textAlign": "left",
                 "box": [
-                 26.953125,
-                 521.59375,
+                 23.953125,
+                 519,
                  38.078125,
-                 24
+                 20
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/strong": {
                  "fontFamily": "Arial, sans-serif",
                  "fontSize": 11,
                  "fontWeight": "700",
                  "textAlign": "left",
                  "box": [
-                  27.953125,
-                  527.59375,
+                  24.953125,
+                  523,
                   36.078125,
                   12
                  ],
                  "/text()": {
                   "box": [
-                   27.953125,
-                   527.59375,
+                   24.953125,
+                   523,
                    36.078125,
                    12
                   ]
                  }
                 },
-                "/text()[1]": {
-                 "whiteSpace": true
-                },
                 "/text()[2]": {
                  "whiteSpace": true,
                  "box": [
-                  26.953125,
-                  521.59375,
+                  23.953125,
+                  519,
                   0,
                   0
                  ]
                 }
+               },
+               "/text()[2]": {
+                "whiteSpace": true
                },
                "/td[2]": {
                 "fontFamily": "Arial, sans-serif",
                 "fontSize": 11,
                 "textAlign": "left",
                 "box": [
-                 67.03125,
-                 521.59375,
-                 291,
-                 24
+                 64.03125,
+                 519,
+                 297,
+                 20
                 ],
+                "/text()[1]": {
+                 "whiteSpace": true
+                },
                 "/input": {
                  "id": "txtUserEmail",
                  "fontFamily": "Arial",
@@ -8341,20 +8416,17 @@
                  "border": "2px inset rgb(118, 118, 118)",
                  "cursor": "text",
                  "box": [
-                  68.03125,
-                  524.59375,
-                  289,
+                  65.03125,
+                  520,
+                  295,
                   18
                  ]
-                },
-                "/text()[1]": {
-                 "whiteSpace": true
                 },
                 "/text()[2]": {
                  "whiteSpace": true,
                  "box": [
-                  67.03125,
-                  521.59375,
+                  64.03125,
+                  519,
                   0,
                   0
                  ]
@@ -8364,9 +8436,6 @@
                 "whiteSpace": true
                }
               },
-              "/text()[1]": {
-               "whiteSpace": true
-              },
               "/text()[2]": {
                "whiteSpace": true
               },
@@ -8375,25 +8444,25 @@
                "fontSize": 11,
                "textAlign": "left",
                "box": [
-                26.953125,
-                547.59375,
-                331.078125,
-                2.40625
+                23.953125,
+                541,
+                337.078125,
+                2
                ],
+               "/text()[1]": {
+                "whiteSpace": true
+               },
                "/td": {
                 "fontFamily": "Arial, sans-serif",
                 "fontSize": 11,
                 "textAlign": "left",
                 "box": [
-                 26.953125,
-                 547.59375,
-                 331.078125,
-                 2.40625
+                 23.953125,
+                 541,
+                 337.078125,
+                 2
                 ],
                 "/text()[1]": {
-                 "whiteSpace": true
-                },
-                "/text()[2]": {
                  "whiteSpace": true
                 },
                 "/span[1]": {
@@ -8404,6 +8473,9 @@
                  "textAlign": "left",
                  "color": "#ff6600ff",
                  "/text()": {}
+                },
+                "/text()[2]": {
+                 "whiteSpace": true
                 },
                 "/span[2]": {
                  "id": "spanNameMissing",
@@ -8430,9 +8502,6 @@
                  "whiteSpace": true
                 }
                },
-               "/text()[1]": {
-                "whiteSpace": true
-               },
                "/text()[2]": {
                 "whiteSpace": true
                }
@@ -8442,13 +8511,7 @@
               }
              }
             },
-            "/text()[1]": {
-             "whiteSpace": true
-            },
             "/text()[2]": {
-             "whiteSpace": true
-            },
-            "/text()[3]": {
              "whiteSpace": true
             },
             "/div[1]": {
@@ -8458,10 +8521,13 @@
              "textAlign": "center",
              "box": [
               20,
-              552,
+              545,
               345,
               28
              ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
              "/input": {
               "id": "btnGoExternal",
               "fontFamily": "Arial",
@@ -8478,23 +8544,23 @@
               "cursor": "default",
               "box": [
                120.9375,
-               562,
+               555,
                143.125,
                18
               ]
-             },
-             "/text()[1]": {
-              "whiteSpace": true
              },
              "/text()[2]": {
               "whiteSpace": true,
               "box": [
                20,
-               552,
+               545,
                0,
                0
               ]
              }
+            },
+            "/text()[3]": {
+             "whiteSpace": true
             },
             "/div[2]": {
              "fontFamily": "Arial, sans-serif",
@@ -8502,10 +8568,13 @@
              "textAlign": "-webkit-center",
              "box": [
               20,
-              580,
+              573,
               345,
               36
              ],
+             "/text()[1]": {
+              "whiteSpace": true
+             },
              "/a": {
               "id": "JobDetails_ucJobDetailsSkin__ucOldWidgets__ucExternalAskInfo_cbhlTerms",
               "fontFamily": "Arial, sans-serif",
@@ -8515,10 +8584,18 @@
               "cursor": "pointer",
               "box": [
                33.8125,
-               580,
+               573,
                317.359375,
                36
               ],
+              "/text()[1]": {
+               "box": [
+                33.8125,
+                573,
+                317.359375,
+                24
+               ]
+              },
               "/b": {
                "fontFamily": "Arial, sans-serif",
                "fontSize": 11,
@@ -8528,44 +8605,33 @@
                "cursor": "pointer",
                "box": [
                 108.140625,
-                592,
+                585,
                 241.6875,
                 24
                ],
                "/text()": {
                 "box": [
                  108.140625,
-                 592,
-                 242.875,
+                 585,
+                 241.6875,
                  24
                 ]
                }
               },
-              "/text()[1]": {
-               "box": [
-                33.8125,
-                580,
-                317.359375,
-                24
-               ]
-              },
               "/text()[2]": {
                "box": [
                 165.578125,
-                604,
+                597,
                 111.28125,
                 12
                ]
               }
              },
-             "/text()[1]": {
-              "whiteSpace": true
-             },
              "/text()[2]": {
               "whiteSpace": true,
               "box": [
                20,
-               580,
+               573,
                0,
                0
               ]
@@ -8606,9 +8672,6 @@
          "whiteSpace": true
         }
        },
-       "/text()[1]": {
-        "whiteSpace": true
-       },
        "/text()[2]": {
         "whiteSpace": true
        },
@@ -8646,12 +8709,6 @@
       "/text()[19]": {
        "whiteSpace": true
       },
-      "/input[1]": {
-       "id": "__VIEWSTATE",
-       "fontFamily": "Arial",
-       "fontSize": 11,
-       "cursor": "default"
-      },
       "/input[2]": {
        "id": "__EVENTVALIDATION",
        "fontFamily": "Arial",
@@ -8670,19 +8727,16 @@
        "whiteSpace": true
       }
      },
-     "/text()[1]": {
-      "whiteSpace": true
-     },
      "/text()[2]": {
       "whiteSpace": true
      }
     },
-    "/text()[1]": {
-     "whiteSpace": true
-    },
     "/text()[2]": {
      "whiteSpace": true
     }
+   },
+   "/text()[2]": {
+    "whiteSpace": true
    },
    "/div[2]": {
     "fontFamily": "Arial, Helvetica, sans-serif",
@@ -8693,13 +8747,13 @@
     "/text()[2]": {
      "whiteSpace": true
     },
-    "/text()[3]": {
-     "whiteSpace": true
-    },
     "/script[1]": {
      "fontFamily": "Arial, Helvetica, sans-serif",
      "fontSize": 12,
      "/text()": {}
+    },
+    "/text()[3]": {
+     "whiteSpace": true
     },
     "/script[2]": {
      "fontFamily": "Arial, Helvetica, sans-serif",
@@ -8724,7 +8778,10 @@
     "/noscript": {
      "fontFamily": "Arial, Helvetica, sans-serif",
      "fontSize": 12,
-     "/text()": {}
+     "/img": {
+      "fontFamily": "Arial, Helvetica, sans-serif",
+      "fontSize": 12
+     }
     },
     "/text()[6]": {
      "whiteSpace": true
@@ -8744,14 +8801,10 @@
     "fontSize": 12,
     "/text()": {}
    },
-   "/script[2]": {
-    "fontFamily": "Arial, Helvetica, sans-serif",
-    "fontSize": 12
-   },
    "/text()[5]": {
     "whiteSpace": true
    },
-   "/script[3]": {
+   "/script[2]": {
     "fontFamily": "Arial, Helvetica, sans-serif",
     "fontSize": 12,
     "/text()": {}
@@ -8762,21 +8815,52 @@
    "/noscript": {
     "fontFamily": "Arial, Helvetica, sans-serif",
     "fontSize": 12,
-    "/text()": {}
+    "box": [
+     8,
+     1352,
+     16,
+     14
+    ],
+    "/text()[1]": {
+     "whiteSpace": true,
+     "box": [
+      8,
+      1347,
+      0,
+      0
+     ]
+    },
+    "/img": {
+     "fontFamily": "Arial, Helvetica, sans-serif",
+     "fontSize": 12,
+     "box": [
+      8,
+      1347,
+      16,
+      16
+     ]
+    },
+    "/text()[2]": {
+     "whiteSpace": true,
+     "box": [
+      8,
+      1347,
+      0,
+      0
+     ]
+    }
    },
    "/text()[7]": {
-    "whiteSpace": true
+    "whiteSpace": true,
+    "box": [
+     8,
+     1347,
+     0,
+     0
+    ]
    },
    "/text()[8]": {
     "whiteSpace": true
-   },
-   "/script[4]": {
-    "fontFamily": "Arial, Helvetica, sans-serif",
-    "fontSize": 12
-   },
-   "/script[5]": {
-    "fontFamily": "Arial, Helvetica, sans-serif",
-    "fontSize": 12
    }
   }
  }
